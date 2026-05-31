@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kyle-pierce.github.io/temper-docs/sitemap.xml

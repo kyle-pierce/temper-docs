@@ -1,0 +1,147 @@
+{
+  "format": "temper_program",
+  "version": "1.0",
+  "program": {
+    "name": "Full Body 3-Day",
+    "description": "3-day full body program for beginners and intermediates. Each day hits all major muscle groups with slightly different movement patterns.",
+    "cycle": ["Full Body A", "Rest", "Full Body B", "Rest", "Full Body C", "Rest", "Rest"],
+    "workouts": [
+      {
+        "name": "Full Body A",
+        "focus": "Squat & Press",
+        "exercises": [
+          {
+            "exerciseName": "Squat",
+            "sets": 4,
+            "repRange": { "min": 5, "max": 8 },
+            "restSeconds": 150,
+            "setTypes": ["warmup", "work", "work", "work"]
+          },
+          {
+            "exerciseName": "Bench Press",
+            "sets": 4,
+            "repRange": { "min": 6, "max": 10 },
+            "restSeconds": 120,
+            "setTypes": ["warmup", "work", "work", "work"]
+          },
+          {
+            "exerciseName": "Barbell Row",
+            "sets": 3,
+            "repRange": { "min": 8, "max": 12 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Romanian Deadlift",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Lateral Raise",
+            "sets": 3,
+            "repRange": { "min": 15, "max": 20 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Calf Raise",
+            "sets": 3,
+            "repRange": { "min": 15, "max": 20 },
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "name": "Full Body B",
+        "focus": "Hinge & Pull",
+        "exercises": [
+          {
+            "exerciseName": "Deadlift",
+            "sets": 4,
+            "repRange": { "min": 4, "max": 6 },
+            "restSeconds": 180,
+            "setTypes": ["warmup", "work", "work", "work"]
+          },
+          {
+            "exerciseName": "Overhead Press",
+            "sets": 4,
+            "repRange": { "min": 6, "max": 10 },
+            "restSeconds": 120,
+            "setTypes": ["warmup", "work", "work", "work"]
+          },
+          {
+            "exerciseName": "Lat Pulldown",
+            "sets": 3,
+            "repRange": { "min": 8, "max": 12 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Leg Press",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Bicep Curl",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "name": "Full Body C",
+        "focus": "Volume Day",
+        "exercises": [
+          {
+            "exerciseName": "Bulgarian Split Squat",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Incline Dumbbell Press",
+            "sets": 4,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Pull-Up",
+            "sets": 3,
+            "repRange": { "min": 6, "max": 10 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Hip Thrust",
+            "sets": 3,
+            "repRange": { "min": 12, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Face Pull",
+            "sets": 3,
+            "repRange": { "min": 15, "max": 20 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Leg Curl",
+            "sets": 3,
+            "repRange": { "min": 12, "max": 15 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Calf Raise",
+            "sets": 3,
+            "repRange": { "min": 15, "max": 20 },
+            "restSeconds": 60
+          }
+        ]
+      }
+    ]
+  }
+}

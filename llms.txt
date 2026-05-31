@@ -1,0 +1,14 @@
+# Temper Docs
+
+Temper is a mobile gym tracking app. These docs describe public formats that external tools can use to create Temper-compatible data.
+
+## Program Import
+
+Use Temper Program Import Format v1.0 to generate workout programs that can be imported into the Temper mobile app.
+
+- Guide: https://kyle-pierce.github.io/temper-docs/program-import/
+- JSON Schema: https://kyle-pierce.github.io/temper-docs/program-import/schema.json
+- Prompt Template: https://kyle-pierce.github.io/temper-docs/program-import/prompt.md
+- Example Upper/Lower Program: https://kyle-pierce.github.io/temper-docs/program-import/examples/upper-lower.json
+- Example Push/Pull/Legs Program: https://kyle-pierce.github.io/temper-docs/program-import/examples/push-pull-legs.json
+- Example Full Body Program: https://kyle-pierce.github.io/temper-docs/program-import/examples/full-body-3-day.json

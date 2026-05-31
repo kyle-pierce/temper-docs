@@ -1,0 +1,286 @@
+{
+  "format": "temper_program",
+  "version": "1.0",
+  "program": {
+    "name": "Push/Pull/Legs",
+    "description": "6-day PPL program. Runs two full cycles per week with slight volume variation between the A and B days.",
+    "cycle": ["Push A", "Pull A", "Legs A", "Push B", "Pull B", "Legs B", "Rest"],
+    "workouts": [
+      {
+        "name": "Push A",
+        "focus": "Chest Emphasis",
+        "exercises": [
+          {
+            "exerciseName": "Bench Press",
+            "sets": 4,
+            "repRange": { "min": 5, "max": 8 },
+            "restSeconds": 150,
+            "setTypes": ["warmup", "work", "work", "work"]
+          },
+          {
+            "exerciseName": "Overhead Press",
+            "sets": 3,
+            "repRange": { "min": 8, "max": 12 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Incline Dumbbell Press",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Cable Fly",
+            "sets": 3,
+            "repRange": { "min": 12, "max": 20 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Lateral Raise",
+            "sets": 4,
+            "repRange": { "min": 15, "max": 25 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Tricep Pushdown",
+            "sets": 3,
+            "repRange": { "min": 12, "max": 15 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Overhead Tricep Extension",
+            "sets": 3,
+            "repRange": { "min": 12, "max": 15 },
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "name": "Pull A",
+        "focus": "Back Thickness",
+        "exercises": [
+          {
+            "exerciseName": "Deadlift",
+            "sets": 3,
+            "repRange": { "min": 4, "max": 6 },
+            "restSeconds": 180,
+            "setTypes": ["warmup", "work", "work"]
+          },
+          {
+            "exerciseName": "Barbell Row",
+            "sets": 4,
+            "repRange": { "min": 6, "max": 10 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Lat Pulldown",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Cable Row",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Face Pull",
+            "sets": 3,
+            "repRange": { "min": 15, "max": 25 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Bicep Curl",
+            "sets": 4,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "name": "Legs A",
+        "focus": "Quad Dominant",
+        "exercises": [
+          {
+            "exerciseName": "Squat",
+            "sets": 4,
+            "repRange": { "min": 5, "max": 8 },
+            "restSeconds": 180,
+            "setTypes": ["warmup", "work", "work", "work"]
+          },
+          {
+            "exerciseName": "Romanian Deadlift",
+            "sets": 3,
+            "repRange": { "min": 8, "max": 12 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Leg Press",
+            "sets": 3,
+            "repRange": { "min": 12, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Leg Curl",
+            "sets": 3,
+            "repRange": { "min": 12, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Leg Extension",
+            "sets": 3,
+            "repRange": { "min": 15, "max": 20 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Calf Raise",
+            "sets": 5,
+            "repRange": { "min": 15, "max": 20 },
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "name": "Push B",
+        "focus": "Shoulder Emphasis",
+        "exercises": [
+          {
+            "exerciseName": "Overhead Press",
+            "sets": 4,
+            "repRange": { "min": 5, "max": 8 },
+            "restSeconds": 150,
+            "setTypes": ["warmup", "work", "work", "work"]
+          },
+          {
+            "exerciseName": "Bench Press",
+            "sets": 3,
+            "repRange": { "min": 8, "max": 12 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Dumbbell Shoulder Press",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Lateral Raise",
+            "sets": 4,
+            "repRange": { "min": 15, "max": 25 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Cable Fly",
+            "sets": 3,
+            "repRange": { "min": 12, "max": 20 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Tricep Dip",
+            "sets": 3,
+            "repRange": { "min": 8, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Skull Crusher",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "name": "Pull B",
+        "focus": "Back Width",
+        "exercises": [
+          {
+            "exerciseName": "Pull-Up",
+            "sets": 4,
+            "repRange": { "min": 6, "max": 10 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Barbell Row",
+            "sets": 3,
+            "repRange": { "min": 8, "max": 12 },
+            "restSeconds": 120
+          },
+          {
+            "exerciseName": "Lat Pulldown",
+            "sets": 4,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Single Arm Dumbbell Row",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Face Pull",
+            "sets": 3,
+            "repRange": { "min": 15, "max": 25 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Hammer Curl",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Incline Dumbbell Curl",
+            "sets": 3,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 60
+          }
+        ]
+      },
+      {
+        "name": "Legs B",
+        "focus": "Hip Dominant",
+        "exercises": [
+          {
+            "exerciseName": "Romanian Deadlift",
+            "sets": 4,
+            "repRange": { "min": 6, "max": 10 },
+            "restSeconds": 150,
+            "setTypes": ["warmup", "work", "work", "work"]
+          },
+          {
+            "exerciseName": "Bulgarian Split Squat",
+            "sets": 3,
+            "repRange": { "min": 8, "max": 12 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Hip Thrust",
+            "sets": 4,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Leg Curl",
+            "sets": 4,
+            "repRange": { "min": 10, "max": 15 },
+            "restSeconds": 90
+          },
+          {
+            "exerciseName": "Leg Extension",
+            "sets": 3,
+            "repRange": { "min": 15, "max": 20 },
+            "restSeconds": 60
+          },
+          {
+            "exerciseName": "Calf Raise",
+            "sets": 5,
+            "repRange": { "min": 15, "max": 20 },
+            "restSeconds": 60
+          }
+        ]
+      }
+    ]
+  }
+}

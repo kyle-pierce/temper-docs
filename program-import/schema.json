@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "$id": "https://kyle-pierce.github.io/temper-docs/program-import/schema.json",
+  "title": "Temper Program Import Format v1.0",
+  "description": "Schema for importing workout programs into the Temper mobile app.",
+  "type": "object",
+  "required": ["format", "version", "program"],
+  "additionalProperties": false,
+  "properties": {
+    "format": {
+      "type": "string",
+      "const": "temper_program",
+      "description": "Must be the literal string \"temper_program\"."
+    },
+    "version": {
+      "type": "string",
+      "const": "1.0",
+      "description": "Must be the literal string \"1.0\"."
+    },
+    "program": {
+      "type": "object",
+      "required": ["name", "workouts"],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Display name of the program."
+        },
+        "description": {
+          "type": "string",
+          "description": "Optional short description shown to the user."
+        },
+        "context": {
+          "type": "string",
+          "description": "Optional free-form context used by the AI or coach when generating the program."
+        },
+        "guidelines": {
+          "type": "string",
+          "description": "Optional free-form programming guidelines or notes."
+        },
+        "structuredGuidelines": {
+          "type": "array",
+          "description": "Optional list of structured guideline strings.",
+          "items": { "type": "string" }
+        },
+        "cycle": {
+          "type": "array",
+          "description": "Ordered list of workout names (or \"Rest\") defining the repeating training cycle.",
+          "items": { "type": "string" }
+        },
+        "workouts": {
+          "type": "array",
+          "minItems": 1,
+          "description": "List of workouts in the program.",
+          "items": {
+            "type": "object",
+            "required": ["name", "exercises"],
+            "additionalProperties": false,
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Display name of the workout. Must match entries in program.cycle if cycle is provided."
+              },
+              "label": {
+                "type": "string",
+                "description": "Optional short label (e.g. \"A\", \"B\", \"Push\")."
+              },
+              "focus": {
+                "type": "string",
+                "description": "Optional description of the workout focus (e.g. \"Chest & Triceps\")."
+              },
+              "exercises": {
+                "type": "array",
+                "minItems": 1,
+                "description": "Ordered list of exercises in the workout.",
+                "items": {
+                  "type": "object",
+                  "required": ["sets", "repRange"],
+                  "additionalProperties": false,
+                  "properties": {
+                    "exerciseId": {
+                      "type": "string",
+                      "description": "Temper exercise catalog ID. Preferred over exerciseName when known."
+                    },
+                    "exerciseName": {
+                      "type": "string",
+                      "description": "Human-readable exercise name. Used when exerciseId is not known."
+                    },
+                    "sets": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "description": "Total number of sets."
+                    },
+                    "repRange": {
+                      "type": "object",
+                      "required": ["min", "max"],
+                      "additionalProperties": false,
+                      "description": "Target rep range for work sets.",
+                      "properties": {
+                        "min": { "type": "integer", "minimum": 1 },
+                        "max": { "type": "integer", "minimum": 1 }
+                      }
+                    },
+                    "restSeconds": {
+                      "type": "integer",
+                      "minimum": 0,
+                      "description": "Rest time in seconds between sets."
+                    },
+                    "setTypes": {
+                      "type": "array",
+                      "description": "Per-set type labels. Length must equal sets. Omit to default all sets to \"work\".",
+                      "items": {
+                        "type": "string",
+                        "enum": ["work", "warmup", "drop", "failure"]
+                      }
+                    },
+                    "programNotes": {
+                      "type": "string",
+                      "description": "Optional notes about this exercise visible to the user."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
