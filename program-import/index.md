@@ -56,7 +56,6 @@ Each entry in `cycle` is one of:
 |-------|------|----------|-------------|
 | `name` | `string` | Yes | Display name — must be unique |
 | `exercises` | `array` | Yes | List of exercises (minimum 1) |
-| `label` | `string` | No | Short label shown in cycle view (defaults to `name`) |
 | `focus` | `string` | No | Workout focus category — see valid values below |
 | `supersets` | `string[][]` | No | Superset groups — see below |
 

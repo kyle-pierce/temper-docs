@@ -12,7 +12,12 @@ https://kyle-pierce.github.io/temper-docs/program-import/exercises.json
 Every exercise must include a valid exerciseRef from the catalog.
 Do not invent exerciseRef values.
 If the exact exercise is not available, choose the closest appropriate exercise from the catalog.
-Include exerciseName for readability, but use exerciseRef as the authoritative identity.
+
+Critical field requirements — these are common mistakes:
+- Required top-level fields: name, context, description, workouts, cycle. No others (e.g. no version, author, schedule).
+- reps must be an object: { "min": 5, "max": 5 } — not a plain number.
+- rest must be an object: { "workSeconds": 180 } — not a plain number.
+- cycle is required. It is an array of workout name strings and/or rest day objects ({ "type": "rest" }). Strings must exactly match a workout name.
 
 Program request:
 [Describe the program here]
