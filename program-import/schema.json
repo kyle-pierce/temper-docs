@@ -4,125 +4,224 @@
   "title": "Temper Program Import Format v1.0",
   "description": "Schema for importing workout programs into the Temper mobile app.",
   "type": "object",
-  "required": ["format", "version", "program"],
+  "required": ["name", "context", "description", "workouts", "cycle"],
   "additionalProperties": false,
   "properties": {
-    "format": {
+    "name": {
       "type": "string",
-      "const": "temper_program",
-      "description": "Must be the literal string \"temper_program\"."
+      "minLength": 1,
+      "description": "Display name of the program."
     },
-    "version": {
+    "context": {
       "type": "string",
-      "const": "1.0",
-      "description": "Must be the literal string \"1.0\"."
+      "minLength": 1,
+      "description": "Context about the user or goals used when generating the program."
     },
-    "program": {
-      "type": "object",
-      "required": ["name", "workouts"],
-      "additionalProperties": false,
-      "properties": {
-        "name": {
-          "type": "string",
-          "description": "Display name of the program."
-        },
-        "description": {
-          "type": "string",
-          "description": "Optional short description shown to the user."
-        },
-        "context": {
-          "type": "string",
-          "description": "Optional free-form context used by the AI or coach when generating the program."
-        },
-        "guidelines": {
-          "type": "string",
-          "description": "Optional free-form programming guidelines or notes."
-        },
-        "structuredGuidelines": {
-          "type": "array",
-          "description": "Optional list of structured guideline strings.",
-          "items": { "type": "string" }
-        },
-        "cycle": {
-          "type": "array",
-          "description": "Ordered list of workout names (or \"Rest\") defining the repeating training cycle.",
-          "items": { "type": "string" }
-        },
-        "workouts": {
-          "type": "array",
-          "minItems": 1,
-          "description": "List of workouts in the program.",
-          "items": {
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Short description shown to the user."
+    },
+    "cycle": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Ordered list of cycle slots. Each slot is a workout name (string) or a rest day ({ \"type\": \"rest\" }).",
+      "items": {
+        "oneOf": [
+          {
+            "type": "string",
+            "minLength": 1
+          },
+          {
             "type": "object",
-            "required": ["name", "exercises"],
+            "required": ["type"],
             "additionalProperties": false,
             "properties": {
-              "name": {
-                "type": "string",
-                "description": "Display name of the workout. Must match entries in program.cycle if cycle is provided."
-              },
-              "label": {
-                "type": "string",
-                "description": "Optional short label (e.g. \"A\", \"B\", \"Push\")."
-              },
-              "focus": {
-                "type": "string",
-                "description": "Optional description of the workout focus (e.g. \"Chest & Triceps\")."
-              },
-              "exercises": {
-                "type": "array",
-                "minItems": 1,
-                "description": "Ordered list of exercises in the workout.",
-                "items": {
+              "type": { "type": "string", "const": "rest" }
+            }
+          }
+        ]
+      }
+    },
+    "workouts": {
+      "type": "array",
+      "minItems": 1,
+      "description": "List of workouts. Names must be unique.",
+      "items": {
+        "type": "object",
+        "required": ["name", "exercises"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Display name. Must be unique across all workouts and must match cycle slot strings."
+          },
+          "label": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Short label shown in the cycle view (e.g. \"A\", \"Push\"). Defaults to name."
+          },
+          "focus": {
+            "type": "string",
+            "enum": ["push", "pull", "legs", "upper", "lower", "full_body", "core"],
+            "description": "Optional workout focus category."
+          },
+          "exercises": {
+            "type": "array",
+            "minItems": 1,
+            "description": "Ordered list of exercises.",
+            "items": {
+              "type": "object",
+              "required": ["exerciseRef", "sets", "reps", "rest"],
+              "additionalProperties": false,
+              "properties": {
+                "exerciseRef": {
+                  "type": "string",
+                  "minLength": 1,
+                  "description": "Temper exercise catalog ID."
+                },
+                "sets": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "description": "Total number of sets."
+                },
+                "reps": {
                   "type": "object",
-                  "required": ["sets", "repRange"],
+                  "required": ["min", "max"],
                   "additionalProperties": false,
+                  "description": "Target rep range. min must be <= max.",
                   "properties": {
-                    "exerciseId": {
-                      "type": "string",
-                      "description": "Temper exercise catalog ID. Preferred over exerciseName when known."
-                    },
-                    "exerciseName": {
-                      "type": "string",
-                      "description": "Human-readable exercise name. Used when exerciseId is not known."
-                    },
-                    "sets": {
+                    "min": { "type": "integer", "minimum": 1 },
+                    "max": { "type": "integer", "minimum": 1 }
+                  }
+                },
+                "rest": {
+                  "type": "object",
+                  "required": ["workSeconds"],
+                  "additionalProperties": false,
+                  "description": "Rest duration configuration.",
+                  "properties": {
+                    "workSeconds": {
                       "type": "integer",
                       "minimum": 1,
-                      "description": "Total number of sets."
+                      "description": "Rest after work sets, in seconds."
                     },
-                    "repRange": {
-                      "type": "object",
-                      "required": ["min", "max"],
-                      "additionalProperties": false,
-                      "description": "Target rep range for work sets.",
-                      "properties": {
-                        "min": { "type": "integer", "minimum": 1 },
-                        "max": { "type": "integer", "minimum": 1 }
-                      }
-                    },
-                    "restSeconds": {
+                    "warmupSeconds": {
                       "type": "integer",
                       "minimum": 0,
-                      "description": "Rest time in seconds between sets."
-                    },
-                    "setTypes": {
-                      "type": "array",
-                      "description": "Per-set type labels. Length must equal sets. Omit to default all sets to \"work\".",
-                      "items": {
-                        "type": "string",
-                        "enum": ["work", "warmup", "drop", "failure"]
-                      }
-                    },
-                    "programNotes": {
-                      "type": "string",
-                      "description": "Optional notes about this exercise visible to the user."
+                      "description": "Rest after warmup sets, in seconds. Defaults to 0."
                     }
                   }
+                },
+                "setTypes": {
+                  "type": "array",
+                  "description": "Per-set type labels. Length must equal sets. Omit to default all sets to \"work\".",
+                  "items": {
+                    "type": "string",
+                    "enum": ["work", "warmup", "drop", "failure"]
+                  }
+                },
+                "notes": {
+                  "type": "string",
+                  "description": "Optional notes shown to the user for this exercise."
                 }
               }
             }
+          },
+          "supersets": {
+            "type": "array",
+            "description": "Optional superset groups. Each group lists adjacent exercise names to superset together.",
+            "items": {
+              "type": "array",
+              "minItems": 2,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
           }
+        }
+      }
+    },
+    "trainingGuidelines": {
+      "type": "object",
+      "required": ["progressionPolicy", "missedTargetPolicy", "deloadPolicy"],
+      "additionalProperties": false,
+      "description": "Optional auto-progression, missed-target, and deload policies.",
+      "properties": {
+        "progressionPolicy": {
+          "description": "How weight progresses between sessions.",
+          "oneOf": [
+            {
+              "type": "object",
+              "required": ["type"],
+              "additionalProperties": false,
+              "properties": { "type": { "type": "string", "const": "manual" } }
+            },
+            {
+              "type": "object",
+              "required": ["type", "upperBodyIncrement", "lowerBodyIncrement"],
+              "additionalProperties": false,
+              "properties": {
+                "type": { "type": "string", "const": "linear" },
+                "upperBodyIncrement": { "type": "number", "exclusiveMinimum": 0 },
+                "lowerBodyIncrement": { "type": "number", "exclusiveMinimum": 0 },
+                "requireAllWorkSetsCompleted": { "type": "boolean" }
+              }
+            },
+            {
+              "type": "object",
+              "required": ["type", "defaultIncrement"],
+              "additionalProperties": false,
+              "properties": {
+                "type": { "type": "string", "const": "double_progression" },
+                "defaultIncrement": { "type": "number", "exclusiveMinimum": 0 }
+              }
+            }
+          ]
+        },
+        "missedTargetPolicy": {
+          "description": "What happens when the user misses the rep target.",
+          "oneOf": [
+            {
+              "type": "object",
+              "required": ["type"],
+              "additionalProperties": false,
+              "properties": { "type": { "type": "string", "const": "manual" } }
+            },
+            {
+              "type": "object",
+              "required": ["type", "missesBeforeReduction", "reductionPercent"],
+              "additionalProperties": false,
+              "properties": {
+                "type": { "type": "string", "const": "repeat_then_reduce" },
+                "missesBeforeReduction": { "type": "integer", "minimum": 1 },
+                "reductionPercent": { "type": "number", "minimum": 1, "maximum": 100 }
+              }
+            }
+          ]
+        },
+        "deloadPolicy": {
+          "description": "When and how to deload.",
+          "oneOf": [
+            {
+              "type": "object",
+              "required": ["type"],
+              "additionalProperties": false,
+              "properties": { "type": { "type": "string", "const": "manual" } }
+            },
+            {
+              "type": "object",
+              "required": ["type", "everyNWeeks", "loadPercent"],
+              "additionalProperties": false,
+              "properties": {
+                "type": { "type": "string", "const": "every_n_weeks" },
+                "everyNWeeks": { "type": "integer", "minimum": 1 },
+                "loadPercent": { "type": "number", "minimum": 1, "maximum": 100 }
+              }
+            }
+          ]
         }
       }
     }

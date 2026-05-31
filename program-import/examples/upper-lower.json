@@ -1,171 +1,176 @@
 {
-  "format": "temper_program",
-  "version": "1.0",
-  "program": {
-    "name": "Upper/Lower Split",
-    "description": "4-day upper/lower program for intermediate lifters. Alternates horizontal and vertical emphasis across the two upper days.",
-    "cycle": ["Upper A", "Lower A", "Rest", "Upper B", "Lower B", "Rest", "Rest"],
-    "workouts": [
-      {
-        "name": "Upper A",
-        "focus": "Horizontal Push & Pull",
-        "exercises": [
-          {
-            "exerciseName": "Bench Press",
-            "sets": 4,
-            "repRange": { "min": 6, "max": 10 },
-            "restSeconds": 120,
-            "setTypes": ["warmup", "work", "work", "work"]
-          },
-          {
-            "exerciseName": "Barbell Row",
-            "sets": 4,
-            "repRange": { "min": 6, "max": 10 },
-            "restSeconds": 120
-          },
-          {
-            "exerciseName": "Incline Dumbbell Press",
-            "sets": 3,
-            "repRange": { "min": 10, "max": 15 },
-            "restSeconds": 90
-          },
-          {
-            "exerciseName": "Cable Row",
-            "sets": 3,
-            "repRange": { "min": 10, "max": 15 },
-            "restSeconds": 90
-          },
-          {
-            "exerciseName": "Lateral Raise",
-            "sets": 3,
-            "repRange": { "min": 15, "max": 20 },
-            "restSeconds": 60
-          },
-          {
-            "exerciseName": "Tricep Pushdown",
-            "sets": 3,
-            "repRange": { "min": 12, "max": 15 },
-            "restSeconds": 60
-          }
-        ]
-      },
-      {
-        "name": "Lower A",
-        "focus": "Quad Dominant",
-        "exercises": [
-          {
-            "exerciseName": "Squat",
-            "sets": 4,
-            "repRange": { "min": 6, "max": 10 },
-            "restSeconds": 150,
-            "setTypes": ["warmup", "work", "work", "work"]
-          },
-          {
-            "exerciseName": "Romanian Deadlift",
-            "sets": 3,
-            "repRange": { "min": 10, "max": 12 },
-            "restSeconds": 120
-          },
-          {
-            "exerciseName": "Leg Press",
-            "sets": 3,
-            "repRange": { "min": 12, "max": 15 },
-            "restSeconds": 90
-          },
-          {
-            "exerciseName": "Leg Curl",
-            "sets": 3,
-            "repRange": { "min": 12, "max": 15 },
-            "restSeconds": 90
-          },
-          {
-            "exerciseName": "Calf Raise",
-            "sets": 4,
-            "repRange": { "min": 15, "max": 20 },
-            "restSeconds": 60
-          }
-        ]
-      },
-      {
-        "name": "Upper B",
-        "focus": "Vertical Push & Pull",
-        "exercises": [
-          {
-            "exerciseName": "Overhead Press",
-            "sets": 4,
-            "repRange": { "min": 6, "max": 10 },
-            "restSeconds": 120,
-            "setTypes": ["warmup", "work", "work", "work"]
-          },
-          {
-            "exerciseName": "Pull-Up",
-            "sets": 4,
-            "repRange": { "min": 6, "max": 10 },
-            "restSeconds": 120
-          },
-          {
-            "exerciseName": "Dumbbell Shoulder Press",
-            "sets": 3,
-            "repRange": { "min": 10, "max": 15 },
-            "restSeconds": 90
-          },
-          {
-            "exerciseName": "Lat Pulldown",
-            "sets": 3,
-            "repRange": { "min": 10, "max": 15 },
-            "restSeconds": 90
-          },
-          {
-            "exerciseName": "Face Pull",
-            "sets": 3,
-            "repRange": { "min": 15, "max": 20 },
-            "restSeconds": 60
-          },
-          {
-            "exerciseName": "Bicep Curl",
-            "sets": 3,
-            "repRange": { "min": 12, "max": 15 },
-            "restSeconds": 60
-          }
-        ]
-      },
-      {
-        "name": "Lower B",
-        "focus": "Hip Dominant",
-        "exercises": [
-          {
-            "exerciseName": "Deadlift",
-            "sets": 4,
-            "repRange": { "min": 4, "max": 6 },
-            "restSeconds": 180,
-            "setTypes": ["warmup", "work", "work", "work"]
-          },
-          {
-            "exerciseName": "Bulgarian Split Squat",
-            "sets": 3,
-            "repRange": { "min": 8, "max": 12 },
-            "restSeconds": 90
-          },
-          {
-            "exerciseName": "Hip Thrust",
-            "sets": 3,
-            "repRange": { "min": 10, "max": 15 },
-            "restSeconds": 90
-          },
-          {
-            "exerciseName": "Leg Extension",
-            "sets": 3,
-            "repRange": { "min": 15, "max": 20 },
-            "restSeconds": 60
-          },
-          {
-            "exerciseName": "Calf Raise",
-            "sets": 4,
-            "repRange": { "min": 15, "max": 20 },
-            "restSeconds": 60
-          }
-        ]
-      }
-    ]
-  }
+  "name": "Upper/Lower Split",
+  "context": "Intermediate lifter, training 4 days per week, focused on hypertrophy.",
+  "description": "4-day upper/lower program alternating horizontal and vertical emphasis across the two upper days.",
+  "cycle": [
+    "Upper A",
+    "Lower A",
+    { "type": "rest" },
+    "Upper B",
+    "Lower B",
+    { "type": "rest" },
+    { "type": "rest" }
+  ],
+  "workouts": [
+    {
+      "name": "Upper A",
+      "focus": "upper",
+      "exercises": [
+        {
+          "exerciseRef": "bench_press",
+          "sets": 4,
+          "reps": { "min": 6, "max": 10 },
+          "rest": { "workSeconds": 120, "warmupSeconds": 60 },
+          "setTypes": ["warmup", "work", "work", "work"]
+        },
+        {
+          "exerciseRef": "barbell_row",
+          "sets": 4,
+          "reps": { "min": 6, "max": 10 },
+          "rest": { "workSeconds": 120 }
+        },
+        {
+          "exerciseRef": "incline_dumbbell_press",
+          "sets": 3,
+          "reps": { "min": 10, "max": 15 },
+          "rest": { "workSeconds": 90 }
+        },
+        {
+          "exerciseRef": "cable_row",
+          "sets": 3,
+          "reps": { "min": 10, "max": 15 },
+          "rest": { "workSeconds": 90 }
+        },
+        {
+          "exerciseRef": "lateral_raise",
+          "sets": 3,
+          "reps": { "min": 15, "max": 20 },
+          "rest": { "workSeconds": 60 }
+        },
+        {
+          "exerciseRef": "tricep_pushdown",
+          "sets": 3,
+          "reps": { "min": 12, "max": 15 },
+          "rest": { "workSeconds": 60 }
+        }
+      ]
+    },
+    {
+      "name": "Lower A",
+      "focus": "legs",
+      "exercises": [
+        {
+          "exerciseRef": "squat",
+          "sets": 4,
+          "reps": { "min": 6, "max": 10 },
+          "rest": { "workSeconds": 150, "warmupSeconds": 90 },
+          "setTypes": ["warmup", "work", "work", "work"]
+        },
+        {
+          "exerciseRef": "romanian_deadlift",
+          "sets": 3,
+          "reps": { "min": 10, "max": 12 },
+          "rest": { "workSeconds": 120 }
+        },
+        {
+          "exerciseRef": "leg_press",
+          "sets": 3,
+          "reps": { "min": 12, "max": 15 },
+          "rest": { "workSeconds": 90 }
+        },
+        {
+          "exerciseRef": "leg_curl",
+          "sets": 3,
+          "reps": { "min": 12, "max": 15 },
+          "rest": { "workSeconds": 90 }
+        },
+        {
+          "exerciseRef": "calf_raise",
+          "sets": 4,
+          "reps": { "min": 15, "max": 20 },
+          "rest": { "workSeconds": 60 }
+        }
+      ]
+    },
+    {
+      "name": "Upper B",
+      "focus": "upper",
+      "exercises": [
+        {
+          "exerciseRef": "overhead_press",
+          "sets": 4,
+          "reps": { "min": 6, "max": 10 },
+          "rest": { "workSeconds": 120, "warmupSeconds": 60 },
+          "setTypes": ["warmup", "work", "work", "work"]
+        },
+        {
+          "exerciseRef": "pull_up",
+          "sets": 4,
+          "reps": { "min": 6, "max": 10 },
+          "rest": { "workSeconds": 120 }
+        },
+        {
+          "exerciseRef": "dumbbell_shoulder_press",
+          "sets": 3,
+          "reps": { "min": 10, "max": 15 },
+          "rest": { "workSeconds": 90 }
+        },
+        {
+          "exerciseRef": "lat_pulldown",
+          "sets": 3,
+          "reps": { "min": 10, "max": 15 },
+          "rest": { "workSeconds": 90 }
+        },
+        {
+          "exerciseRef": "face_pull",
+          "sets": 3,
+          "reps": { "min": 15, "max": 20 },
+          "rest": { "workSeconds": 60 }
+        },
+        {
+          "exerciseRef": "bicep_curl",
+          "sets": 3,
+          "reps": { "min": 12, "max": 15 },
+          "rest": { "workSeconds": 60 }
+        }
+      ]
+    },
+    {
+      "name": "Lower B",
+      "focus": "legs",
+      "exercises": [
+        {
+          "exerciseRef": "deadlift",
+          "sets": 4,
+          "reps": { "min": 4, "max": 6 },
+          "rest": { "workSeconds": 180, "warmupSeconds": 90 },
+          "setTypes": ["warmup", "work", "work", "work"]
+        },
+        {
+          "exerciseRef": "bulgarian_split_squat",
+          "sets": 3,
+          "reps": { "min": 8, "max": 12 },
+          "rest": { "workSeconds": 90 }
+        },
+        {
+          "exerciseRef": "hip_thrust",
+          "sets": 3,
+          "reps": { "min": 10, "max": 15 },
+          "rest": { "workSeconds": 90 }
+        },
+        {
+          "exerciseRef": "leg_extension",
+          "sets": 3,
+          "reps": { "min": 15, "max": 20 },
+          "rest": { "workSeconds": 60 }
+        },
+        {
+          "exerciseRef": "calf_raise",
+          "sets": 4,
+          "reps": { "min": 15, "max": 20 },
+          "rest": { "workSeconds": 60 }
+        }
+      ]
+    }
+  ]
 }
