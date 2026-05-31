@@ -17,38 +17,38 @@
       "focus": "upper",
       "exercises": [
         {
-          "exerciseRef": "bench_press",
+          "exerciseRef": "ex_M8-whQhCC2l-pDKA",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120, "warmupSeconds": 60 },
           "setTypes": ["warmup", "work", "work", "work"]
         },
         {
-          "exerciseRef": "barbell_row",
+          "exerciseRef": "ex_jRszZ9t0mrLArO5j",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120 }
         },
         {
-          "exerciseRef": "incline_dumbbell_press",
+          "exerciseRef": "ex_ey_CCTUO4ZT9qgiO",
           "sets": 3,
           "reps": { "min": 10, "max": 15 },
           "rest": { "workSeconds": 90 }
         },
         {
-          "exerciseRef": "cable_row",
+          "exerciseRef": "ex_yjR8aToLm9KQqMCH",
           "sets": 3,
           "reps": { "min": 10, "max": 15 },
           "rest": { "workSeconds": 90 }
         },
         {
-          "exerciseRef": "lateral_raise",
+          "exerciseRef": "ex_P-xPDoOclktS-Gdv",
           "sets": 3,
           "reps": { "min": 15, "max": 20 },
           "rest": { "workSeconds": 60 }
         },
         {
-          "exerciseRef": "tricep_pushdown",
+          "exerciseRef": "ex_KOhNty4AfCHZQtkf",
           "sets": 3,
           "reps": { "min": 12, "max": 15 },
           "rest": { "workSeconds": 60 }
@@ -60,32 +60,32 @@
       "focus": "legs",
       "exercises": [
         {
-          "exerciseRef": "squat",
+          "exerciseRef": "ex_68cMQ5G3jPG1CpRT",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 150, "warmupSeconds": 90 },
           "setTypes": ["warmup", "work", "work", "work"]
         },
         {
-          "exerciseRef": "romanian_deadlift",
+          "exerciseRef": "ex_mNDQcSGhYO_I-b6Y",
           "sets": 3,
           "reps": { "min": 10, "max": 12 },
           "rest": { "workSeconds": 120 }
         },
         {
-          "exerciseRef": "leg_press",
+          "exerciseRef": "ex_aZWBsEtXDMz575_1",
           "sets": 3,
           "reps": { "min": 12, "max": 15 },
           "rest": { "workSeconds": 90 }
         },
         {
-          "exerciseRef": "leg_curl",
+          "exerciseRef": "ex_EqayEmnxlpxKPpYW",
           "sets": 3,
           "reps": { "min": 12, "max": 15 },
           "rest": { "workSeconds": 90 }
         },
         {
-          "exerciseRef": "calf_raise",
+          "exerciseRef": "ex_3lr0UvsHl9jab6RN",
           "sets": 4,
           "reps": { "min": 15, "max": 20 },
           "rest": { "workSeconds": 60 }
@@ -97,38 +97,38 @@
       "focus": "upper",
       "exercises": [
         {
-          "exerciseRef": "overhead_press",
+          "exerciseRef": "ex_6GdtGj4pdOKW4sam",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120, "warmupSeconds": 60 },
           "setTypes": ["warmup", "work", "work", "work"]
         },
         {
-          "exerciseRef": "pull_up",
+          "exerciseRef": "ex_S7rjIBFoRGnHDuin",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120 }
         },
         {
-          "exerciseRef": "dumbbell_shoulder_press",
+          "exerciseRef": "ex__1CBuFRPyt3uGveY",
           "sets": 3,
           "reps": { "min": 10, "max": 15 },
           "rest": { "workSeconds": 90 }
         },
         {
-          "exerciseRef": "lat_pulldown",
+          "exerciseRef": "ex_k5pGmgh3YikpCN03",
           "sets": 3,
           "reps": { "min": 10, "max": 15 },
           "rest": { "workSeconds": 90 }
         },
         {
-          "exerciseRef": "face_pull",
+          "exerciseRef": "ex_Sg-n7bmCRhKDL8wL",
           "sets": 3,
           "reps": { "min": 15, "max": 20 },
           "rest": { "workSeconds": 60 }
         },
         {
-          "exerciseRef": "bicep_curl",
+          "exerciseRef": "ex_4P0S6d1Og029EaM5",
           "sets": 3,
           "reps": { "min": 12, "max": 15 },
           "rest": { "workSeconds": 60 }
@@ -140,32 +140,32 @@
       "focus": "legs",
       "exercises": [
         {
-          "exerciseRef": "deadlift",
+          "exerciseRef": "ex_Kn9VQU_nzgSIK99W",
           "sets": 4,
           "reps": { "min": 4, "max": 6 },
           "rest": { "workSeconds": 180, "warmupSeconds": 90 },
           "setTypes": ["warmup", "work", "work", "work"]
         },
         {
-          "exerciseRef": "bulgarian_split_squat",
+          "exerciseRef": "ex_DioMiKJU4E8pNnb8",
           "sets": 3,
           "reps": { "min": 8, "max": 12 },
           "rest": { "workSeconds": 90 }
         },
         {
-          "exerciseRef": "hip_thrust",
+          "exerciseRef": "ex_RUIFNuJM6WxNGUPa",
           "sets": 3,
           "reps": { "min": 10, "max": 15 },
           "rest": { "workSeconds": 90 }
         },
         {
-          "exerciseRef": "leg_extension",
+          "exerciseRef": "ex_SRRGsYjVrhw7imU9",
           "sets": 3,
           "reps": { "min": 15, "max": 20 },
           "rest": { "workSeconds": 60 }
         },
         {
-          "exerciseRef": "calf_raise",
+          "exerciseRef": "ex_3lr0UvsHl9jab6RN",
           "sets": 4,
           "reps": { "min": 15, "max": 20 },
           "rest": { "workSeconds": 60 }

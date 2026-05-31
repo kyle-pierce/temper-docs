@@ -10,6 +10,8 @@ Use the official Temper exercise catalog:
 https://kyle-pierce.github.io/temper-docs/program-import/exercises.json
 
 Every exercise must include a valid exerciseRef from the catalog.
+exerciseRef values are opaque IDs like "ex_M8-whQhCC2l-pDKA" — they are NOT readable slugs like "bench_press" or "squat".
+You must fetch the catalog and look up the correct ID for each exercise.
 Do not invent exerciseRef values.
 If the exact exercise is not available, choose the closest appropriate exercise from the catalog.
 

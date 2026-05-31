@@ -141,14 +141,14 @@ Avoid these — they are not part of the v1 import format:
       "focus": "upper",
       "exercises": [
         {
-          "exerciseRef": "bench_press",
+          "exerciseRef": "ex_M8-whQhCC2l-pDKA",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120, "warmupSeconds": 60 },
           "setTypes": ["warmup", "work", "work", "work"]
         },
         {
-          "exerciseRef": "barbell_row",
+          "exerciseRef": "ex_jRszZ9t0mrLArO5j",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120 }
@@ -160,14 +160,14 @@ Avoid these — they are not part of the v1 import format:
       "focus": "legs",
       "exercises": [
         {
-          "exerciseRef": "squat",
+          "exerciseRef": "ex_68cMQ5G3jPG1CpRT",
           "sets": 4,
           "reps": { "min": 5, "max": 8 },
           "rest": { "workSeconds": 150, "warmupSeconds": 90 },
           "setTypes": ["warmup", "work", "work", "work"]
         },
         {
-          "exerciseRef": "romanian_deadlift",
+          "exerciseRef": "ex_mNDQcSGhYO_I-b6Y",
           "sets": 3,
           "reps": { "min": 10, "max": 12 },
           "rest": { "workSeconds": 120 }
@@ -179,14 +179,14 @@ Avoid these — they are not part of the v1 import format:
       "focus": "upper",
       "exercises": [
         {
-          "exerciseRef": "overhead_press",
+          "exerciseRef": "ex_6GdtGj4pdOKW4sam",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120, "warmupSeconds": 60 },
           "setTypes": ["warmup", "work", "work", "work"]
         },
         {
-          "exerciseRef": "pull_up",
+          "exerciseRef": "ex_S7rjIBFoRGnHDuin",
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120 }
@@ -198,14 +198,14 @@ Avoid these — they are not part of the v1 import format:
       "focus": "legs",
       "exercises": [
         {
-          "exerciseRef": "deadlift",
+          "exerciseRef": "ex_Kn9VQU_nzgSIK99W",
           "sets": 4,
           "reps": { "min": 4, "max": 6 },
           "rest": { "workSeconds": 180, "warmupSeconds": 90 },
           "setTypes": ["warmup", "work", "work", "work"]
         },
         {
-          "exerciseRef": "bulgarian_split_squat",
+          "exerciseRef": "ex_DioMiKJU4E8pNnb8",
           "sets": 3,
           "reps": { "min": 8, "max": 12 },
           "rest": { "workSeconds": 90 }
