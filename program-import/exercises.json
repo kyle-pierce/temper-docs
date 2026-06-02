@@ -1,3545 +1,4440 @@
 {
-  "generated": "2026-06-02T13:07:03.495Z",
+  "generated": "2026-06-02T16:52:51.262Z",
   "exercises": [
     {
       "id": "ex_6eJ-Wt2Cl5kv_yqt",
-      "name": "3/4 Sit-Up"
+      "name": "3/4 Sit-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_BJs71bB_MPzV50rm",
-      "name": "90/90 Hamstring"
+      "name": "90/90 Hamstring",
+      "trackingType": "reps"
     },
     {
       "id": "ex_sQK4d2UbfiyF5-0Y",
-      "name": "Ab Roller"
+      "name": "Ab Roller",
+      "trackingType": "reps"
     },
     {
       "id": "ex_U4FIQ5Dv-vkfpy0F",
-      "name": "Ab Rollout (Barbell)"
+      "name": "Ab Rollout (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_SVMLEfo_ZqVPGb_z",
-      "name": "Adductor"
+      "name": "Adductor",
+      "trackingType": "reps"
     },
     {
       "id": "ex_r1UKolpolTZ9amgD",
-      "name": "Adductor/Groin"
+      "name": "Adductor/Groin",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Rk5mPyngV0xrQknB",
-      "name": "Advanced Windmill (Kettlebell)"
+      "name": "Advanced Windmill (Kettlebell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_2kiZQ_Dns26xa08K",
-      "name": "Air Bike"
+      "name": "Air Bike",
+      "trackingType": "reps"
     },
     {
       "id": "ex_huDb1FM8KbUc3yp_",
-      "name": "All Fours Quad Stretch"
+      "name": "All Fours Quad Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_affNombUQAyCkwsh",
-      "name": "Alternating Floor Press (Kettlebell)"
+      "name": "Alternating Floor Press (Kettlebell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Lb0gJQt6bMtqT01h",
-      "name": "Alternating Front Raise (Dumbbell)"
+      "name": "Alternating Front Raise (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_TCYJcuMX0tT471mH",
-      "name": "Alternating Hammer Curl (Dumbbell)"
+      "name": "Alternating Hammer Curl (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_eIzsMFbrBT4R0DYE",
-      "name": "Alternating Hang Clean"
+      "name": "Alternating Hang Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0biHBll9gcfTPJY3",
-      "name": "Alternating Heel Touchers"
+      "name": "Alternating Heel Touchers",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7_Y8F40LZHBXBwsM",
-      "name": "Alternating Incline Curl (Dumbbell)"
+      "name": "Alternating Incline Curl (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_JrFuo77B63yoCRDT",
-      "name": "Alternating Leg Diagonal Bound"
+      "name": "Alternating Leg Diagonal Bound",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ze_FpwfS0BbKuBM8",
-      "name": "Alternating Row (Kettlebell)"
+      "name": "Alternating Row (Kettlebell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_953yVvWZe7majuOO",
-      "name": "Alternating Shoulder Press (Cable)"
+      "name": "Alternating Shoulder Press (Cable)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MuM34dmj00vYT0tc",
-      "name": "Alternating Shoulder Press (Kettlebell)"
+      "name": "Alternating Shoulder Press (Kettlebell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fjTrocTOyyOK-9Vm",
-      "name": "Ankle Circles"
+      "name": "Ankle Circles",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0RJLDMbCXGO08Oa9",
-      "name": "Ankle On The Knee"
+      "name": "Ankle On The Knee",
+      "trackingType": "reps"
     },
     {
       "id": "ex_adBk8HohUCgzgiX8",
-      "name": "Anterior Tibialis-SMR"
+      "name": "Anterior Tibialis-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PLPnQKmKlNF797tX",
-      "name": "Anti-Gravity Press"
+      "name": "Anti-Gravity Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_43ys2AWofJImRlhp",
-      "name": "Arm Circles"
+      "name": "Arm Circles",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-U7gScHK9A-4mI4U",
-      "name": "Arnold Press (Dumbbell)"
+      "name": "Arnold Press (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kLthfowMNU353eOi",
-      "name": "Around The Worlds"
+      "name": "Around The Worlds",
+      "trackingType": "reps"
     },
     {
       "id": "ex_w0P5WCQqHK49ghgY",
-      "name": "Assisted Pull-Up (Band)"
+      "name": "Assisted Pull-Up (Band)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GcbmcM-aLe16Hyo4",
-      "name": "Atlas Stone Trainer"
+      "name": "Atlas Stone Trainer",
+      "trackingType": "reps"
     },
     {
       "id": "ex_DGGTedmNEMqlDQry",
-      "name": "Atlas Stones"
+      "name": "Atlas Stones",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mtR1pK7fkv3Duchm",
-      "name": "Axle Deadlift"
+      "name": "Axle Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mOs2ZmRrWixF87en",
-      "name": "Back Fly (Band)"
+      "name": "Back Fly (Band)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_68cMQ5G3jPG1CpRT",
-      "name": "Back Squat (Barbell)"
+      "name": "Back Squat (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_2HTp1omIfJtoOU9H",
-      "name": "Backward Drag"
+      "name": "Backward Drag",
+      "trackingType": "reps"
     },
     {
       "id": "ex_k2p92pQrRhX3eB7c",
-      "name": "Backward Medicine Ball Throw"
+      "name": "Backward Medicine Ball Throw",
+      "trackingType": "reps"
     },
     {
       "id": "ex_bg788YnOHWs23UlE",
-      "name": "Balance Board"
+      "name": "Balance Board",
+      "trackingType": "reps"
     },
     {
       "id": "ex_SBct8tsxqjZCroAa",
-      "name": "Ball Leg Curl"
-    },
-    {
-      "id": "ex_3RBKIWPAjK47GwDE",
-      "name": "Barbell Incline Shoulder Raise"
-    },
-    {
-      "id": "ex_0o0jEDX0S37QnpIe",
-      "name": "Barbell Lunge"
-    },
-    {
-      "id": "ex_jUJolgBRByDxmw46",
-      "name": "Barbell Rear Delt Row"
-    },
-    {
-      "id": "ex_BuvdoioWEr2M7Pfh",
-      "name": "Barbell Rollout from Bench"
-    },
-    {
-      "id": "ex_OW4YMpkvd5xGKexl",
-      "name": "Barbell Seated Calf Raise"
-    },
-    {
-      "id": "ex_WZ4b6Vl2ZAbqzbkA",
-      "name": "Barbell Shoulder Press"
-    },
-    {
-      "id": "ex_vg5ldMu_H3iNOfEC",
-      "name": "Barbell Shrug"
-    },
-    {
-      "id": "ex_bc4I8ycUANlRhiH6",
-      "name": "Barbell Shrug Behind The Back"
-    },
-    {
-      "id": "ex_1Ojx4SimsEwEjiyG",
-      "name": "Barbell Side Bend"
-    },
-    {
-      "id": "ex_xMTP70cnwsdehRU0",
-      "name": "Barbell Side Split Squat"
-    },
-    {
-      "id": "ex_2p3naTujvZVeKPCh",
-      "name": "Barbell Split Squat"
-    },
-    {
-      "id": "ex_Ut4p4jHmVeCj5z8l",
-      "name": "Barbell Squat To A Bench"
-    },
-    {
-      "id": "ex_KkgIXIF686yJsHEW",
-      "name": "Barbell Step Ups"
-    },
-    {
-      "id": "ex_m-coXbMuIOM059X2",
-      "name": "Barbell Walking Lunge"
+      "name": "Ball Leg Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jo-xDk9MjxilkqLz",
-      "name": "Battling Ropes"
+      "name": "Battling Ropes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Vl4xRxkRhjq5q8Um",
-      "name": "Bear Crawl Sled Drags"
+      "name": "Bear Crawl Sled Drags",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gDHn43p3Nv0o04jC",
-      "name": "Behind Head Chest Stretch"
+      "name": "Behind Head Chest Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0IIKzPttU0ct6K3p",
-      "name": "Bench Dips"
+      "name": "Bench Dips",
+      "trackingType": "reps"
     },
     {
       "id": "ex_diYlmZyB79khLYML",
-      "name": "Bench Jump"
-    },
-    {
-      "id": "ex_cz76xeb0LXBhpUxC",
-      "name": "Bench Press - Powerlifting"
+      "name": "Bench Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_r5qBTvRhfw7pL0py",
-      "name": "Bench Press - With Bands"
-    },
-    {
-      "id": "ex_M8-whQhCC2l-pDKA",
-      "name": "Bench Press (Barbell)"
+      "name": "Bench Press (Band)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_77H7IB0WA-qxIZ82",
-      "name": "Bench Press with Chains"
+      "name": "Bench Press (Barbell, Chains)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_M8-whQhCC2l-pDKA",
+      "name": "Bench Press (Barbell)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_cz76xeb0LXBhpUxC",
+      "name": "Bench Press (Powerlifting)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8JPO5rSMOXtOXM2K",
-      "name": "Bench Sprint"
-    },
-    {
-      "id": "ex_jRszZ9t0mrLArO5j",
-      "name": "Bent Over Barbell Row"
+      "name": "Bench Sprint",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0tyZsuPxFSIbcO-Y",
-      "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench"
+      "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jUhAvKQp8F8HKzRb",
-      "name": "Bent Over Low-Pulley Side Lateral"
+      "name": "Bent Over Low-Pulley Side Lateral",
+      "trackingType": "reps"
     },
     {
       "id": "ex_QeBzYKyPTiIKXx0s",
-      "name": "Bent Over One-Arm Long Bar Row"
+      "name": "Bent Over One-Arm Long Bar Row",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_jRszZ9t0mrLArO5j",
+      "name": "Bent Over Row (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PdO73YW50rgFmwHc",
-      "name": "Bent Over Two-Arm Long Bar Row"
+      "name": "Bent Over Two-Arm Long Bar Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UtD-m4I37ms3rYqr",
-      "name": "Bent Over Two-Dumbbell Row"
+      "name": "Bent Over Two-Dumbbell Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lz6cZ1m_wmi530Lf",
-      "name": "Bent Over Two-Dumbbell Row With Palms In"
+      "name": "Bent Over Two-Dumbbell Row With Palms In",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1uE45BnyiuIItfVp",
-      "name": "Bent Press"
+      "name": "Bent Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aiTcTh4SsfAEnTRp",
-      "name": "Bent-Arm Barbell Pullover"
+      "name": "Bent-Arm Barbell Pullover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_94hb6hDWEBt0iCzh",
-      "name": "Bent-Arm Dumbbell Pullover"
+      "name": "Bent-Arm Dumbbell Pullover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gxQplrur4lv51-2U",
-      "name": "Bent-Knee Hip Raise"
+      "name": "Bent-Knee Hip Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pb37jCWV9DDKs_lk",
-      "name": "Bicep Curl (Barbell)"
+      "name": "Bicep Curl (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex__f2fIGcxlfUdHgz9",
-      "name": "Bicycling"
+      "name": "Bicycling",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jEakWkIoy-8o-KVH",
-      "name": "Bicycling, Stationary"
+      "name": "Bicycling, Stationary",
+      "trackingType": "reps"
     },
     {
       "id": "ex_C2bwG-wlc5hZ3PVs",
-      "name": "Board Press"
+      "name": "Board Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XETGjXWCCKi8mgFb",
-      "name": "Body Tricep Press"
+      "name": "Body Tricep Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_yWivJDqcUsQ3SALo",
-      "name": "Body-Up"
+      "name": "Body-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex__E3aFcZ-FrdMKRA_",
-      "name": "Bodyweight Flyes"
+      "name": "Bodyweight Flyes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_q1KwqcDjcVl56G5N",
-      "name": "Bodyweight Mid Row"
+      "name": "Bodyweight Mid Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5zwpzBLUlsg5jZ_7",
-      "name": "Bodyweight Squat"
+      "name": "Bodyweight Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_06Fjj_qXTybxBUaC",
-      "name": "Bodyweight Walking Lunge"
+      "name": "Bodyweight Walking Lunge",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XC-6lFUeC_oFssJt",
-      "name": "Bosu Ball Cable Crunch With Side Bends"
+      "name": "Bosu Ball Cable Crunch With Side Bends",
+      "trackingType": "reps"
     },
     {
       "id": "ex_2ZSCP_uRHiYui8xO",
-      "name": "Bottoms Up"
+      "name": "Bottoms Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_a0maHlYnThBlxuCV",
-      "name": "Bottoms-Up Clean From The Hang Position"
+      "name": "Bottoms-Up Clean From The Hang Position",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-e3liH9sZfPxxLoV",
-      "name": "Box Jump (Multiple Response)"
+      "name": "Box Jump (Multiple Response)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nGnp7Q32CmKN7aqh",
-      "name": "Box Skip"
+      "name": "Box Skip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ZXwjvNRxJoTsNC1J",
-      "name": "Box Squat"
+      "name": "Box Squat",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_Ut4p4jHmVeCj5z8l",
+      "name": "Box Squat (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dP62ytD91m0xsxLb",
-      "name": "Box Squat with Bands"
+      "name": "Box Squat with Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0lC8--t1q41elCA5",
-      "name": "Box Squat with Chains"
+      "name": "Box Squat with Chains",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KAA5ECxm7xfoT6Km",
-      "name": "Brachialis-SMR"
+      "name": "Brachialis-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vv1MZ7h_ECCPa9rG",
-      "name": "Bradford/Rocky Presses"
+      "name": "Bradford/Rocky Presses",
+      "trackingType": "reps"
     },
     {
       "id": "ex_DioMiKJU4E8pNnb8",
-      "name": "Bulgarian Split Squat (Barbell)"
+      "name": "Bulgarian Split Squat (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vf-ug5kP_WAlT3oG",
-      "name": "Butt Lift (Bridge)"
+      "name": "Butt Lift (Bridge)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nMCjQ7Y_5dEO7WFK",
-      "name": "Butt-Ups"
+      "name": "Butt-Ups",
+      "trackingType": "reps"
     },
     {
       "id": "ex_cILcDBYS36_wDboh",
-      "name": "Butterfly"
+      "name": "Butterfly",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nIOYggePASWuxfLB",
-      "name": "Cable Chest Press"
+      "name": "Cable Chest Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_N784_JfiOcZp6Iwj",
-      "name": "Cable Crossover"
+      "name": "Cable Crossover",
+      "trackingType": "reps"
     },
     {
       "id": "ex__VThFDco4XEU2k4_",
-      "name": "Cable Crunch"
+      "name": "Cable Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wpHJFN8va4yc0xuo",
-      "name": "Cable Deadlifts"
+      "name": "Cable Deadlifts",
+      "trackingType": "reps"
     },
     {
       "id": "ex_11M8dfHM79bIE2KG",
-      "name": "Cable Hammer Curl (Rope)"
+      "name": "Cable Hammer Curl (Rope)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_s3xY9aRpSjBTXJCS",
-      "name": "Cable Hip Adduction"
+      "name": "Cable Hip Adduction",
+      "trackingType": "reps"
     },
     {
       "id": "ex_cDQ0d_zfE1y8nQSk",
-      "name": "Cable Incline Pushdown"
+      "name": "Cable Incline Pushdown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_anDsouaOkqz3XT4M",
-      "name": "Cable Incline Triceps Extension"
+      "name": "Cable Incline Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_cwaNP5uFZJyKEBFl",
-      "name": "Cable Internal Rotation"
+      "name": "Cable Internal Rotation",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5rbR4EJAvXZMvXSR",
-      "name": "Cable Iron Cross"
+      "name": "Cable Iron Cross",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kTZKllnvrhNLdoeP",
-      "name": "Cable Judo Flip"
+      "name": "Cable Judo Flip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Cc4HFKKcdHYHXrMw",
-      "name": "Cable Lateral Raise"
+      "name": "Cable Lateral Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex__fsN3HVgVXlMy0OG",
-      "name": "Cable Lying Triceps Extension"
+      "name": "Cable Lying Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ufiQ-t3BiSEI6orj",
-      "name": "Cable One Arm Tricep Extension"
+      "name": "Cable One Arm Tricep Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xewWQL1T3Ifmn0uS",
-      "name": "Cable Rear Delt Fly"
+      "name": "Cable Rear Delt Fly",
+      "trackingType": "reps"
     },
     {
       "id": "ex_f9cd6a4hfP_lOpZj",
-      "name": "Cable Reverse Crunch"
+      "name": "Cable Reverse Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_t2hUvv_mSY24iLrO",
-      "name": "Cable Rope Rear-Delt Rows"
+      "name": "Cable Rope Rear-Delt Rows",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0bsbWlb_pBfcg2nF",
-      "name": "Cable Russian Twists"
+      "name": "Cable Russian Twists",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FifjBR4Shd1s7jKy",
-      "name": "Cable Seated Crunch"
+      "name": "Cable Seated Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6YdbC5xwZ7gm06f6",
-      "name": "Cable Seated Lateral Raise"
+      "name": "Cable Seated Lateral Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6lWJ8x7L6XAqfMRT",
-      "name": "Cable Shoulder Press"
+      "name": "Cable Shoulder Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_foqIdWLfZ-psvcXC",
-      "name": "Cable Shrugs"
+      "name": "Cable Shrugs",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gf9tWvBTGvhcYNB7",
-      "name": "Cable Sissy Squat"
+      "name": "Cable Sissy Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_J6OzRoeBKcd8dDQC",
-      "name": "Cable Wrist Curl"
+      "name": "Cable Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_etvRwCz8pm5FusRy",
-      "name": "Calf Press"
+      "name": "Calf Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Ef8IiddtW0V9poHb",
-      "name": "Calf Press On The Leg Press Machine"
+      "name": "Calf Press On The Leg Press Machine",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NJ2Umx6MWIMMX8tO",
-      "name": "Calf Raise On A Dumbbell"
+      "name": "Calf Raise On A Dumbbell",
+      "trackingType": "reps"
     },
     {
       "id": "ex_yxQT6Qvhl3epFRs-",
-      "name": "Calf Raises - With Bands"
+      "name": "Calf Raises - With Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9yUweXBZYR-fAeh_",
-      "name": "Calf Stretch Elbows Against Wall"
+      "name": "Calf Stretch Elbows Against Wall",
+      "trackingType": "reps"
     },
     {
       "id": "ex_2UQAh2caibCv8BZs",
-      "name": "Calf Stretch Hands Against Wall"
+      "name": "Calf Stretch Hands Against Wall",
+      "trackingType": "reps"
     },
     {
       "id": "ex_efihfa7pauKgTE6C",
-      "name": "Calf-Machine Shoulder Shrug"
+      "name": "Calf-Machine Shoulder Shrug",
+      "trackingType": "reps"
     },
     {
       "id": "ex_O5cPHYuxTgehyqC6",
-      "name": "Calves-SMR"
+      "name": "Calves-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pLZBxkwONHPp_br7",
-      "name": "Car Deadlift"
+      "name": "Car Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HZK3E0fl_9pF2CJc",
-      "name": "Car Drivers"
+      "name": "Car Drivers",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kH8HTiyPh-1j9_8e",
-      "name": "Carioca Quick Step"
+      "name": "Carioca Quick Step",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Qr9zpvoz2zGqYMIZ",
-      "name": "Cat Stretch"
+      "name": "Cat Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_e-KDrAuGuYsVcCM9",
-      "name": "Catch and Overhead Throw"
+      "name": "Catch and Overhead Throw",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1S2OmPDsM1juHLXj",
-      "name": "Chain Handle Extension"
+      "name": "Chain Handle Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_d3zD5BGKHGAEpsyx",
-      "name": "Chain Press"
+      "name": "Chain Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lvXtImXu3lefBNRA",
-      "name": "Chair Leg Extended Stretch"
+      "name": "Chair Leg Extended Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1i_6YFHMuD1Dblrb",
-      "name": "Chair Lower Back Stretch"
+      "name": "Chair Lower Back Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_JNufGBc1yaUUv9DG",
-      "name": "Chair Squat"
+      "name": "Chair Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_eh131bahh1fPwFCF",
-      "name": "Chair Upper Body Stretch"
+      "name": "Chair Upper Body Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_R44o9FRy3szD5EJg",
-      "name": "Chest And Front Of Shoulder Stretch"
+      "name": "Chest And Front Of Shoulder Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_iEWYSb271nAYvWoV",
-      "name": "Chest Push (multiple response)"
+      "name": "Chest Push (multiple response)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_z4lpE_mOne1fixyI",
-      "name": "Chest Push (single response)"
+      "name": "Chest Push (single response)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_p1FrxWaAysixpH0E",
-      "name": "Chest Push from 3 point stance"
+      "name": "Chest Push from 3 point stance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_iVQUEsyIEN7DPYH9",
-      "name": "Chest Push with Run Release"
+      "name": "Chest Push with Run Release",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VZ-AhORB_uBGi8hI",
-      "name": "Chest Stretch on Stability Ball"
+      "name": "Chest Stretch on Stability Ball",
+      "trackingType": "reps"
     },
     {
       "id": "ex_oGbgjmWSCkZEPdwj",
-      "name": "Chest-Supported Dumbbell Row"
+      "name": "Chest-Supported Dumbbell Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ZDs9LHZeMm4FLwws",
-      "name": "Child's Pose"
+      "name": "Child's Pose",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gBdpCv6Y9sCwDdPD",
-      "name": "Chin To Chest Stretch"
+      "name": "Chin To Chest Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex__6dc-RlZg01xnaiT",
-      "name": "Chin-Up"
+      "name": "Chin-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mq1gpvLggpczenuS",
-      "name": "Circus Bell"
+      "name": "Circus Bell",
+      "trackingType": "reps"
     },
     {
       "id": "ex_thaLaaYeWxqKcu4t",
-      "name": "Clean"
+      "name": "Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_43hrw0Q4PCmo1mrY",
-      "name": "Clean and Jerk"
+      "name": "Clean and Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_rWlrGhFm1K-kI9fO",
-      "name": "Clean and Press"
+      "name": "Clean and Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fglesx7d4LcdEYIm",
-      "name": "Clean Deadlift"
+      "name": "Clean Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aIDYIEQQEu3AwP7H",
-      "name": "Clean from Blocks"
+      "name": "Clean from Blocks",
+      "trackingType": "reps"
     },
     {
       "id": "ex_utLB5kQrU5Tg_3k8",
-      "name": "Clean Pull"
+      "name": "Clean Pull",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mcto_e8zOIPXmQTV",
-      "name": "Clean Shrug"
+      "name": "Clean Shrug",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5ygO2H1tiDsAWpUM",
-      "name": "Clock Push-Up"
+      "name": "Clock Push-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_qH7cpMAZpdB7dBq8",
-      "name": "Close-Grip Barbell Bench Press"
+      "name": "Close-Grip Barbell Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_N8eOR2lTku3nMUXs",
-      "name": "Close-Grip Dumbbell Press"
+      "name": "Close-Grip Dumbbell Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_P1hIxS8UIFMKnuGA",
-      "name": "Close-Grip EZ Bar Curl"
+      "name": "Close-Grip EZ Bar Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9ABQtRfE-UpVgi62",
-      "name": "Close-Grip EZ-Bar Curl with Band"
+      "name": "Close-Grip EZ-Bar Curl with Band",
+      "trackingType": "reps"
     },
     {
       "id": "ex_IIdQp9mv7j77jhYJ",
-      "name": "Close-Grip EZ-Bar Press"
+      "name": "Close-Grip EZ-Bar Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6wvEXSZg6NL6XlRY",
-      "name": "Close-Grip Front Lat Pulldown"
+      "name": "Close-Grip Front Lat Pulldown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_SURiT8NlwE-Gd4-O",
-      "name": "Close-Grip Push-Up off of a Dumbbell"
+      "name": "Close-Grip Push-Up off of a Dumbbell",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-2oMrw6a6EXmQMAw",
-      "name": "Close-Grip Standing Barbell Curl"
+      "name": "Close-Grip Standing Barbell Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CE7OnnglW5MI8Jl1",
-      "name": "Cocoons"
+      "name": "Cocoons",
+      "trackingType": "reps"
     },
     {
       "id": "ex_qS_fzSDOYrdkHRCI",
-      "name": "Conan's Wheel"
+      "name": "Conan's Wheel",
+      "trackingType": "reps"
     },
     {
       "id": "ex_G72VAFCRqlDNZg4V",
-      "name": "Concentration Curls"
+      "name": "Concentration Curls",
+      "trackingType": "reps"
     },
     {
       "id": "ex_l7_jMLzaoBKkHlge",
-      "name": "Cross Body Hammer Curl"
+      "name": "Cross Body Hammer Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HprIYXJdenYnsEEi",
-      "name": "Cross Over - With Bands"
+      "name": "Cross Over - With Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vrXVZRCc7RXNJSEE",
-      "name": "Cross-Body Crunch"
+      "name": "Cross-Body Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Cc62ylIYz2oKyD_z",
-      "name": "Crossover Reverse Lunge"
+      "name": "Crossover Reverse Lunge",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nBBJ4BYhp908M7a5",
-      "name": "Crucifix"
+      "name": "Crucifix",
+      "trackingType": "reps"
     },
     {
       "id": "ex_OQWiOkWMIUvp6xz4",
-      "name": "Crunch - Hands Overhead"
+      "name": "Crunch - Hands Overhead",
+      "trackingType": "reps"
     },
     {
       "id": "ex_K0EKQlmFkani4u6e",
-      "name": "Crunch - Legs On Exercise Ball"
+      "name": "Crunch - Legs On Exercise Ball",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zvc5TruG1EIzDGcB",
-      "name": "Crunch (Machine)"
+      "name": "Crunch (Machine)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5P-Qc3rfhLBClcXk",
-      "name": "Crunches"
+      "name": "Crunches",
+      "trackingType": "reps"
     },
     {
       "id": "ex_YFyH25-lbYt5Do1J",
-      "name": "Cuban Press"
+      "name": "Cuban Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gE9ELisetU0rqr-B",
-      "name": "Dancer's Stretch"
+      "name": "Dancer's Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WYrWD5zPqdvB_Xpp",
-      "name": "Dead Bug"
+      "name": "Dead Bug",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Kn9VQU_nzgSIK99W",
-      "name": "Deadlift (Barbell)"
+      "name": "Deadlift (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1W9nwa9wmVa1v0Kh",
-      "name": "Deadlift with Bands"
+      "name": "Deadlift with Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KRNRD89K8kB39YGL",
-      "name": "Deadlift with Chains"
+      "name": "Deadlift with Chains",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6f2eba0UG0M0S_Lv",
-      "name": "Decline Barbell Bench Press"
+      "name": "Decline Barbell Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_BNRNaSI0-ktyqlHY",
-      "name": "Decline Close-Grip Bench To Skull Crusher"
+      "name": "Decline Close-Grip Bench To Skull Crusher",
+      "trackingType": "reps"
     },
     {
       "id": "ex_46cM5u8kVfWjcDCd",
-      "name": "Decline Crunch"
+      "name": "Decline Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_z-WBTM0NEnup0HzY",
-      "name": "Decline Dumbbell Bench Press"
+      "name": "Decline Dumbbell Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_TjG2FARllZvF1itr",
-      "name": "Decline Dumbbell Flyes"
+      "name": "Decline Dumbbell Flyes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nsLH4gsg1S_HzHyW",
-      "name": "Decline Dumbbell Triceps Extension"
+      "name": "Decline Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_e5SNcJd1M5np0XR7",
-      "name": "Decline EZ Bar Triceps Extension"
+      "name": "Decline EZ Bar Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ftCYSCMR1Px-Bjjh",
-      "name": "Decline Oblique Crunch"
+      "name": "Decline Oblique Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6kbyu0cz0mWElE17",
-      "name": "Decline Push-Up"
+      "name": "Decline Push-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ZVINLIKL-8cfqK63",
-      "name": "Decline Reverse Crunch"
+      "name": "Decline Reverse Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GDhyoVldCtBPKFQt",
-      "name": "Decline Smith Press"
+      "name": "Decline Smith Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_LIvv4B66ILM_q4rO",
-      "name": "Deficit Deadlift"
+      "name": "Deficit Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xYRfzBTsg9Nd8KuO",
-      "name": "Depth Jump Leap"
+      "name": "Depth Jump Leap",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UkAhanYja1lakLtq",
-      "name": "Dip Machine"
+      "name": "Dip Machine",
+      "trackingType": "reps"
     },
     {
       "id": "ex_eg1achKTwE_kMsgW",
-      "name": "Dips - Chest Version"
+      "name": "Dips - Chest Version",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5DJ9gIWYZNxyFgTN",
-      "name": "Dips - Triceps Version"
+      "name": "Dips - Triceps Version",
+      "trackingType": "reps"
     },
     {
       "id": "ex_JYIrccr38JjjGNxI",
-      "name": "Donkey Calf Raises"
+      "name": "Donkey Calf Raises",
+      "trackingType": "reps"
     },
     {
       "id": "ex_hoby8HRYv4k34Swc",
-      "name": "Double Kettlebell Alternating Hang Clean"
+      "name": "Double Kettlebell Alternating Hang Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EWjO8aFraplkPDyu",
-      "name": "Double Kettlebell Jerk"
+      "name": "Double Kettlebell Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MvGwrGI2GrKrGpXd",
-      "name": "Double Kettlebell Push Press"
+      "name": "Double Kettlebell Push Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_026WRRxRyIiPjSNo",
-      "name": "Double Kettlebell Snatch"
+      "name": "Double Kettlebell Snatch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CzsdWBNwK4mpcdB7",
-      "name": "Double Leg Butt Kick"
+      "name": "Double Leg Butt Kick",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dEOd3S2INXyRvbpH",
-      "name": "Double Windmill (Kettlebell)"
+      "name": "Double Windmill (Kettlebell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dHNvps6FavFA33Za",
-      "name": "Downward Facing Balance"
+      "name": "Downward Facing Balance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kC9d-pDMtIl0Vq_z",
-      "name": "Drag Curl"
+      "name": "Drag Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GI90fXnhVlRKLLmj",
-      "name": "Drop Push"
+      "name": "Drop Push",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5JR7cgPrwrvgIz_U",
-      "name": "Dumbbell Alternate Bicep Curl"
+      "name": "Dumbbell Alternate Bicep Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jEIlaoXOO-XTAYud",
-      "name": "Dumbbell Bench Press"
+      "name": "Dumbbell Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_B7oDa2RG8EXO_7uQ",
-      "name": "Dumbbell Bench Press with Neutral Grip"
+      "name": "Dumbbell Bench Press with Neutral Grip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4P0S6d1Og029EaM5",
-      "name": "Dumbbell Bicep Curl"
+      "name": "Dumbbell Bicep Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_L1OUdJwvQ7GmGW1s",
-      "name": "Dumbbell Clean"
+      "name": "Dumbbell Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wISl6w__KEoQ7bv3",
-      "name": "Dumbbell Floor Press"
+      "name": "Dumbbell Floor Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_264B_d_dlGvwbGuT",
-      "name": "Dumbbell Flyes"
+      "name": "Dumbbell Flyes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_BImtlh1VNYQiqwCA",
-      "name": "Dumbbell Incline Row"
+      "name": "Dumbbell Incline Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_LqcBgpmxA763W3lx",
-      "name": "Dumbbell Incline Shoulder Raise"
+      "name": "Dumbbell Incline Shoulder Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XAyxKNw8rHCo4kXR",
-      "name": "Dumbbell Lunges"
+      "name": "Dumbbell Lunges",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pJzcHetsCr53jLPs",
-      "name": "Dumbbell Lying One-Arm Rear Lateral Raise"
+      "name": "Dumbbell Lying One-Arm Rear Lateral Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_06E4EvYOL3mo0orR",
-      "name": "Dumbbell Lying Pronation"
+      "name": "Dumbbell Lying Pronation",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9lbcTy_TLXBhBXXZ",
-      "name": "Dumbbell Lying Rear Lateral Raise"
+      "name": "Dumbbell Lying Rear Lateral Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7cPZlVNgUofRaDNS",
-      "name": "Dumbbell Lying Supination"
+      "name": "Dumbbell Lying Supination",
+      "trackingType": "reps"
     },
     {
       "id": "ex_47injWVWR76yDmBf",
-      "name": "Dumbbell One-Arm Shoulder Press"
+      "name": "Dumbbell One-Arm Shoulder Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_irc2b0lnvoVHwPCb",
-      "name": "Dumbbell One-Arm Triceps Extension"
+      "name": "Dumbbell One-Arm Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_g0Wc7a6RGt2YJ2s3",
-      "name": "Dumbbell One-Arm Upright Row"
+      "name": "Dumbbell One-Arm Upright Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vL03DfkdueyPPsfX",
-      "name": "Dumbbell Prone Incline Curl"
+      "name": "Dumbbell Prone Incline Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Am2EfTmrRHeKou8i",
-      "name": "Dumbbell Raise"
+      "name": "Dumbbell Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WaCFwIRtW48GStLL",
-      "name": "Dumbbell Rear Lunge"
+      "name": "Dumbbell Rear Lunge",
+      "trackingType": "reps"
     },
     {
       "id": "ex_E4O5y5hhfh4V0mtz",
-      "name": "Dumbbell Scaption"
+      "name": "Dumbbell Scaption",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HzTXSAoPb2wHc-qh",
-      "name": "Dumbbell Seated Box Jump"
+      "name": "Dumbbell Seated Box Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex__1CBuFRPyt3uGveY",
-      "name": "Dumbbell Shoulder Press"
+      "name": "Dumbbell Shoulder Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_R3z9alG9reOTI9dO",
-      "name": "Dumbbell Shrug"
+      "name": "Dumbbell Shrug",
+      "trackingType": "reps"
     },
     {
       "id": "ex_upl_nZV2p2Ohh05i",
-      "name": "Dumbbell Side Bend"
+      "name": "Dumbbell Side Bend",
+      "trackingType": "reps"
     },
     {
       "id": "ex_sHuScZ8RF6O9sDAC",
-      "name": "Dumbbell Squat"
+      "name": "Dumbbell Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_i1R58287PcFHwJ2_",
-      "name": "Dumbbell Squat To A Bench"
+      "name": "Dumbbell Squat To A Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CkSLe3tpRkCQ5yx4",
-      "name": "Dumbbell Step Ups"
+      "name": "Dumbbell Step Ups",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9-IL3E1UR12gGjlQ",
-      "name": "Dumbbell Tricep Extension -Pronated Grip"
+      "name": "Dumbbell Tricep Extension -Pronated Grip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KL_XHF_nUiiBbFZe",
-      "name": "Dynamic Back Stretch"
+      "name": "Dynamic Back Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XcZvjq0bvUv7BaKL",
-      "name": "Dynamic Chest Stretch"
+      "name": "Dynamic Chest Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nvbMK6CLFBDUtPgX",
-      "name": "Elbow Circles"
+      "name": "Elbow Circles",
+      "trackingType": "reps"
     },
     {
       "id": "ex_p48LTMiEvAq515ET",
-      "name": "Elbow to Knee"
+      "name": "Elbow to Knee",
+      "trackingType": "reps"
     },
     {
       "id": "ex_SlEqiy9c7L8Wm9JF",
-      "name": "Elbows Back"
+      "name": "Elbows Back",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6wLGb9u_Iyb9EJQz",
-      "name": "Elevated Back Lunge"
+      "name": "Elevated Back Lunge",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ryveDpki9lNonYGv",
-      "name": "Elevated Cable Rows"
+      "name": "Elevated Cable Rows",
+      "trackingType": "reps"
     },
     {
       "id": "ex_bSAla9iK5_ycwQhw",
-      "name": "Elliptical Trainer"
+      "name": "Elliptical Trainer",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gEApXu4WaU1hSteL",
-      "name": "Exercise Ball Crunch"
+      "name": "Exercise Ball Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_LiX63tf2BkrLvwPn",
-      "name": "Exercise Ball Pull-In"
+      "name": "Exercise Ball Pull-In",
+      "trackingType": "reps"
     },
     {
       "id": "ex_skb_uEobQmaIbDc2",
-      "name": "Extended Range One-Arm Kettlebell Floor Press"
+      "name": "Extended Range One-Arm Kettlebell Floor Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_StICnIwo2-nJLRmD",
-      "name": "External Rotation"
+      "name": "External Rotation",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MC0OlpMsgqKpDSSP",
-      "name": "External Rotation with Band"
+      "name": "External Rotation with Band",
+      "trackingType": "reps"
     },
     {
       "id": "ex_eTI3FfHx6NHg5cGj",
-      "name": "External Rotation with Cable"
+      "name": "External Rotation with Cable",
+      "trackingType": "reps"
     },
     {
       "id": "ex_e-Yav0QFV3c5iYJb",
-      "name": "EZ-Bar Curl"
+      "name": "EZ-Bar Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_82lfQwAlg2gWOBN3",
-      "name": "EZ-Bar Skullcrusher"
+      "name": "EZ-Bar Skullcrusher",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Sg-n7bmCRhKDL8wL",
-      "name": "Face Pull"
+      "name": "Face Pull",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Fsb5zJx-mypIwDCo",
-      "name": "Farmer's Walk"
+      "name": "Farmer's Walk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_b3crjrwHXgISQKIL",
-      "name": "Fast Skipping"
+      "name": "Fast Skipping",
+      "trackingType": "reps"
     },
     {
       "id": "ex_afWuUuqXZ1RdCrK5",
-      "name": "Finger Curls"
+      "name": "Finger Curls",
+      "trackingType": "reps"
     },
     {
       "id": "ex_olL_DGo0Hr3aPASa",
-      "name": "Flat Bench Cable Flyes"
+      "name": "Flat Bench Cable Flyes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_SpfWxNGQeaQmNJb-",
-      "name": "Flat Bench Leg Pull-In"
+      "name": "Flat Bench Leg Pull-In",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zvAgPnSoUjC-1ASS",
-      "name": "Flat Bench Lying Leg Raise"
+      "name": "Flat Bench Lying Leg Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gJj4cVuM3O6noPVL",
-      "name": "Flexor Incline Dumbbell Curls"
+      "name": "Flexor Incline Dumbbell Curls",
+      "trackingType": "reps"
     },
     {
       "id": "ex_x-jzfLToSxrtFfC-",
-      "name": "Floor Glute-Ham Raise"
+      "name": "Floor Glute-Ham Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_V2ENLXs0TwzNsSeG",
-      "name": "Floor Press"
+      "name": "Floor Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NiMjCY9W_gRmapFY",
-      "name": "Floor Press with Chains"
+      "name": "Floor Press with Chains",
+      "trackingType": "reps"
     },
     {
       "id": "ex_IalatG9wXc70qtIn",
-      "name": "Flutter Kicks"
+      "name": "Flutter Kicks",
+      "trackingType": "reps"
     },
     {
       "id": "ex_L7bJfUZ6h79qRjUd",
-      "name": "Foot-SMR"
+      "name": "Foot-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lca59F1-hKSmj28x",
-      "name": "Forward Drag with Press"
+      "name": "Forward Drag with Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_hmB00Xww4xUYp8oY",
-      "name": "Frankenstein Squat"
+      "name": "Frankenstein Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Cmg4FJLijx9bERlA",
-      "name": "Freehand Jump Squat"
+      "name": "Freehand Jump Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xhncJLX1KWRtswca",
-      "name": "Frog Hops"
+      "name": "Frog Hops",
+      "trackingType": "reps"
     },
     {
       "id": "ex_AMA2bwxVNFgj2k4J",
-      "name": "Frog Sit-Ups"
+      "name": "Frog Sit-Ups",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VBpfbeppmv6pyfvO",
-      "name": "Front Barbell Squat"
+      "name": "Front Barbell Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lT4yRwKhR-JdjHR-",
-      "name": "Front Barbell Squat To A Bench"
+      "name": "Front Barbell Squat To A Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_sD_WnFzQlvbFBCX-",
-      "name": "Front Box Jump"
+      "name": "Front Box Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_woFLgY4HypyXExbw",
-      "name": "Front Cable Raise"
+      "name": "Front Cable Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_OWwssXqpXtEvPnuA",
-      "name": "Front Cone Hops (or hurdle hops)"
+      "name": "Front Cone Hops (or hurdle hops)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RZezF6mgfB_Xu_km",
-      "name": "Front Dumbbell Raise"
+      "name": "Front Dumbbell Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_X8WltJxtV8a3Yq-G",
-      "name": "Front Incline Dumbbell Raise"
+      "name": "Front Incline Dumbbell Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ZXkypDZNYHfV0Nk9",
-      "name": "Front Leg Raises"
+      "name": "Front Leg Raises",
+      "trackingType": "reps"
     },
     {
       "id": "ex_niKfT3MovhzvgXNY",
-      "name": "Front Plate Raise"
+      "name": "Front Plate Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ye_DMLM82yeXnwOi",
-      "name": "Front Raise And Pullover"
+      "name": "Front Raise And Pullover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0038cBKxOF-Dgiv-",
-      "name": "Front Squat (Clean Grip)"
+      "name": "Front Squat (Clean Grip)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EEg598CeRieSqUNQ",
-      "name": "Front Squats With Two Kettlebells"
+      "name": "Front Squats With Two Kettlebells",
+      "trackingType": "reps"
     },
     {
       "id": "ex_obDgdLr5pY-5qhZx",
-      "name": "Front Two-Dumbbell Raise"
+      "name": "Front Two-Dumbbell Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_rcptjwPZGI_I3GGO",
-      "name": "Full Range-Of-Motion Lat Pulldown"
+      "name": "Full Range-Of-Motion Lat Pulldown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VwvlDaQYMVPzyYWV",
-      "name": "Full Squat (Barbell)"
+      "name": "Full Squat (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wLBhJASPJNN8OlCB",
-      "name": "Gironda Sternum Chins"
+      "name": "Gironda Sternum Chins",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HJhG0UXRwJfA8-t6",
-      "name": "Glute Bridge (Barbell)"
+      "name": "Glute Bridge (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PFZT_7mcfq2mOQEP",
-      "name": "Glute Ham Raise"
+      "name": "Glute Ham Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Etkp2eVESS-dSBMi",
-      "name": "Glute Kickback"
+      "name": "Glute Kickback",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wCrpWCFETkSP6RcN",
-      "name": "Goblet Squat"
+      "name": "Goblet Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ExVRM-p_TfwjMlGK",
-      "name": "Good Morning"
+      "name": "Good Morning",
+      "trackingType": "reps"
     },
     {
       "id": "ex_v6BfvYqH8oaXZWfD",
-      "name": "Good Morning (Band, Pull Through)"
+      "name": "Good Morning (Band, Pull Through)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_QM2ww4x1uT0fSqVM",
-      "name": "Good Morning (Band)"
+      "name": "Good Morning (Band)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8W-SEMhvnyuGjII7",
-      "name": "Good Morning off Pins"
+      "name": "Good Morning off Pins",
+      "trackingType": "reps"
     },
     {
       "id": "ex_d0VHi9slGcIRgycv",
-      "name": "Gorilla Chin/Crunch"
+      "name": "Gorilla Chin/Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aCtj3HTMaAuxivga",
-      "name": "Groin and Back Stretch"
+      "name": "Groin and Back Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_imSniCh561nmwDAw",
-      "name": "Groiners"
+      "name": "Groiners",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jbU6mt23NeL4kGPJ",
-      "name": "Guillotine Bench Press (Barbell)"
+      "name": "Guillotine Bench Press (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_stYpy5W2EJbVp1fB",
-      "name": "Hack Squat"
+      "name": "Hack Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_hEebyNYBeJZzhesD",
-      "name": "Hack Squat (Barbell)"
+      "name": "Hack Squat (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_qUWrxPaXIhq3niyY",
-      "name": "Hammer Curls"
+      "name": "Hammer Curls",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xy_pG0s65oZhdmM-",
-      "name": "Hammer-Grip Incline Bench Press (Dumbbell)"
+      "name": "Hammer-Grip Incline Bench Press (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_LZWRRhsweu7gEKsA",
-      "name": "Hamstring Stretch"
+      "name": "Hamstring Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3WGsfeN0ylru3CBS",
-      "name": "Hamstring-SMR"
+      "name": "Hamstring-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0vCz0gFqRjHPY0vb",
-      "name": "Handstand Push-Ups"
+      "name": "Handstand Push-Ups",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Nz0pZwcKyAuL8Fjv",
-      "name": "Hang Clean"
+      "name": "Hang Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KqCssPlp5QHpOhrA",
-      "name": "Hang Clean - Below the Knees"
+      "name": "Hang Clean - Below the Knees",
+      "trackingType": "reps"
     },
     {
       "id": "ex_LlYSC_7w0wBuG-Km",
-      "name": "Hang Snatch"
+      "name": "Hang Snatch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-EQ0WOEJAqRpPpVy",
-      "name": "Hang Snatch - Below Knees"
+      "name": "Hang Snatch - Below Knees",
+      "trackingType": "reps"
     },
     {
       "id": "ex_r8bFmCvDRJ6EvQjG",
-      "name": "Hanging Bar Good Morning"
+      "name": "Hanging Bar Good Morning",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ClYCMSGnHJpNysPH",
-      "name": "Hanging Leg Raise"
+      "name": "Hanging Leg Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aeYBsq86L5YAKAqL",
-      "name": "Hanging Pike"
+      "name": "Hanging Pike",
+      "trackingType": "reps"
     },
     {
       "id": "ex_YuVAMoaVbCqpGcDd",
-      "name": "Heaving Snatch Balance"
+      "name": "Heaving Snatch Balance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nLrR6ynqeXT9uQAI",
-      "name": "Heavy Bag Thrust"
+      "name": "Heavy Bag Thrust",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WGUSc5GgzQqI-vuv",
-      "name": "High Cable Curls"
+      "name": "High Cable Curls",
+      "trackingType": "reps"
     },
     {
       "id": "ex_oK1tgIV_ocUw_0P_",
-      "name": "Hip Adductions (Band)"
+      "name": "Hip Adductions (Band)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PLFvXUQsTNZv3v1Z",
-      "name": "Hip Circles (prone)"
+      "name": "Hip Circles (prone)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RUr3BXxDmKweYRXW",
-      "name": "Hip Extension with Bands"
+      "name": "Hip Extension with Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zd1_jqE1WvTRTTNc",
-      "name": "Hip Flexion with Band"
+      "name": "Hip Flexion with Band",
+      "trackingType": "reps"
     },
     {
       "id": "ex_etI14g_K-0PXSzDR",
-      "name": "Hip Lift with Band"
+      "name": "Hip Lift with Band",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RUIFNuJM6WxNGUPa",
-      "name": "Hip Thrust (Barbell)"
+      "name": "Hip Thrust (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nZk42IXj1obJ-8aq",
-      "name": "Hug A Ball"
+      "name": "Hug A Ball",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xrys1EzTOaV9-5yw",
-      "name": "Hug Knees To Chest"
+      "name": "Hug Knees To Chest",
+      "trackingType": "reps"
     },
     {
       "id": "ex_L9fKSGGf22zKkqZD",
-      "name": "Hurdle Hops"
+      "name": "Hurdle Hops",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jwc2Q6TbLxMIGKF0",
-      "name": "Hyperextensions (Back Extensions)"
+      "name": "Hyperextensions (Back Extensions)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_o4Rkunj1QbxVvFsX",
-      "name": "Hyperextensions With No Hyperextension Bench"
+      "name": "Hyperextensions With No Hyperextension Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jPBDqI7i-g25JUm7",
-      "name": "Iliotibial Tract-SMR"
+      "name": "Iliotibial Tract-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_eaApUa8ZacjwfnI8",
-      "name": "Inchworm"
+      "name": "Inchworm",
+      "trackingType": "reps"
     },
     {
       "id": "ex_DW3LCzkjgVmpxK4r",
-      "name": "Incline Barbell Triceps Extension"
+      "name": "Incline Barbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ezebYCB6KhV-ejbP",
-      "name": "Incline Bench Press (Barbell)"
+      "name": "Incline Bench Press (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ey_CCTUO4ZT9qgiO",
-      "name": "Incline Bench Press (Dumbbell)"
+      "name": "Incline Bench Press (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_DHf-sIcB-Zz7DSzQ",
-      "name": "Incline Bench Press (Smith Machine)"
+      "name": "Incline Bench Press (Smith Machine)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_45fdtkGH7Aftsd6F",
-      "name": "Incline Bench Pull"
+      "name": "Incline Bench Pull",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UhFVremfGbMQBxns",
-      "name": "Incline Cable Chest Press"
+      "name": "Incline Cable Chest Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_yzFB6BRmOGc58lf4",
-      "name": "Incline Cable Fly"
+      "name": "Incline Cable Fly",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Fa7gDggf9yh-vuy5",
-      "name": "Incline Dumbbell Bench With Palms Facing In"
+      "name": "Incline Dumbbell Bench With Palms Facing In",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ohQRcc8NI_QSFqfa",
-      "name": "Incline Dumbbell Curl"
+      "name": "Incline Dumbbell Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_U0ZnhKtu4ZLdHaGM",
-      "name": "Incline Dumbbell Flyes"
+      "name": "Incline Dumbbell Flyes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PKM7jZ4pmDZAmRmf",
-      "name": "Incline Dumbbell Flyes - With A Twist"
+      "name": "Incline Dumbbell Flyes - With A Twist",
+      "trackingType": "reps"
     },
     {
       "id": "ex_rX6wZA1oUM0jhu_r",
-      "name": "Incline Dumbbell Press"
+      "name": "Incline Dumbbell Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_00haJ7F8CdR_2vkY",
-      "name": "Incline Hammer Curls"
+      "name": "Incline Hammer Curls",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vj4Qhs3k8fArkMM8",
-      "name": "Incline Inner Biceps Curl"
+      "name": "Incline Inner Biceps Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Hu2ZkhREmnxPg-ej",
-      "name": "Incline Push-Up"
+      "name": "Incline Push-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Hk4OcD8a3fmWfkQD",
-      "name": "Incline Push-Up Close-Grip"
+      "name": "Incline Push-Up Close-Grip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Ls5aHeteqmRZBMD2",
-      "name": "Incline Push-Up Depth Jump"
+      "name": "Incline Push-Up Depth Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_z88n2icsdHVTPlbH",
-      "name": "Incline Push-Up Medium"
+      "name": "Incline Push-Up Medium",
+      "trackingType": "reps"
     },
     {
       "id": "ex_I5ynLqOVwubR5RKT",
-      "name": "Incline Push-Up Reverse Grip"
+      "name": "Incline Push-Up Reverse Grip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5LGfbsSeskr-RxLZ",
-      "name": "Incline Push-Up Wide"
+      "name": "Incline Push-Up Wide",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_3RBKIWPAjK47GwDE",
+      "name": "Incline Shoulder Raise (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_D2k-XPejkOsD7HJX",
-      "name": "Intermediate Groin Stretch"
+      "name": "Intermediate Groin Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_hOihnyIOit1ythi2",
-      "name": "Intermediate Hip Flexor and Quad Stretch"
+      "name": "Intermediate Hip Flexor and Quad Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0GsaHLQApsKJFxBn",
-      "name": "Internal Rotation with Band"
+      "name": "Internal Rotation with Band",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8kQ2KpAUCurRBio0",
-      "name": "Inverted Row"
+      "name": "Inverted Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_bc_TlR90QRjjLuY5",
-      "name": "Inverted Row with Straps"
+      "name": "Inverted Row with Straps",
+      "trackingType": "reps"
     },
     {
       "id": "ex_sNu9-Z6UhQaOUMqg",
-      "name": "Iron Cross"
+      "name": "Iron Cross",
+      "trackingType": "reps"
     },
     {
       "id": "ex_U4IlHBeHXIEe4xGz",
-      "name": "Iron Crosses (stretch)"
+      "name": "Iron Crosses (stretch)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-9BG8yusqQ6HRC9x",
-      "name": "Isometric Chest Squeezes"
+      "name": "Isometric Chest Squeezes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_c3mrdFqvGUz5snR9",
-      "name": "Isometric Neck Exercise - Front And Back"
+      "name": "Isometric Neck Exercise - Front And Back",
+      "trackingType": "reps"
     },
     {
       "id": "ex_W5A73ZKcd2PzaXER",
-      "name": "Isometric Neck Exercise - Sides"
+      "name": "Isometric Neck Exercise - Sides",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ufRG9x8ZXAIa6b3v",
-      "name": "Isometric Wipers"
+      "name": "Isometric Wipers",
+      "trackingType": "reps"
     },
     {
       "id": "ex_JjIm5UtPqU_GfFAu",
-      "name": "IT Band and Glute Stretch"
+      "name": "IT Band and Glute Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HNMbpMUKGl4WA68L",
-      "name": "Jackknife Sit-Up"
+      "name": "Jackknife Sit-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-N_cV9Vh_6X_5f0C",
-      "name": "Janda Sit-Up"
+      "name": "Janda Sit-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1aSxoKqctflGqzfg",
-      "name": "Jefferson Squats"
+      "name": "Jefferson Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KjDL1TNBd8uJDsL-",
-      "name": "Jerk Balance"
+      "name": "Jerk Balance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_J5C5P146qs4t5JvT",
-      "name": "Jerk Dip Squat"
+      "name": "Jerk Dip Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Pnc6U-7IImt26gg4",
-      "name": "JM Press"
+      "name": "JM Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_oHDMxNB2dyDxR6ig",
-      "name": "Jogging, Treadmill"
+      "name": "Jogging, Treadmill",
+      "trackingType": "reps"
     },
     {
       "id": "ex_tQ9pxunqMfMs5A7k",
-      "name": "Keg Load"
+      "name": "Keg Load",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kQ31AzYN3YBiFuKD",
-      "name": "Kettlebell Arnold Press"
+      "name": "Kettlebell Arnold Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9ub8Zj2CzJnfnile",
-      "name": "Kettlebell Dead Clean"
+      "name": "Kettlebell Dead Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KSfifiRK77TGBvH5",
-      "name": "Kettlebell Figure 8"
+      "name": "Kettlebell Figure 8",
+      "trackingType": "reps"
     },
     {
       "id": "ex_P1S-sWHN962R_gnh",
-      "name": "Kettlebell Hang Clean"
+      "name": "Kettlebell Hang Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UroxLMM4FeuANrCH",
-      "name": "Kettlebell One-Legged Deadlift"
+      "name": "Kettlebell One-Legged Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_J0io36uLtbfTs3qp",
-      "name": "Kettlebell Pass Between The Legs"
+      "name": "Kettlebell Pass Between The Legs",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9kGrHDTCss2Dd3dI",
-      "name": "Kettlebell Pirate Ships"
+      "name": "Kettlebell Pirate Ships",
+      "trackingType": "reps"
     },
     {
       "id": "ex_IXQ7ylNTUtxE5N3k",
-      "name": "Kettlebell Pistol Squat"
+      "name": "Kettlebell Pistol Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_joznHC2rxpqg7X1N",
-      "name": "Kettlebell Seated Press"
+      "name": "Kettlebell Seated Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kz0CUO6hq0epsC1f",
-      "name": "Kettlebell Seesaw Press"
+      "name": "Kettlebell Seesaw Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EcZgsvfpiktuPDxG",
-      "name": "Kettlebell Sumo High Pull"
+      "name": "Kettlebell Sumo High Pull",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KGdGO8rdCi5qo02r",
-      "name": "Kettlebell Thruster"
+      "name": "Kettlebell Thruster",
+      "trackingType": "reps"
     },
     {
       "id": "ex_eEElHPupvkllucbU",
-      "name": "Kettlebell Turkish Get-Up (Lunge style)"
+      "name": "Kettlebell Turkish Get-Up (Lunge style)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_98nrDuF0y318tbgs",
-      "name": "Kettlebell Turkish Get-Up (Squat style)"
+      "name": "Kettlebell Turkish Get-Up (Squat style)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MWFWUrq-Jhnp_qZS",
-      "name": "Kipping Muscle Up"
+      "name": "Kipping Muscle Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_taWw17Ia2Op-29u9",
-      "name": "Knee Across The Body"
+      "name": "Knee Across The Body",
+      "trackingType": "reps"
     },
     {
       "id": "ex_T_625AGEO7_sDWWG",
-      "name": "Knee Circles"
+      "name": "Knee Circles",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Wok0hMIi7pbSlHQm",
-      "name": "Knee Tuck Jump"
+      "name": "Knee Tuck Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3frG5VwQwwVmeSCU",
-      "name": "Knee/Hip Raise On Parallel Bars"
+      "name": "Knee/Hip Raise On Parallel Bars",
+      "trackingType": "reps"
     },
     {
       "id": "ex_uCsvuCxLnhIp7M0V",
-      "name": "Kneeling Arm Drill"
+      "name": "Kneeling Arm Drill",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Vng-MysWvQaFrsRZ",
-      "name": "Kneeling Cable Crunch With Alternating Oblique Twists"
+      "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fkEG9tQ_9Chz72wi",
-      "name": "Kneeling Cable Triceps Extension"
+      "name": "Kneeling Cable Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dkgUkYHPjO6cVKyf",
-      "name": "Kneeling Forearm Stretch"
+      "name": "Kneeling Forearm Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_t1CLGDqp_Wr6Npr-",
-      "name": "Kneeling High Pulley Row"
+      "name": "Kneeling High Pulley Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mToOoEQrElIXfkKu",
-      "name": "Kneeling Hip Flexor"
+      "name": "Kneeling Hip Flexor",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XSqlfZc74YhskKW4",
-      "name": "Kneeling Jump Squat"
+      "name": "Kneeling Jump Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RnSyU_p6u2xbse1r",
-      "name": "Kneeling Single-Arm High Pulley Row"
+      "name": "Kneeling Single-Arm High Pulley Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EPwllrL_SuUIhzeQ",
-      "name": "Kneeling Squat"
+      "name": "Kneeling Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Tl9GDSiHeFaqffTg",
-      "name": "Knees Ab Rollout (Barbell)"
+      "name": "Knees Ab Rollout (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ChJd30Sw6OapNg8P",
-      "name": "Landmine 180's"
+      "name": "Landmine 180's",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MI2M-2zYfTG48oS2",
-      "name": "Landmine Linear Jammer"
+      "name": "Landmine Linear Jammer",
+      "trackingType": "reps"
     },
     {
       "id": "ex_A33kWMiqfyeG2yhi",
-      "name": "Landmine Shoulder Press"
+      "name": "Landmine Shoulder Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_bOMi628HN__88icm",
-      "name": "Lateral Bound"
+      "name": "Lateral Bound",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3xor0cktgrAmfIXd",
-      "name": "Lateral Box Jump"
+      "name": "Lateral Box Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_C4vdN5tmX5UKtLTa",
-      "name": "Lateral Cone Hops"
+      "name": "Lateral Cone Hops",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Z6fBMT5OZrv-GaG0",
-      "name": "Lateral Raise - With Bands"
+      "name": "Lateral Raise - With Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aZuaHcBpHsRoU96p",
-      "name": "Latissimus Dorsi-SMR"
+      "name": "Latissimus Dorsi-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_SRRGsYjVrhw7imU9",
-      "name": "Leg Extensions"
+      "name": "Leg Extensions",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PAE-2Qn5uENrKOPz",
-      "name": "Leg Lift"
+      "name": "Leg Lift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aZWBsEtXDMz575_1",
-      "name": "Leg Press"
+      "name": "Leg Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HyO7CuecCWBJTvyp",
-      "name": "Leg Pull-In"
+      "name": "Leg Pull-In",
+      "trackingType": "reps"
     },
     {
       "id": "ex_X3mbzP2MxDnmknbV",
-      "name": "Leg-Over Floor Press"
+      "name": "Leg-Over Floor Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_15EBjP4BGYP3yOVn",
-      "name": "Leg-Up Hamstring Stretch"
+      "name": "Leg-Up Hamstring Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_82Z5-fbg0W7J_713",
-      "name": "Leverage Chest Press"
+      "name": "Leverage Chest Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_v9WaE_BBOTP_DAr0",
-      "name": "Leverage Deadlift"
+      "name": "Leverage Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UHXQhUs8W8TI-DBQ",
-      "name": "Leverage Decline Chest Press"
+      "name": "Leverage Decline Chest Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_H4l3TJ2Zol9H1_A3",
-      "name": "Leverage High Row"
+      "name": "Leverage High Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ValzRgaStGDAT3Cr",
-      "name": "Leverage Incline Chest Press"
+      "name": "Leverage Incline Chest Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vfRgJo6UIbJylTV6",
-      "name": "Leverage Iso Row"
+      "name": "Leverage Iso Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XxfcUD9J_XNh4ruj",
-      "name": "Leverage Shoulder Press"
+      "name": "Leverage Shoulder Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4SszAIi7KcZ0aX3B",
-      "name": "Leverage Shrug"
+      "name": "Leverage Shrug",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pA-a5k2eHCQ6shiQ",
-      "name": "Linear 3-Part Start Technique"
+      "name": "Linear 3-Part Start Technique",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6n1RbYfamDScjyi3",
-      "name": "Linear Acceleration Wall Drill"
+      "name": "Linear Acceleration Wall Drill",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6U-Zs3caTAgXFyc0",
-      "name": "Linear Depth Jump"
+      "name": "Linear Depth Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_d1G9DyWe-NQzoO_o",
-      "name": "Log Lift"
+      "name": "Log Lift",
+      "trackingType": "reps"
     },
     {
       "id": "ex__3X6BQ16LimdBKIW",
-      "name": "London Bridges"
+      "name": "London Bridges",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EUcuPLA8Lh3yiuD5",
-      "name": "Looking At Ceiling"
+      "name": "Looking At Ceiling",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jUey4gGnZ-GkncUb",
-      "name": "Low Cable Crossover"
+      "name": "Low Cable Crossover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_O7QsC6sXtHKBarGW",
-      "name": "Low Cable Triceps Extension"
+      "name": "Low Cable Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4QTQF6bH-WSNGi8J",
-      "name": "Low Pulley Row To Neck"
+      "name": "Low Pulley Row To Neck",
+      "trackingType": "reps"
     },
     {
       "id": "ex_haDsGjlGvqHwg7Rs",
-      "name": "Lower Back Curl"
+      "name": "Lower Back Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kE9YrZwYPAqqTVi3",
-      "name": "Lower Back-SMR"
+      "name": "Lower Back-SMR",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_0o0jEDX0S37QnpIe",
+      "name": "Lunge (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_67hnhRi0VGix2q3x",
-      "name": "Lunge Pass Through"
+      "name": "Lunge Pass Through",
+      "trackingType": "reps"
     },
     {
       "id": "ex_tVRjtRK-nHF0pCoF",
-      "name": "Lunge Sprint"
+      "name": "Lunge Sprint",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zmT4PTTh5C5Y-Q1-",
-      "name": "Lying Bent Leg Groin"
+      "name": "Lying Bent Leg Groin",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3FOkh7zaXZQ6_ndS",
-      "name": "Lying Cable Curl"
+      "name": "Lying Cable Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NfJfEQ5iMj5QgBn-",
-      "name": "Lying Cambered Barbell Row"
+      "name": "Lying Cambered Barbell Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_obwMJ5-cV8nkShwf",
-      "name": "Lying Close-Grip Bar Curl On High Pulley"
+      "name": "Lying Close-Grip Bar Curl On High Pulley",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Ns5rd_NoGuCjvt0i",
-      "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head"
+      "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+      "trackingType": "reps"
     },
     {
       "id": "ex_laWUuE11OFR8xkbm",
-      "name": "Lying Close-Grip Barbell Triceps Press To Chin"
+      "name": "Lying Close-Grip Barbell Triceps Press To Chin",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lpqTnsHpyiyQBZWv",
-      "name": "Lying Crossover"
+      "name": "Lying Crossover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ZSjpe5IWunancENm",
-      "name": "Lying Dumbbell Tricep Extension"
+      "name": "Lying Dumbbell Tricep Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gJaz5Od5EhKtXb85",
-      "name": "Lying Face Down Plate Neck Resistance"
+      "name": "Lying Face Down Plate Neck Resistance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3z8TRPbvssv9s9p1",
-      "name": "Lying Face Up Plate Neck Resistance"
+      "name": "Lying Face Up Plate Neck Resistance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Av68NvWFWv_rAgLb",
-      "name": "Lying Glute"
+      "name": "Lying Glute",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0KwWqcc3Om9Z6Tlp",
-      "name": "Lying Hamstring"
+      "name": "Lying Hamstring",
+      "trackingType": "reps"
     },
     {
       "id": "ex_36iZmjD_yqykI_El",
-      "name": "Lying High Bench Barbell Curl"
+      "name": "Lying High Bench Barbell Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EqayEmnxlpxKPpYW",
-      "name": "Lying Leg Curls"
+      "name": "Lying Leg Curls",
+      "trackingType": "reps"
     },
     {
       "id": "ex_L8-zow83kaKS3XZu",
-      "name": "Lying Machine Squat"
+      "name": "Lying Machine Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NYft9ejq4Y5kBvTw",
-      "name": "Lying One-Arm Lateral Raise"
+      "name": "Lying One-Arm Lateral Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WpYTBl-DRkY_Ozgc",
-      "name": "Lying Prone Quadriceps"
+      "name": "Lying Prone Quadriceps",
+      "trackingType": "reps"
     },
     {
       "id": "ex_IpFHmUis7iOB0-6Y",
-      "name": "Lying Rear Delt Raise"
+      "name": "Lying Rear Delt Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7YAp9_yJY9g_TLWt",
-      "name": "Lying Supine Dumbbell Curl"
+      "name": "Lying Supine Dumbbell Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8lcvxPuLpoGmjr9Y",
-      "name": "Lying T-Bar Row"
+      "name": "Lying T-Bar Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Pmmgp6ky1WzpzBNB",
-      "name": "Lying Triceps Press"
+      "name": "Lying Triceps Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XqwtBiIHXezhGCzs",
-      "name": "Machine Bench Press"
+      "name": "Machine Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6lU3J-aAIRWJNnhC",
-      "name": "Machine Bicep Curl"
+      "name": "Machine Bicep Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Vd9gUIX9wBEMvYBe",
-      "name": "Machine Shoulder (Military) Press"
+      "name": "Machine Shoulder (Military) Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7i1i_oee5W4EHM8f",
-      "name": "Machine Triceps Extension"
+      "name": "Machine Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lM2h09uSdPWgRr3T",
-      "name": "Medicine Ball Chest Pass"
+      "name": "Medicine Ball Chest Pass",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Rw2xspldbbwHNwny",
-      "name": "Medicine Ball Full Twist"
+      "name": "Medicine Ball Full Twist",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-pDFQyA4P2c-L6la",
-      "name": "Medicine Ball Scoop Throw"
+      "name": "Medicine Ball Scoop Throw",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pfp63dr_KHyi1aic",
-      "name": "Middle Back Shrug"
+      "name": "Middle Back Shrug",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FThtkBmx97HbOVL0",
-      "name": "Middle Back Stretch"
+      "name": "Middle Back Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ho_6PawnwVETjvar",
-      "name": "Mixed Grip Chin"
+      "name": "Mixed Grip Chin",
+      "trackingType": "reps"
     },
     {
       "id": "ex_iXLQi5pB4VqYQrgB",
-      "name": "Monster Walk"
+      "name": "Monster Walk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dulu57yxslNQYJvq",
-      "name": "Mountain Climbers"
+      "name": "Mountain Climbers",
+      "trackingType": "reps"
     },
     {
       "id": "ex_K6-X9PCu8t5__ZqE",
-      "name": "Moving Claw Series"
+      "name": "Moving Claw Series",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CKavMGh3c-lx6qFI",
-      "name": "Muscle Snatch"
+      "name": "Muscle Snatch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XprHu0d4DNWfin1T",
-      "name": "Muscle Up"
+      "name": "Muscle Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_T5FEhoANjirh8uCC",
-      "name": "Narrow Stance Hack Squats"
+      "name": "Narrow Stance Hack Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Mu3Bpvuy4nOTppiB",
-      "name": "Narrow Stance Leg Press"
+      "name": "Narrow Stance Leg Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wzGcVE5W5FhbvqXb",
-      "name": "Narrow Stance Squats"
+      "name": "Narrow Stance Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fMcIhO7aSMq5hslk",
-      "name": "Natural Glute Ham Raise"
+      "name": "Natural Glute Ham Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vQ0kYplIb5jvdQ6o",
-      "name": "Neck Press"
+      "name": "Neck Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wZ3Ac7Qw9Doo3wuV",
-      "name": "Neck-SMR"
+      "name": "Neck-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aJuaGckpiB8yh3jh",
-      "name": "Oblique Crunches"
+      "name": "Oblique Crunches",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Up6cGSItT6-54o-p",
-      "name": "Oblique Crunches - On The Floor"
+      "name": "Oblique Crunches - On The Floor",
+      "trackingType": "reps"
     },
     {
       "id": "ex_o1yiu-5n04a3Tzrg",
-      "name": "Olympic Squat"
+      "name": "Olympic Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_oRcFsIcl9x4APJsv",
-      "name": "On Your Side Quad Stretch"
+      "name": "On Your Side Quad Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xdBBN5-DSpbPQUrS",
-      "name": "On-Your-Back Quad Stretch"
+      "name": "On-Your-Back Quad Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_J8iM6ow1TzHihm_v",
-      "name": "One Arm Against Wall"
+      "name": "One Arm Against Wall",
+      "trackingType": "reps"
     },
     {
       "id": "ex_z6ZHLHWnvJCYt6CF",
-      "name": "One Arm Chin-Up"
+      "name": "One Arm Chin-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex__zEFSLh0sbdpNxbV",
-      "name": "One Arm Dumbbell Bench Press"
+      "name": "One Arm Dumbbell Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1VIY9LtOMcaiI4sd",
-      "name": "One Arm Floor Press"
+      "name": "One Arm Floor Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_p6ZRLKrRcvsmpDCb",
-      "name": "One Arm Lat Pulldown"
+      "name": "One Arm Lat Pulldown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pgqRNeTKaQEFc2iH",
-      "name": "One Arm Pronated Dumbbell Triceps Extension"
+      "name": "One Arm Pronated Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_2wM2vfgv-k_JXqJv",
-      "name": "One Arm Supinated Dumbbell Triceps Extension"
+      "name": "One Arm Supinated Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_iT8FYZGihN1fnEYg",
-      "name": "One Half Locust"
+      "name": "One Half Locust",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pPFNfR8WpvfVCiz_",
-      "name": "One Handed Hang"
+      "name": "One Handed Hang",
+      "trackingType": "reps"
     },
     {
       "id": "ex_v666kDHLRD3EKV0l",
-      "name": "One Knee To Chest"
+      "name": "One Knee To Chest",
+      "trackingType": "reps"
     },
     {
       "id": "ex_BkDy9_Sjg1Vf82hx",
-      "name": "One Leg Barbell Squat"
+      "name": "One Leg Barbell Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NGbFZwsUfgCqyrNr",
-      "name": "One-Arm Dumbbell Row"
+      "name": "One-Arm Dumbbell Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GkUJBQYRvXJzHZdB",
-      "name": "One-Arm Flat Bench Dumbbell Flye"
+      "name": "One-Arm Flat Bench Dumbbell Flye",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5dfonf1B0uSKy9Xd",
-      "name": "One-Arm High-Pulley Cable Side Bends"
+      "name": "One-Arm High-Pulley Cable Side Bends",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ZnMCtQh5d7GZ5myv",
-      "name": "One-Arm Incline Lateral Raise"
+      "name": "One-Arm Incline Lateral Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_V-k30NR3YpIbPtDP",
-      "name": "One-Arm Kettlebell Clean"
+      "name": "One-Arm Kettlebell Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex__nzywoHF0K4r1eP8",
-      "name": "One-Arm Kettlebell Clean and Jerk"
+      "name": "One-Arm Kettlebell Clean and Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mj2WMroHWy5Pcj4f",
-      "name": "One-Arm Kettlebell Floor Press"
+      "name": "One-Arm Kettlebell Floor Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mJY6RNdFMkO48RMF",
-      "name": "One-Arm Kettlebell Jerk"
+      "name": "One-Arm Kettlebell Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_k8pjrKgeaSx41Icl",
-      "name": "One-Arm Kettlebell Military Press To The Side"
+      "name": "One-Arm Kettlebell Military Press To The Side",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fRnSniaorYgvDzVV",
-      "name": "One-Arm Kettlebell Para Press"
+      "name": "One-Arm Kettlebell Para Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_TwypcI8FdF1a3Spl",
-      "name": "One-Arm Kettlebell Push Press"
+      "name": "One-Arm Kettlebell Push Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_sl8mwoc_DbkMzDrm",
-      "name": "One-Arm Kettlebell Row"
+      "name": "One-Arm Kettlebell Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Ra8j1ODHT1nwyVse",
-      "name": "One-Arm Kettlebell Snatch"
+      "name": "One-Arm Kettlebell Snatch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VuefCVebBTQ81MiU",
-      "name": "One-Arm Kettlebell Split Jerk"
+      "name": "One-Arm Kettlebell Split Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MI656IFmGswS62nX",
-      "name": "One-Arm Kettlebell Split Snatch"
+      "name": "One-Arm Kettlebell Split Snatch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_iSr23E6DlllNFKnd",
-      "name": "One-Arm Kettlebell Swings"
+      "name": "One-Arm Kettlebell Swings",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HSM9Tc3Bl47cclcs",
-      "name": "One-Arm Long Bar Row"
+      "name": "One-Arm Long Bar Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ske0m6wOyutUXRi-",
-      "name": "One-Arm Medicine Ball Slam"
+      "name": "One-Arm Medicine Ball Slam",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3lDr7GvLjjhKXUw-",
-      "name": "One-Arm Open Palm Kettlebell Clean"
+      "name": "One-Arm Open Palm Kettlebell Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dA5GN2bNgR_ZP0K8",
-      "name": "One-Arm Overhead Kettlebell Squats"
+      "name": "One-Arm Overhead Kettlebell Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MihoMzryFBWXXSX5",
-      "name": "One-Arm Side Deadlift"
+      "name": "One-Arm Side Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FMUjNurKYXDtT1RD",
-      "name": "One-Arm Side Laterals"
+      "name": "One-Arm Side Laterals",
+      "trackingType": "reps"
     },
     {
       "id": "ex_n1_9f9JSGODNONaE",
-      "name": "One-Legged Cable Kickback"
+      "name": "One-Legged Cable Kickback",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fp7gETuWMrz8pj_x",
-      "name": "Open Palm Kettlebell Clean"
+      "name": "Open Palm Kettlebell Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FplbXF_s9UvqOTyF",
-      "name": "Otis-Up"
+      "name": "Otis-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jezGmNDUU-e-9obG",
-      "name": "Overhead Barbell Triceps Extension"
+      "name": "Overhead Barbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_j4DNqlNtZoF4zI95",
-      "name": "Overhead Cable Curl"
+      "name": "Overhead Cable Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-YkVbwlYm6W90kc1",
-      "name": "Overhead Dumbbell Triceps Extension"
+      "name": "Overhead Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_OE8Cp9_QDrSSDdUU",
-      "name": "Overhead Lat Pull (with partner)"
+      "name": "Overhead Lat Pull (with partner)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_WZ4b6Vl2ZAbqzbkA",
+      "name": "Overhead Press (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Hb4USXRaG01Bimwu",
-      "name": "Overhead Slam"
+      "name": "Overhead Slam",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4saDJSOAppZiXD-G",
-      "name": "Overhead Squat"
+      "name": "Overhead Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_hGMjo7Rx_ehAwqkm",
-      "name": "Overhead Stretch"
+      "name": "Overhead Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lxRMjG4W_wIePQnX",
-      "name": "Overhead Triceps Extension (Cable)"
+      "name": "Overhead Triceps Extension (Cable)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_40U7LHRjAk_Sv_Fm",
-      "name": "Overhead Triceps Extension (with partner)"
+      "name": "Overhead Triceps Extension (with partner)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Bpt-btWE9yV1zMp9",
-      "name": "Pallof Press"
+      "name": "Pallof Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ZE2NOS0sgi9LfXTc",
-      "name": "Pallof Press With Rotation"
+      "name": "Pallof Press With Rotation",
+      "trackingType": "reps"
     },
     {
       "id": "ex_05N_omi_QgfAHcUz",
-      "name": "Palms-Down Dumbbell Wrist Curl Over A Bench"
+      "name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0CqJQh8atrMqCFjr",
-      "name": "Palms-Down Wrist Curl Over A Bench"
+      "name": "Palms-Down Wrist Curl Over A Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0jZ_jtZYFtAocD5N",
-      "name": "Palms-Up Barbell Wrist Curl Over A Bench"
+      "name": "Palms-Up Barbell Wrist Curl Over A Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EYDW9F4_h5qNEidD",
-      "name": "Palms-Up Dumbbell Wrist Curl Over A Bench"
+      "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Bby7y2bpZZrzsgGJ",
-      "name": "Parallel Bar Dip"
+      "name": "Parallel Bar Dip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_o8TXopEW5ql39rk-",
-      "name": "Pause Squats"
+      "name": "Pause Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex_uqNF0XrmjURNxKkx",
-      "name": "Pelvic Tilt Into Bridge"
+      "name": "Pelvic Tilt Into Bridge",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WnPMZvRtWWvUIZOs",
-      "name": "Peroneals Stretch"
+      "name": "Peroneals Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4KTTs79flsgJ_kku",
-      "name": "Peroneals-SMR"
+      "name": "Peroneals-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zAeyYO18M6gRdX9w",
-      "name": "Physioball Hip Bridge"
+      "name": "Physioball Hip Bridge",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CT7saa8cRXc8Fuad",
-      "name": "Pin Presses"
+      "name": "Pin Presses",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Ww3jrV_g2FTO8vf3",
-      "name": "Piriformis-SMR"
+      "name": "Piriformis-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_rOkrYlUeujBx7bJS",
-      "name": "Plank"
+      "name": "Plank",
+      "trackingType": "duration"
     },
     {
       "id": "ex_zojcee_5xG0bGVY9",
-      "name": "Plate Pinch"
+      "name": "Plate Pinch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_sAjAdTxecLIGLLfb",
-      "name": "Plate Twist"
+      "name": "Plate Twist",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Pl49aY9ZmJVL9Ce3",
-      "name": "Platform Hamstring Slides"
+      "name": "Platform Hamstring Slides",
+      "trackingType": "reps"
     },
     {
       "id": "ex_R93JXTcnS-FHPiUE",
-      "name": "Plie Dumbbell Squat"
+      "name": "Plie Dumbbell Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0kpwuGMAv1qzgyWV",
-      "name": "Plyo Kettlebell Pushups"
+      "name": "Plyo Kettlebell Pushups",
+      "trackingType": "reps"
     },
     {
       "id": "ex_d8tV0KSIlo8wKEGK",
-      "name": "Plyo Push-up"
+      "name": "Plyo Push-up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_p6TcKS4w-PDX7SvQ",
-      "name": "Posterior Tibialis Stretch"
+      "name": "Posterior Tibialis Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7fyJVVJul28HaTfh",
-      "name": "Power Clean"
+      "name": "Power Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_M2lSjHfFo1Pucdlg",
-      "name": "Power Clean from Blocks"
+      "name": "Power Clean from Blocks",
+      "trackingType": "reps"
     },
     {
       "id": "ex_bKMhzNh2kOz07XEp",
-      "name": "Power Jerk"
+      "name": "Power Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XE7wIhpeCcwVXh4Y",
-      "name": "Power Partials"
+      "name": "Power Partials",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9D1Ax7tw8Ho9SZUc",
-      "name": "Power Snatch"
+      "name": "Power Snatch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_QcX6AXI6jSlyJaxh",
-      "name": "Power Snatch from Blocks"
+      "name": "Power Snatch from Blocks",
+      "trackingType": "reps"
     },
     {
       "id": "ex_BAk8ZEBxNid_-Oe7",
-      "name": "Power Stairs"
+      "name": "Power Stairs",
+      "trackingType": "reps"
     },
     {
       "id": "ex_a3q3pBsWtmtAUesy",
-      "name": "Preacher Curl (Cable)"
+      "name": "Preacher Curl (Cable)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_juo2lya0FpCYfUzq",
-      "name": "Preacher Curl (EZ Bar)"
+      "name": "Preacher Curl (EZ Bar)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VBwClv0dyb-1Ku-2",
-      "name": "Preacher Curl (Machine)"
+      "name": "Preacher Curl (Machine)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_d1tFpGYq08a58Qm_",
-      "name": "Preacher Hammer Curl (Dumbbell)"
+      "name": "Preacher Hammer Curl (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VIymGtMtDrUh_grp",
-      "name": "Press Sit-Up"
+      "name": "Press Sit-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-m3vYLJ05Qi_taYu",
-      "name": "Prone Manual Hamstring"
+      "name": "Prone Manual Hamstring",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NO9OA-D0vI5PRUMH",
-      "name": "Prowler Sprint"
+      "name": "Prowler Sprint",
+      "trackingType": "reps"
     },
     {
       "id": "ex_iESWrIqKokIi5jkF",
-      "name": "Pull Apart (Band)"
+      "name": "Pull Apart (Band)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4-2QFDLvEK8ZdV_z",
-      "name": "Pull Through"
+      "name": "Pull Through",
+      "trackingType": "reps"
     },
     {
       "id": "ex_S7rjIBFoRGnHDuin",
-      "name": "Pull-Ups"
+      "name": "Pull-Ups",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WSFOR5Yyv1W8s5Xf",
-      "name": "Push Press"
+      "name": "Push Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_83zbucK6DRSWOdzX",
-      "name": "Push Press - Behind the Neck"
+      "name": "Push Press - Behind the Neck",
+      "trackingType": "reps"
     },
     {
       "id": "ex_j4eZynmfid5YkjYT",
-      "name": "Push Up to Side Plank"
+      "name": "Push Up to Side Plank",
+      "trackingType": "reps"
     },
     {
       "id": "ex_2SrmcGeQHq5Uv72B",
-      "name": "Push-Up Wide"
+      "name": "Push-Up Wide",
+      "trackingType": "reps"
     },
     {
       "id": "ex_298wk-Xht-KA8tJq",
-      "name": "Push-Ups"
+      "name": "Push-Ups",
+      "trackingType": "reps"
     },
     {
       "id": "ex_i4iGp0cawoUF-Mr0",
-      "name": "Push-Ups - Close Triceps Position"
+      "name": "Push-Ups - Close Triceps Position",
+      "trackingType": "reps"
     },
     {
       "id": "ex_OkwTcXlajM7405HF",
-      "name": "Push-Ups With Feet Elevated"
+      "name": "Push-Ups With Feet Elevated",
+      "trackingType": "reps"
     },
     {
       "id": "ex_P3PJL31qY-yP5rSm",
-      "name": "Push-Ups With Feet On An Exercise Ball"
+      "name": "Push-Ups With Feet On An Exercise Ball",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dd_caEDi5cfMWZnF",
-      "name": "Pushups (Close and Wide Hand Positions)"
+      "name": "Pushups (Close and Wide Hand Positions)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HsHdAERPkuGisQEx",
-      "name": "Pyramid"
+      "name": "Pyramid",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0oQ-VNQhOMh1_pqW",
-      "name": "Quad Stretch"
+      "name": "Quad Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VBCufPw7MKI1rRiC",
-      "name": "Quadriceps-SMR"
+      "name": "Quadriceps-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6MMR-d0RJ4IgiBDJ",
-      "name": "Quick Leap"
+      "name": "Quick Leap",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PpKBY-Rw7svZ8CYM",
-      "name": "Rack Delivery"
+      "name": "Rack Delivery",
+      "trackingType": "reps"
     },
     {
       "id": "ex_b_M3cYyjbCL8oqgf",
-      "name": "Rack Pull with Bands"
+      "name": "Rack Pull with Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_a_g58Q3yjSMvmDA-",
-      "name": "Rack Pulls"
+      "name": "Rack Pulls",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_jUJolgBRByDxmw46",
+      "name": "Rear Delt Row (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dsw2k71NISVEF_0D",
-      "name": "Rear Leg Raises"
+      "name": "Rear Leg Raises",
+      "trackingType": "reps"
     },
     {
       "id": "ex_hre77iiDX6kf_jlz",
-      "name": "Recumbent Bike"
+      "name": "Recumbent Bike",
+      "trackingType": "reps"
     },
     {
       "id": "ex_taAwDXOvyR385JUK",
-      "name": "Renegade Row (Kettlebell)"
+      "name": "Renegade Row (Kettlebell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8d3vHS9kl704jvq1",
-      "name": "Return Push from Stance"
+      "name": "Return Push from Stance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fpzqjWvn5flBXp16",
-      "name": "Reverse Band Bench Press"
+      "name": "Reverse Band Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jstZGY7Wy1dqzFKQ",
-      "name": "Reverse Band Box Squat"
+      "name": "Reverse Band Box Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_016n_4FC41DWsJ6J",
-      "name": "Reverse Band Deadlift"
+      "name": "Reverse Band Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_YCeplhZJLlaktrjK",
-      "name": "Reverse Band Power Squat"
+      "name": "Reverse Band Power Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GMOC1P5QCy2NvlSC",
-      "name": "Reverse Band Sumo Deadlift"
+      "name": "Reverse Band Sumo Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zvheuzLOILFWEqzp",
-      "name": "Reverse Barbell Curl"
+      "name": "Reverse Barbell Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5c0EOgxIXCU1zisF",
-      "name": "Reverse Cable Curl"
+      "name": "Reverse Cable Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4EeOT9OId2u2H0lt",
-      "name": "Reverse Crunch"
+      "name": "Reverse Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_rAF90dU9tiUW5_lk",
-      "name": "Reverse Flyes"
+      "name": "Reverse Flyes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3dIRZAYt1P63TqTB",
-      "name": "Reverse Flyes With External Rotation"
+      "name": "Reverse Flyes With External Rotation",
+      "trackingType": "reps"
     },
     {
       "id": "ex_t9F46idOzywYyPc2",
-      "name": "Reverse Grip Bent-Over Rows"
+      "name": "Reverse Grip Bent-Over Rows",
+      "trackingType": "reps"
     },
     {
       "id": "ex_28lns5eDKbxRUUvh",
-      "name": "Reverse Grip Triceps Pushdown"
+      "name": "Reverse Grip Triceps Pushdown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_s3Edfgaayx2JfQdC",
-      "name": "Reverse Hyperextension"
+      "name": "Reverse Hyperextension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Ys83vGxK9nV4zMkz",
-      "name": "Reverse Machine Flyes"
+      "name": "Reverse Machine Flyes",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CW3mhKe_ToyIwjY2",
-      "name": "Reverse Plate Curls"
+      "name": "Reverse Plate Curls",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KDEa68P7rh-y-R1R",
-      "name": "Reverse Preacher Curl (Barbell)"
+      "name": "Reverse Preacher Curl (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_M6oERdPTAVUVCnNQ",
-      "name": "Reverse Triceps Bench Press"
+      "name": "Reverse Triceps Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PLUrH2jLRpf6RHs4",
-      "name": "Rhomboids-SMR"
+      "name": "Rhomboids-SMR",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4KG9_FkZKn_aC4t-",
-      "name": "Rickshaw Carry"
+      "name": "Rickshaw Carry",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CosbFJGOtFeOoWL0",
-      "name": "Rickshaw Deadlift"
+      "name": "Rickshaw Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Z6UTy3uAS_QRgjb7",
-      "name": "Ring Dips"
+      "name": "Ring Dips",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9atLZNldxhTDBFaP",
-      "name": "Rocket Jump"
+      "name": "Rocket Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_qGXx7v_PVJ_0AN4b",
-      "name": "Rocking Standing Calf Raise"
+      "name": "Rocking Standing Calf Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_LldqMayL7B3gfPhi",
-      "name": "Rocky Pull-Ups/Pulldowns"
+      "name": "Rocky Pull-Ups/Pulldowns",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_BuvdoioWEr2M7Pfh",
+      "name": "Rollout from Bench (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mNDQcSGhYO_I-b6Y",
-      "name": "Romanian Deadlift"
+      "name": "Romanian Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HisFu3_iFSu6qtya",
-      "name": "Romanian Deadlift from Deficit"
+      "name": "Romanian Deadlift from Deficit",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aXZCcSxi1G9yFY_Q",
-      "name": "Rope Climb"
+      "name": "Rope Climb",
+      "trackingType": "reps"
     },
     {
       "id": "ex_A-ysLqBx_GwmoRwz",
-      "name": "Rope Crunch"
+      "name": "Rope Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FRCRXyMrA6Gv9URE",
-      "name": "Rope Jumping"
+      "name": "Rope Jumping",
+      "trackingType": "reps"
     },
     {
       "id": "ex_s9bgpSBAAPLck5QY",
-      "name": "Rope Straight-Arm Pulldown"
+      "name": "Rope Straight-Arm Pulldown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_u_Kb-pmuqwAXFXIP",
-      "name": "Round The World Shoulder Stretch"
+      "name": "Round The World Shoulder Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NH6VHH8qLDHvoVNG",
-      "name": "Rowing, Stationary"
+      "name": "Rowing, Stationary",
+      "trackingType": "reps"
     },
     {
       "id": "ex_tTcPeSEEbu5g2sw4",
-      "name": "Runner's Stretch"
+      "name": "Runner's Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Fr8lLv1eJEvlg1c9",
-      "name": "Running, Treadmill"
+      "name": "Running, Treadmill",
+      "trackingType": "reps"
     },
     {
       "id": "ex_sMs9seHnfphvrFTk",
-      "name": "Russian Twist"
+      "name": "Russian Twist",
+      "trackingType": "reps"
     },
     {
       "id": "ex_163sVTe2yzAYtYwB",
-      "name": "Sandbag Load"
+      "name": "Sandbag Load",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nEjhD7ySmIkmWZFl",
-      "name": "Scapular Pull-Up"
+      "name": "Scapular Pull-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ynwkR5QuGHVAUtdD",
-      "name": "Scissor Kick"
+      "name": "Scissor Kick",
+      "trackingType": "reps"
     },
     {
       "id": "ex_M7xjSgcYt6Q683-C",
-      "name": "Scissors Jump"
+      "name": "Scissors Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_yPyOF3mBtIoSZyHr",
-      "name": "Seated Band Hamstring Curl"
+      "name": "Seated Band Hamstring Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xVISjsIt6w8xCHPG",
-      "name": "Seated Barbell Military Press"
+      "name": "Seated Barbell Military Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RgxmyNM4F1Im7vJr",
-      "name": "Seated Barbell Twist"
+      "name": "Seated Barbell Twist",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5kfaeiSY4avqu_pl",
-      "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension"
+      "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_x3VJ7XBZtxknDX9L",
-      "name": "Seated Bent-Over Rear Delt Raise"
+      "name": "Seated Bent-Over Rear Delt Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7fu5GY7lnvkQ860V",
-      "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension"
+      "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3dR8Z1JEZHQqgZja",
-      "name": "Seated Biceps"
+      "name": "Seated Biceps",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_t_Po4cXrjHRn-m8D",
+      "name": "Seated Cable Crossover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_yjR8aToLm9KQqMCH",
-      "name": "Seated Cable Rows"
+      "name": "Seated Cable Rows",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ftmWkHhCfWgiXzp4",
-      "name": "Seated Cable Shoulder Press"
+      "name": "Seated Cable Shoulder Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FRwokX8i4bwFQdoZ",
-      "name": "Seated Calf Raise"
+      "name": "Seated Calf Raise",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_OW4YMpkvd5xGKexl",
+      "name": "Seated Calf Raise (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VdHHjCgEPnjbX50s",
-      "name": "Seated Calf Stretch"
+      "name": "Seated Calf Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex__wFQzv7H9nRc5vDT",
-      "name": "Seated Close-Grip Concentration Barbell Curl"
+      "name": "Seated Close-Grip Concentration Barbell Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_scdQ7WH_r0F_UBK-",
-      "name": "Seated Dumbbell Curl"
+      "name": "Seated Dumbbell Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_W97oFJHusiPVhZuP",
-      "name": "Seated Dumbbell Inner Biceps Curl"
+      "name": "Seated Dumbbell Inner Biceps Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zgnfx69Ay7DPU3QM",
-      "name": "Seated Dumbbell Palms-Down Wrist Curl"
+      "name": "Seated Dumbbell Palms-Down Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_V1Fp3oSkRhPfCJya",
-      "name": "Seated Dumbbell Palms-Up Wrist Curl"
+      "name": "Seated Dumbbell Palms-Up Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_VX0wrqCJdXGqlPum",
-      "name": "Seated Flat Bench Leg Pull-In"
+      "name": "Seated Flat Bench Leg Pull-In",
+      "trackingType": "reps"
     },
     {
       "id": "ex_q0W8dr-GccVqFdr2",
-      "name": "Seated Floor Hamstring Stretch"
+      "name": "Seated Floor Hamstring Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_SJSKVK3VWjS42nwC",
-      "name": "Seated Front Deltoid"
+      "name": "Seated Front Deltoid",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7g1cbrGyZHhE1-e6",
-      "name": "Seated Glute"
+      "name": "Seated Glute",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kpV_Vnt0o-vNfWBp",
-      "name": "Seated Good Mornings"
+      "name": "Seated Good Mornings",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GMHmQ4favcI9EcfH",
-      "name": "Seated Hamstring"
+      "name": "Seated Hamstring",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4OITXqax3B2IW42z",
-      "name": "Seated Hamstring and Calf Stretch"
+      "name": "Seated Hamstring and Calf Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9Ir6uI4Xvm9uU-GI",
-      "name": "Seated Head Harness Neck Resistance"
+      "name": "Seated Head Harness Neck Resistance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0UOnBYYVIrCRQu5q",
-      "name": "Seated Leg Curl"
+      "name": "Seated Leg Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jhEXpmuFBu94TmZ5",
-      "name": "Seated Leg Tucks"
+      "name": "Seated Leg Tucks",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Abz3JtBBnn7AW30h",
-      "name": "Seated One-arm Cable Pulley Rows"
+      "name": "Seated One-arm Cable Pulley Rows",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GOpr4yNMhMH4NYB9",
-      "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl"
+      "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9g88TGIRSwJ2JLRw",
-      "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl"
+      "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_T449oIgvEppJkQTH",
-      "name": "Seated Overhead Press (Dumbbell)"
+      "name": "Seated Overhead Press (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5n6ebOJEekfMgT2R",
-      "name": "Seated Overhead Stretch"
+      "name": "Seated Overhead Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RfdYFyXY3_ew2Fk_",
-      "name": "Seated Palm-Up Barbell Wrist Curl"
+      "name": "Seated Palm-Up Barbell Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1kwecb7cvzER7fsR",
-      "name": "Seated Palms-Down Barbell Wrist Curl"
+      "name": "Seated Palms-Down Barbell Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UCx06CGdLzLVSU5Q",
-      "name": "Seated Side Lateral Raise"
+      "name": "Seated Side Lateral Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mHWF7e1K3lcrSXnr",
-      "name": "Seated Single-Leg Calf Raise (Dumbbell)"
+      "name": "Seated Single-Leg Calf Raise (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_oBTk_FESOttqnqZY",
-      "name": "Seated Triceps Press"
+      "name": "Seated Triceps Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wTLgBrV06lw0pZMi",
-      "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl"
+      "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wXIyuJMLjQqUp3M5",
-      "name": "See-Saw Press (Alternating Side Press)"
+      "name": "See-Saw Press (Alternating Side Press)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pwpesAiz2PHOm12m",
-      "name": "Shotgun Row"
+      "name": "Shotgun Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_c4NKSfW9sOwvXuZM",
-      "name": "Shoulder Circles"
+      "name": "Shoulder Circles",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3uOQUljJlxnxWXup",
-      "name": "Shoulder Press - With Bands"
+      "name": "Shoulder Press - With Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_YHHjjFF-kPutI2VR",
-      "name": "Shoulder Raise"
+      "name": "Shoulder Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_qxEHj8G6X_yRRdM7",
-      "name": "Shoulder Stretch"
+      "name": "Shoulder Stretch",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_vg5ldMu_H3iNOfEC",
+      "name": "Shrug (Barbell)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_bc4I8ycUANlRhiH6",
+      "name": "Shrug Behind The Back (Barbell)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_1Ojx4SimsEwEjiyG",
+      "name": "Side Bend (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mE2nC7RsRMO4L54I",
-      "name": "Side Bridge"
+      "name": "Side Bridge",
+      "trackingType": "reps"
     },
     {
       "id": "ex_hRLcV0AltsqiJvND",
-      "name": "Side Hop-Sprint"
+      "name": "Side Hop-Sprint",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mQ1Tjd4APAecfwgf",
-      "name": "Side Jackknife"
+      "name": "Side Jackknife",
+      "trackingType": "reps"
     },
     {
       "id": "ex_P-xPDoOclktS-Gdv",
-      "name": "Side Lateral Raise"
+      "name": "Side Lateral Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jzb0Fikm2ZSdwqau",
-      "name": "Side Laterals to Front Raise"
+      "name": "Side Laterals to Front Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RRAQqYF0iYqq7t0x",
-      "name": "Side Leg Raises"
+      "name": "Side Leg Raises",
+      "trackingType": "reps"
     },
     {
       "id": "ex_utvnJL3hRENXIm6X",
-      "name": "Side Lying Groin Stretch"
+      "name": "Side Lying Groin Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_OwrfVMe6xOl8konh",
-      "name": "Side Neck Stretch"
+      "name": "Side Neck Stretch",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_xMTP70cnwsdehRU0",
+      "name": "Side Split Squat (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8IBnOWnCJED9Y1BI",
-      "name": "Side Standing Long Jump"
+      "name": "Side Standing Long Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XeZT0OTAGYZIXuFQ",
-      "name": "Side to Side Box Shuffle"
+      "name": "Side to Side Box Shuffle",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1bOGY2JMY0lvOiZB",
-      "name": "Side To Side Chins"
+      "name": "Side To Side Chins",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RgMtvEmjbCpRjatt",
-      "name": "Side Wrist Pull"
+      "name": "Side Wrist Pull",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XAF5ee4hhhLGvJLz",
-      "name": "Side-Lying Floor Stretch"
+      "name": "Side-Lying Floor Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vY_A5kcbwHjqvO1W",
-      "name": "Single Dumbbell Raise"
+      "name": "Single Dumbbell Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gTtbd7o-SOatpgmU",
-      "name": "Single Leg Butt Kick"
+      "name": "Single Leg Butt Kick",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XIlqrTJ8wnxLOJnM",
-      "name": "Single Leg Glute Bridge"
+      "name": "Single Leg Glute Bridge",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8qkFyVc1YwZM0dMU",
-      "name": "Single Leg Push-off"
+      "name": "Single Leg Push-off",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Yu6tkgnW4ctj0xCg",
-      "name": "Single-Arm Cable Crossover"
+      "name": "Single-Arm Cable Crossover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_tF-roZsq_vLHFiLL",
-      "name": "Single-Arm Linear Jammer"
+      "name": "Single-Arm Linear Jammer",
+      "trackingType": "reps"
     },
     {
       "id": "ex_J1HkET7UQhmyfphh",
-      "name": "Single-Arm Preacher Curl (Dumbbell)"
+      "name": "Single-Arm Preacher Curl (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NXmkFkizVyDrFGOj",
-      "name": "Single-Arm Push-Up"
+      "name": "Single-Arm Push-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_yPoEoNe74ehyGwdz",
-      "name": "Single-Cone Sprint Drill"
+      "name": "Single-Cone Sprint Drill",
+      "trackingType": "reps"
     },
     {
       "id": "ex_LKazMVdwevxzblCZ",
-      "name": "Single-Leg Bent-Knee Calf Raise"
+      "name": "Single-Leg Bent-Knee Calf Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-lEWqmvSXgXxnJlq",
-      "name": "Single-Leg High Box Squat"
+      "name": "Single-Leg High Box Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_AxAvbrqtrLhd3TiL",
-      "name": "Single-Leg Hop Progression"
+      "name": "Single-Leg Hop Progression",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vK2AtiehsY5TfyPO",
-      "name": "Single-Leg Lateral Hop"
+      "name": "Single-Leg Lateral Hop",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Lrmfct3k6OZZDgoC",
-      "name": "Single-Leg Leg Extension"
+      "name": "Single-Leg Leg Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Xgp7fJOyChyqLS_j",
-      "name": "Single-Leg Romanian Deadlift"
+      "name": "Single-Leg Romanian Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NzG8Q0VCAeoH9THW",
-      "name": "Single-Leg Stride Jump"
+      "name": "Single-Leg Stride Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pZ81Eg9tIsSRnBnB",
-      "name": "Sit Squats"
+      "name": "Sit Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KNrfVcbd8CaJ79ti",
-      "name": "Sit-Up"
+      "name": "Sit-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_JqRNxhZXp_MFriFf",
-      "name": "Skating"
+      "name": "Skating",
+      "trackingType": "reps"
     },
     {
       "id": "ex_p8HU6Ampba73QMqC",
-      "name": "Skull Crusher (Band)"
+      "name": "Skull Crusher (Band)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GukaztUF4rNAUexj",
-      "name": "Skull Crusher (Barbell)"
+      "name": "Skull Crusher (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mPJcIe3IGFsuPEvp",
-      "name": "Sled Drag - Harness"
+      "name": "Sled Drag - Harness",
+      "trackingType": "reps"
     },
     {
       "id": "ex__f_eaLVwjXjGDAU6",
-      "name": "Sled Overhead Backward Walk"
+      "name": "Sled Overhead Backward Walk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_QAPFna5DzvHpl_cg",
-      "name": "Sled Overhead Triceps Extension"
+      "name": "Sled Overhead Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_2Wa0TzX9QGTidn6r",
-      "name": "Sled Push"
+      "name": "Sled Push",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PCaIR7rp8H5Vp-FI",
-      "name": "Sled Reverse Fly"
+      "name": "Sled Reverse Fly",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FokqmFBv1IHylAgR",
-      "name": "Sled Row"
+      "name": "Sled Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-3VsGs5vlvTlH494",
-      "name": "Sledgehammer Swings"
+      "name": "Sledgehammer Swings",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fdHNx0gdBw-nY7v9",
-      "name": "Smith Incline Shoulder Raise"
+      "name": "Smith Incline Shoulder Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7rPUVfgMF0uEdJWi",
-      "name": "Smith Machine Behind the Back Shrug"
+      "name": "Smith Machine Behind the Back Shrug",
+      "trackingType": "reps"
     },
     {
       "id": "ex_A_Oa7v9UJ-5lrwTr",
-      "name": "Smith Machine Bench Press"
+      "name": "Smith Machine Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NSBNlKKPnEdBHxnY",
-      "name": "Smith Machine Bent Over Row"
+      "name": "Smith Machine Bent Over Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CrAZqqp0VaLOcnfj",
-      "name": "Smith Machine Calf Raise"
+      "name": "Smith Machine Calf Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dHyPfAFo_t4DiDZ7",
-      "name": "Smith Machine Close-Grip Bench Press"
+      "name": "Smith Machine Close-Grip Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Up45sUlIk2Q5V--Y",
-      "name": "Smith Machine Decline Press"
+      "name": "Smith Machine Decline Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_JnSk6d6aQYwZo3c8",
-      "name": "Smith Machine Hang Power Clean"
+      "name": "Smith Machine Hang Power Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dnwG2qn_RjHOko5i",
-      "name": "Smith Machine Hip Raise"
+      "name": "Smith Machine Hip Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HuuxHwuauSTrhLU1",
-      "name": "Smith Machine Leg Press"
+      "name": "Smith Machine Leg Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-WfIO03IQa7g7-WE",
-      "name": "Smith Machine One-Arm Upright Row"
+      "name": "Smith Machine One-Arm Upright Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UmC-Jn1sSgOOobZp",
-      "name": "Smith Machine Overhead Shoulder Press"
+      "name": "Smith Machine Overhead Shoulder Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_iFeg2w20c4ywm9RI",
-      "name": "Smith Machine Pistol Squat"
+      "name": "Smith Machine Pistol Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_gNOakjBpV1HQr89z",
-      "name": "Smith Machine Reverse Calf Raises"
+      "name": "Smith Machine Reverse Calf Raises",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WaKT9gEP9PHWb5xC",
-      "name": "Smith Machine Squat"
+      "name": "Smith Machine Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mwXzp4XIvXr-ecfj",
-      "name": "Smith Machine Stiff-Legged Deadlift"
+      "name": "Smith Machine Stiff-Legged Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_v9---_jQG5cAorJQ",
-      "name": "Smith Machine Upright Row"
+      "name": "Smith Machine Upright Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FFaHQ7bGolQOH7IK",
-      "name": "Smith Single-Leg Split Squat"
+      "name": "Smith Single-Leg Split Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GLQIkEMtBiMCUSVP",
-      "name": "Snatch"
+      "name": "Snatch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_boI8quNKBxS0gElc",
-      "name": "Snatch Balance"
+      "name": "Snatch Balance",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NNe_Ji5fiyLmelNv",
-      "name": "Snatch Deadlift"
+      "name": "Snatch Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KIasLwACaca30YPn",
-      "name": "Snatch from Blocks"
+      "name": "Snatch from Blocks",
+      "trackingType": "reps"
     },
     {
       "id": "ex_e5gNXFSRyHRQBuwS",
-      "name": "Snatch Pull"
+      "name": "Snatch Pull",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PsUB0BgNIWiZEYSp",
-      "name": "Snatch Shrug"
+      "name": "Snatch Shrug",
+      "trackingType": "reps"
     },
     {
       "id": "ex_AZa3qYq6zXzUyryM",
-      "name": "Speed Band Overhead Triceps"
+      "name": "Speed Band Overhead Triceps",
+      "trackingType": "reps"
     },
     {
       "id": "ex_GVtnQpIYNexb1lVn",
-      "name": "Speed Box Squat"
+      "name": "Speed Box Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_mAPR7TZOfn8aGzB1",
-      "name": "Speed Squats"
+      "name": "Speed Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WhdU-HaMKI2Jheid",
-      "name": "Spell Caster"
+      "name": "Spell Caster",
+      "trackingType": "reps"
     },
     {
       "id": "ex_rIh-IdpEDBahhFqc",
-      "name": "Spider Crawl"
+      "name": "Spider Crawl",
+      "trackingType": "reps"
     },
     {
       "id": "ex__x3XILrjSDd3o6-S",
-      "name": "Spider Curl"
+      "name": "Spider Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dF0sKE7cEoNV7SF6",
-      "name": "Spider Curl (Barbell)"
+      "name": "Spider Curl (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MXD4gg6XsbZtzrR_",
-      "name": "Spinal Stretch"
+      "name": "Spinal Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xZnMZLL-zvjo70fj",
-      "name": "Split Clean"
+      "name": "Split Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_C0eY7piBXVWPDv8x",
-      "name": "Split Jerk"
+      "name": "Split Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7snE2FyC6zC4Y9TZ",
-      "name": "Split Jump"
+      "name": "Split Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_iRnTN9NFb2WnU66z",
-      "name": "Split Snatch"
+      "name": "Split Snatch",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_2p3naTujvZVeKPCh",
+      "name": "Split Squat (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_2GSLMJIlUE1dcUv8",
-      "name": "Split Squat with Dumbbells"
+      "name": "Split Squat with Dumbbells",
+      "trackingType": "reps"
     },
     {
       "id": "ex_k1EisYVaX-K9HLRF",
-      "name": "Split Squats"
+      "name": "Split Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-uySr_0l13A3dr71",
-      "name": "Squat Jerk"
+      "name": "Squat Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lutWssNV79QnJCpn",
-      "name": "Squat with Bands"
+      "name": "Squat with Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex__c204dJo2wC5Qp3T",
-      "name": "Squat with Chains"
+      "name": "Squat with Chains",
+      "trackingType": "reps"
     },
     {
       "id": "ex_qNyhAW-fGb31PKtT",
-      "name": "Squat with Plate Movers"
+      "name": "Squat with Plate Movers",
+      "trackingType": "reps"
     },
     {
       "id": "ex_LzSTdog9_Icg1QY0",
-      "name": "Squats - With Bands"
+      "name": "Squats - With Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HP1s-DgJp6BOspWY",
-      "name": "Stairmaster"
+      "name": "Stairmaster",
+      "trackingType": "reps"
     },
     {
       "id": "ex_AaSwL4lznZBLswnP",
-      "name": "Standing Alternating Dumbbell Press"
+      "name": "Standing Alternating Dumbbell Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Q3h5hrC0RYqruwNJ",
-      "name": "Standing Barbell Calf Raise"
+      "name": "Standing Barbell Calf Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_IM5ZAOXJyliaG9F4",
-      "name": "Standing Barbell Press Behind Neck"
+      "name": "Standing Barbell Press Behind Neck",
+      "trackingType": "reps"
     },
     {
       "id": "ex_BHPIgrStCcaKHtVD",
-      "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension"
+      "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lsVis_Ls3pAwTx2E",
-      "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension"
+      "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_s7vBCb9fRptNOJg2",
-      "name": "Standing Biceps Cable Curl"
+      "name": "Standing Biceps Cable Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ghoVusTr6ObWd0Wu",
-      "name": "Standing Biceps Stretch"
+      "name": "Standing Biceps Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_WLoQFySxo2bR4gML",
-      "name": "Standing Bradford Press"
+      "name": "Standing Bradford Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zdTJeyjuLSU0-icu",
-      "name": "Standing Cable Chest Press"
+      "name": "Standing Cable Chest Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_YvlfaLc1Xk40gz2R",
-      "name": "Standing Cable Lift"
+      "name": "Standing Cable Lift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-PINszvOobb7nzDd",
-      "name": "Standing Cable Wood Chop"
+      "name": "Standing Cable Wood Chop",
+      "trackingType": "reps"
     },
     {
       "id": "ex_3lr0UvsHl9jab6RN",
-      "name": "Standing Calf Raises"
+      "name": "Standing Calf Raises",
+      "trackingType": "reps"
     },
     {
       "id": "ex_M3nI0P23LtZ5pfcc",
-      "name": "Standing Concentration Curl"
+      "name": "Standing Concentration Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_zdhABwUcRBJzHnAJ",
-      "name": "Standing Dumbbell Calf Raise"
+      "name": "Standing Dumbbell Calf Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_DjkVTTx_n2r87uUU",
-      "name": "Standing Dumbbell Press"
+      "name": "Standing Dumbbell Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9Pivw0mcmwUJAxp6",
-      "name": "Standing Dumbbell Reverse Curl"
+      "name": "Standing Dumbbell Reverse Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_06FJyAxKIrxXWVtj",
-      "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head"
+      "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
+      "trackingType": "reps"
     },
     {
       "id": "ex_HI9QoPrM42B1Lgas",
-      "name": "Standing Dumbbell Triceps Extension"
+      "name": "Standing Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_4Ay3NjeL0wu9plPM",
-      "name": "Standing Dumbbell Upright Row"
+      "name": "Standing Dumbbell Upright Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pvvEkiQ5JdsUKY9O",
-      "name": "Standing Elevated Quad Stretch"
+      "name": "Standing Elevated Quad Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EerQRo66oy4ulP97",
-      "name": "Standing Front Barbell Raise Over Head"
+      "name": "Standing Front Barbell Raise Over Head",
+      "trackingType": "reps"
     },
     {
       "id": "ex_wXMe69TC-ZWhtTfT",
-      "name": "Standing Gastrocnemius Calf Stretch"
+      "name": "Standing Gastrocnemius Calf Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_tqX6Sr1WcAuezE8r",
-      "name": "Standing Hamstring and Calf Stretch"
+      "name": "Standing Hamstring and Calf Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Vsi6NcNboPrq3Ytu",
-      "name": "Standing Hip Circles"
+      "name": "Standing Hip Circles",
+      "trackingType": "reps"
     },
     {
       "id": "ex_lqpNEvGdREb0DZyW",
-      "name": "Standing Hip Flexors"
+      "name": "Standing Hip Flexors",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PolyFrDQ1k_OwiJl",
-      "name": "Standing Inner-Biceps Curl"
+      "name": "Standing Inner-Biceps Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NchzK1popw3NgFph",
-      "name": "Standing Lateral Stretch"
+      "name": "Standing Lateral Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nz8COuJzSCw_LjRX",
-      "name": "Standing Leg Curl"
+      "name": "Standing Leg Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_l17RzgTOuUICqR-Z",
-      "name": "Standing Long Jump"
+      "name": "Standing Long Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dvPc5HNwBGQVzvgR",
-      "name": "Standing Low-Pulley Deltoid Raise"
+      "name": "Standing Low-Pulley Deltoid Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_MajsEcAkkJHOXc6r",
-      "name": "Standing Low-Pulley One-Arm Triceps Extension"
+      "name": "Standing Low-Pulley One-Arm Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6GdtGj4pdOKW4sam",
-      "name": "Standing Military Press"
+      "name": "Standing Military Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jTJeHCh13fTndt0f",
-      "name": "Standing Olympic Plate Hand Squeeze"
+      "name": "Standing Olympic Plate Hand Squeeze",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FoV1ZO4JKdyphbKP",
-      "name": "Standing One-Arm Cable Curl"
+      "name": "Standing One-Arm Cable Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_U7foX1qoFZJvGx3K",
-      "name": "Standing One-Arm Dumbbell Curl Over Incline Bench"
+      "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_93lMAfBZCmApidcA",
-      "name": "Standing One-Arm Dumbbell Triceps Extension"
+      "name": "Standing One-Arm Dumbbell Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7_QBYjw4yvTXQ1yx",
-      "name": "Standing Palm-In One-Arm Dumbbell Press"
+      "name": "Standing Palm-In One-Arm Dumbbell Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_kifYk7qmIp5IA7x-",
-      "name": "Standing Palms-In Dumbbell Press"
+      "name": "Standing Palms-In Dumbbell Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Fc_gIr_-928s0OG8",
-      "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl"
+      "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Pr-5MZzJLOdhdWIA",
-      "name": "Standing Pelvic Tilt"
+      "name": "Standing Pelvic Tilt",
+      "trackingType": "reps"
     },
     {
       "id": "ex_AP0ZwyjXmoth3gNT",
-      "name": "Standing Rope Crunch"
+      "name": "Standing Rope Crunch",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_uV0Gq2I8_wv-f2MH",
+      "name": "Standing Single-Leg Calf Raise (Cable)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KEIB7V8rcvQC9RGw",
-      "name": "Standing Soleus And Achilles Stretch"
+      "name": "Standing Soleus And Achilles Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_6bLjQN5cESB-hnOk",
-      "name": "Standing Toe Touches"
+      "name": "Standing Toe Touches",
+      "trackingType": "reps"
     },
     {
       "id": "ex_63S1ZQ7Sghkq5Er5",
-      "name": "Standing Towel Triceps Extension"
+      "name": "Standing Towel Triceps Extension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_p6fgvkyKDrh3IOJV",
-      "name": "Standing Two-Arm Overhead Throw"
+      "name": "Standing Two-Arm Overhead Throw",
+      "trackingType": "reps"
     },
     {
       "id": "ex_m7GoeVflkBHnZ46L",
-      "name": "Star Jump"
+      "name": "Star Jump",
+      "trackingType": "reps"
     },
     {
       "id": "ex_h1WIhAG5RXP9gJWQ",
-      "name": "Step Mill"
+      "name": "Step Mill",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_KkgIXIF686yJsHEW",
+      "name": "Step Up (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_27EdwGVnvxZOYggL",
-      "name": "Step-up with Knee Raise"
+      "name": "Step-up with Knee Raise",
+      "trackingType": "reps"
     },
     {
       "id": "ex_9cvKdjrK1nQVXi_M",
-      "name": "Stiff Leg Barbell Good Morning"
+      "name": "Stiff Leg Barbell Good Morning",
+      "trackingType": "reps"
     },
     {
       "id": "ex_JVbzkty65VihAmdT",
-      "name": "Stiff-Legged Barbell Deadlift"
+      "name": "Stiff-Legged Barbell Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dDmKpexORGLO_cqL",
-      "name": "Stiff-Legged Dumbbell Deadlift"
+      "name": "Stiff-Legged Dumbbell Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UUKZ7kgQZIpJeeIQ",
-      "name": "Stomach Vacuum"
+      "name": "Stomach Vacuum",
+      "trackingType": "reps"
     },
     {
       "id": "ex_YR7HTK3JkviGXDRW",
-      "name": "Straight Bar Bench Mid Rows"
+      "name": "Straight Bar Bench Mid Rows",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KbbxgS9-gH1FBsRV",
-      "name": "Straight Raises on Incline Bench"
+      "name": "Straight Raises on Incline Bench",
+      "trackingType": "reps"
     },
     {
       "id": "ex_weUACYHaGGO6yfh1",
-      "name": "Straight-Arm Dumbbell Pullover"
+      "name": "Straight-Arm Dumbbell Pullover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_0qtCVANneyKyIEnU",
-      "name": "Straight-Arm Pulldown"
+      "name": "Straight-Arm Pulldown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fYNdM1S7B46b8Cyy",
-      "name": "Stride Jump Crossover"
+      "name": "Stride Jump Crossover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_1Gntr9qr2LvGCSOy",
-      "name": "Sumo Deadlift"
+      "name": "Sumo Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_b3u0x6olgr3aIqn_",
-      "name": "Sumo Deadlift with Bands"
+      "name": "Sumo Deadlift with Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_QNy3ZJy_g7q90olx",
-      "name": "Sumo Deadlift with Chains"
+      "name": "Sumo Deadlift with Chains",
+      "trackingType": "reps"
     },
     {
       "id": "ex__jpsO0go_rtqhU0y",
-      "name": "Superman"
+      "name": "Superman",
+      "trackingType": "reps"
     },
     {
       "id": "ex_sbtfUP4bzEWX2yYR",
-      "name": "Supine Chest Throw"
+      "name": "Supine Chest Throw",
+      "trackingType": "reps"
     },
     {
       "id": "ex_XAMaaEI7bLJb0hSo",
-      "name": "Supine One-Arm Overhead Throw"
+      "name": "Supine One-Arm Overhead Throw",
+      "trackingType": "reps"
     },
     {
       "id": "ex_DxYeE81DHEnv-PYH",
-      "name": "Supine Two-Arm Overhead Throw"
+      "name": "Supine Two-Arm Overhead Throw",
+      "trackingType": "reps"
     },
     {
       "id": "ex_DOaodCP8jb3HQaa8",
-      "name": "Suspended Fallout"
+      "name": "Suspended Fallout",
+      "trackingType": "reps"
     },
     {
       "id": "ex__Fcooah59Z8FJLUh",
-      "name": "Suspended Push-Up"
+      "name": "Suspended Push-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_D3YYDvZYntVnP1KQ",
-      "name": "Suspended Reverse Crunch"
+      "name": "Suspended Reverse Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_TUUXkA4nNmLfhotN",
-      "name": "Suspended Row"
+      "name": "Suspended Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8vOhoie1FQlJwUC6",
-      "name": "Suspended Split Squat"
+      "name": "Suspended Split Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_pcfXfJVT9uUozywr",
-      "name": "Svend Press"
+      "name": "Svend Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Fm0dVh6GmZmsJ3zW",
-      "name": "T-Bar Row with Handle"
+      "name": "T-Bar Row with Handle",
+      "trackingType": "reps"
     },
     {
       "id": "ex_JRSwgkTbDB_JihLt",
-      "name": "Tate Press"
+      "name": "Tate Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_EAdHiNWaQDrzYfdU",
-      "name": "The Straddle"
+      "name": "The Straddle",
+      "trackingType": "reps"
     },
     {
       "id": "ex_YNg7Gp54_AUsMUNk",
-      "name": "Thigh Abductor"
+      "name": "Thigh Abductor",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fChtPfeglBsvAmlh",
-      "name": "Thigh Adductor"
+      "name": "Thigh Adductor",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xSPEVpXK7b8UEE2G",
-      "name": "Tire Flip"
+      "name": "Tire Flip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CVLsdwLaJP_4EQmc",
-      "name": "Toe Touchers"
+      "name": "Toe Touchers",
+      "trackingType": "reps"
     },
     {
       "id": "ex_tQYod2PClMn-KAss",
-      "name": "Torso Rotation"
+      "name": "Torso Rotation",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dvCJ2o-16YcRgAOv",
-      "name": "Trail Running/Walking"
+      "name": "Trail Running/Walking",
+      "trackingType": "reps"
     },
     {
       "id": "ex_YXkEIoi13Sk0IAwV",
-      "name": "Trap Bar Deadlift"
+      "name": "Trap Bar Deadlift",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7hkMllqwznRNXizL",
-      "name": "Tricep Dumbbell Kickback"
+      "name": "Tricep Dumbbell Kickback",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vv4rxmHuXF_p146d",
-      "name": "Tricep Side Stretch"
+      "name": "Tricep Side Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_7V-tANmXKX12kL85",
-      "name": "Triceps Overhead Extension with Rope"
+      "name": "Triceps Overhead Extension with Rope",
+      "trackingType": "reps"
     },
     {
       "id": "ex_KOhNty4AfCHZQtkf",
-      "name": "Triceps Pushdown"
+      "name": "Triceps Pushdown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_dDuv2R6FSwjKZaXD",
-      "name": "Triceps Pushdown (Rope)"
+      "name": "Triceps Pushdown (Rope)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_AuaVB1kpyfYSzeMt",
-      "name": "Triceps Pushdown (V-Bar)"
+      "name": "Triceps Pushdown (V-Bar)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Bosa1_Narc4Zz8R4",
-      "name": "Triceps Stretch"
+      "name": "Triceps Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Qffg8zeWAyXSZNCe",
-      "name": "Tuck Crunch"
+      "name": "Tuck Crunch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RktjyKcG1NGBqwZy",
-      "name": "Two-Arm Kettlebell Clean"
+      "name": "Two-Arm Kettlebell Clean",
+      "trackingType": "reps"
     },
     {
       "id": "ex_PooM0lLn9P5Tnroe",
-      "name": "Two-Arm Kettlebell Jerk"
+      "name": "Two-Arm Kettlebell Jerk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_8cHE0mhgyfS53Cg6",
-      "name": "Two-Arm Kettlebell Military Press"
+      "name": "Two-Arm Kettlebell Military Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jrIq6QfRq5JHQNWS",
-      "name": "Two-Arm Kettlebell Row"
+      "name": "Two-Arm Kettlebell Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_t0AL_2uw76AHVChJ",
-      "name": "Two-Arm Preacher Curl (Dumbbell)"
+      "name": "Two-Arm Preacher Curl (Dumbbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UJdlBRinOgLLRala",
-      "name": "Underhand Cable Pulldowns"
+      "name": "Underhand Cable Pulldowns",
+      "trackingType": "reps"
     },
     {
       "id": "ex_RjHfXOEorTNj3o7j",
-      "name": "Upper Back Stretch"
+      "name": "Upper Back Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_hzNyXgON1jO0NQnZ",
-      "name": "Upper Back-Leg Grab"
+      "name": "Upper Back-Leg Grab",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fJlBIAB8BZM9MPBR",
-      "name": "Upright Barbell Row"
+      "name": "Upright Barbell Row",
+      "trackingType": "reps"
     },
     {
       "id": "ex_nolVKDrlrmXTJoxy",
-      "name": "Upright Row - With Bands"
+      "name": "Upright Row - With Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_p6NTCl50eKOf8Y3j",
-      "name": "Upright Row (Cable)"
+      "name": "Upright Row (Cable)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_spKYrYS-R0TgCLZ9",
-      "name": "Upward Stretch"
+      "name": "Upward Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_aL3FO89smIFah0YM",
-      "name": "V-Bar Pulldown"
+      "name": "V-Bar Pulldown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_csWLkccYwaq5QTz9",
-      "name": "V-Bar Pullup"
+      "name": "V-Bar Pullup",
+      "trackingType": "reps"
     },
     {
       "id": "ex_FIdFXnfef7mte7R7",
-      "name": "Vertical Swing"
+      "name": "Vertical Swing",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_m-coXbMuIOM059X2",
+      "name": "Walking Lunge (Barbell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_5BsA_FqIzL60J630",
-      "name": "Walking, Treadmill"
+      "name": "Walking, Treadmill",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jgcjkNgp9S2UAEp2",
-      "name": "Weighted Ball Hyperextension"
+      "name": "Weighted Ball Hyperextension",
+      "trackingType": "reps"
     },
     {
       "id": "ex_J3GXHKs0UdN4p-WY",
-      "name": "Weighted Ball Side Bend"
+      "name": "Weighted Ball Side Bend",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Z-D80gywDVqtXAdC",
-      "name": "Weighted Bench Dip"
+      "name": "Weighted Bench Dip",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xggOuQr_8nJAx9mh",
-      "name": "Weighted Crunches"
+      "name": "Weighted Crunches",
+      "trackingType": "reps"
     },
     {
       "id": "ex_NkEZw6_KOPCFaaid",
-      "name": "Weighted Jump Squat"
+      "name": "Weighted Jump Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_z8mvcM4O8GcQQppg",
-      "name": "Weighted Pull Ups"
+      "name": "Weighted Pull Ups",
+      "trackingType": "reps"
     },
     {
       "id": "ex_TRDbpMNgUCz3-3Fa",
-      "name": "Weighted Sissy Squat"
+      "name": "Weighted Sissy Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_w6P4eYJVcE-kq1b6",
-      "name": "Weighted Sit-Ups - With Bands"
+      "name": "Weighted Sit-Ups - With Bands",
+      "trackingType": "reps"
     },
     {
       "id": "ex_jnKrje_1Pc7Rq9m_",
-      "name": "Weighted Squat"
+      "name": "Weighted Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_d1NJA6m_JVfj_ciy",
-      "name": "Wide Stance Barbell Squat"
+      "name": "Wide Stance Barbell Squat",
+      "trackingType": "reps"
     },
     {
       "id": "ex_-xAFzViQmA1ORTJl",
-      "name": "Wide Stance Stiff Legs"
+      "name": "Wide Stance Stiff Legs",
+      "trackingType": "reps"
     },
     {
       "id": "ex_qikG3ehjsSdIV6JI",
-      "name": "Wide-Grip Barbell Bench Press"
+      "name": "Wide-Grip Barbell Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_Vhxj3mbIehY44RGT",
-      "name": "Wide-Grip Decline Barbell Bench Press"
+      "name": "Wide-Grip Decline Barbell Bench Press",
+      "trackingType": "reps"
     },
     {
       "id": "ex_L8R672W01PIPnPsj",
-      "name": "Wide-Grip Decline Barbell Pullover"
+      "name": "Wide-Grip Decline Barbell Pullover",
+      "trackingType": "reps"
     },
     {
       "id": "ex_k5pGmgh3YikpCN03",
-      "name": "Wide-Grip Lat Pulldown"
+      "name": "Wide-Grip Lat Pulldown",
+      "trackingType": "reps"
     },
     {
       "id": "ex_e_EOeq8JZFwAG0Hk",
-      "name": "Wide-Grip Pulldown Behind The Neck"
+      "name": "Wide-Grip Pulldown Behind The Neck",
+      "trackingType": "reps"
     },
     {
       "id": "ex_naN-spXEX17zxV17",
-      "name": "Wide-Grip Rear Pull-Up"
+      "name": "Wide-Grip Rear Pull-Up",
+      "trackingType": "reps"
     },
     {
       "id": "ex_cwfqlLHKE7JNCWV5",
-      "name": "Wide-Grip Standing Barbell Curl"
+      "name": "Wide-Grip Standing Barbell Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_DHaFMywMMxlNS6Zh",
-      "name": "Wind Sprints"
+      "name": "Wind Sprints",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ywz__oMCTWxDoD4A",
-      "name": "Windmill (Kettlebell)"
+      "name": "Windmill (Kettlebell)",
+      "trackingType": "reps"
     },
     {
       "id": "ex_vvqxnrrCHLI8Yi-t",
-      "name": "Windmills"
+      "name": "Windmills",
+      "trackingType": "reps"
     },
     {
       "id": "ex_TbJHBp2Xk8Ok54zr",
-      "name": "World's Greatest Stretch"
+      "name": "World's Greatest Stretch",
+      "trackingType": "reps"
     },
     {
       "id": "ex_CzrZgXpDv4lN6D6q",
-      "name": "Wrist Circles"
+      "name": "Wrist Circles",
+      "trackingType": "reps"
     },
     {
       "id": "ex_UQVNA9GJdo_suP4k",
-      "name": "Wrist Roller"
+      "name": "Wrist Roller",
+      "trackingType": "reps"
     },
     {
       "id": "ex_fx8-NSvmASBbUTex",
-      "name": "Wrist Rotations with Straight Bar"
+      "name": "Wrist Rotations with Straight Bar",
+      "trackingType": "reps"
     },
     {
       "id": "ex_ruME2HrJdXe5bGPU",
-      "name": "Yoke Walk"
+      "name": "Yoke Walk",
+      "trackingType": "reps"
     },
     {
       "id": "ex_xkGL2Mci3GFQmM5k",
-      "name": "Zercher Squats"
+      "name": "Zercher Squats",
+      "trackingType": "reps"
     },
     {
       "id": "ex__OY9sPj3_8TA9ODE",
-      "name": "Zottman Curl"
+      "name": "Zottman Curl",
+      "trackingType": "reps"
     },
     {
       "id": "ex_m5VH7jvYrpvsBpPS",
-      "name": "Zottman Preacher Curl"
+      "name": "Zottman Preacher Curl",
+      "trackingType": "reps"
     }
   ]
 }
