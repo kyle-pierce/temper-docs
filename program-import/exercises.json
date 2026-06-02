@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31T21:43:16.247Z",
+  "generated": "2026-06-02T13:07:03.495Z",
   "exercises": [
     {
       "id": "ex_6eJ-Wt2Cl5kv_yqt",
@@ -10,12 +10,12 @@
       "name": "90/90 Hamstring"
     },
     {
-      "id": "ex_zvc5TruG1EIzDGcB",
-      "name": "Ab Crunch Machine"
-    },
-    {
       "id": "ex_sQK4d2UbfiyF5-0Y",
       "name": "Ab Roller"
+    },
+    {
+      "id": "ex_U4FIQ5Dv-vkfpy0F",
+      "name": "Ab Rollout (Barbell)"
     },
     {
       "id": "ex_SVMLEfo_ZqVPGb_z",
@@ -27,7 +27,7 @@
     },
     {
       "id": "ex_Rk5mPyngV0xrQknB",
-      "name": "Advanced Kettlebell Windmill"
+      "name": "Advanced Windmill (Kettlebell)"
     },
     {
       "id": "ex_2kiZQ_Dns26xa08K",
@@ -38,48 +38,44 @@
       "name": "All Fours Quad Stretch"
     },
     {
-      "id": "ex_TCYJcuMX0tT471mH",
-      "name": "Alternate Hammer Curl"
-    },
-    {
-      "id": "ex_0biHBll9gcfTPJY3",
-      "name": "Alternate Heel Touchers"
-    },
-    {
-      "id": "ex_7_Y8F40LZHBXBwsM",
-      "name": "Alternate Incline Dumbbell Curl"
-    },
-    {
-      "id": "ex_JrFuo77B63yoCRDT",
-      "name": "Alternate Leg Diagonal Bound"
-    },
-    {
-      "id": "ex_953yVvWZe7majuOO",
-      "name": "Alternating Cable Shoulder Press"
+      "id": "ex_affNombUQAyCkwsh",
+      "name": "Alternating Floor Press (Kettlebell)"
     },
     {
       "id": "ex_Lb0gJQt6bMtqT01h",
-      "name": "Alternating Deltoid Raise"
+      "name": "Alternating Front Raise (Dumbbell)"
     },
     {
-      "id": "ex_affNombUQAyCkwsh",
-      "name": "Alternating Floor Press"
+      "id": "ex_TCYJcuMX0tT471mH",
+      "name": "Alternating Hammer Curl (Dumbbell)"
     },
     {
       "id": "ex_eIzsMFbrBT4R0DYE",
       "name": "Alternating Hang Clean"
     },
     {
-      "id": "ex_MuM34dmj00vYT0tc",
-      "name": "Alternating Kettlebell Press"
+      "id": "ex_0biHBll9gcfTPJY3",
+      "name": "Alternating Heel Touchers"
+    },
+    {
+      "id": "ex_7_Y8F40LZHBXBwsM",
+      "name": "Alternating Incline Curl (Dumbbell)"
+    },
+    {
+      "id": "ex_JrFuo77B63yoCRDT",
+      "name": "Alternating Leg Diagonal Bound"
     },
     {
       "id": "ex_ze_FpwfS0BbKuBM8",
-      "name": "Alternating Kettlebell Row"
+      "name": "Alternating Row (Kettlebell)"
     },
     {
-      "id": "ex_taAwDXOvyR385JUK",
-      "name": "Alternating Renegade Row"
+      "id": "ex_953yVvWZe7majuOO",
+      "name": "Alternating Shoulder Press (Cable)"
+    },
+    {
+      "id": "ex_MuM34dmj00vYT0tc",
+      "name": "Alternating Shoulder Press (Kettlebell)"
     },
     {
       "id": "ex_fjTrocTOyyOK-9Vm",
@@ -103,11 +99,15 @@
     },
     {
       "id": "ex_-U7gScHK9A-4mI4U",
-      "name": "Arnold Dumbbell Press"
+      "name": "Arnold Press (Dumbbell)"
     },
     {
       "id": "ex_kLthfowMNU353eOi",
       "name": "Around The Worlds"
+    },
+    {
+      "id": "ex_w0P5WCQqHK49ghgY",
+      "name": "Assisted Pull-Up (Band)"
     },
     {
       "id": "ex_GcbmcM-aLe16Hyo4",
@@ -123,7 +123,11 @@
     },
     {
       "id": "ex_mOs2ZmRrWixF87en",
-      "name": "Back Flyes - With Bands"
+      "name": "Back Fly (Band)"
+    },
+    {
+      "id": "ex_68cMQ5G3jPG1CpRT",
+      "name": "Back Squat (Barbell)"
     },
     {
       "id": "ex_2HTp1omIfJtoOU9H",
@@ -140,86 +144,6 @@
     {
       "id": "ex_SBct8tsxqjZCroAa",
       "name": "Ball Leg Curl"
-    },
-    {
-      "id": "ex_w0P5WCQqHK49ghgY",
-      "name": "Band Assisted Pull-Up"
-    },
-    {
-      "id": "ex_QM2ww4x1uT0fSqVM",
-      "name": "Band Good Morning"
-    },
-    {
-      "id": "ex_v6BfvYqH8oaXZWfD",
-      "name": "Band Good Morning (Pull Through)"
-    },
-    {
-      "id": "ex_oK1tgIV_ocUw_0P_",
-      "name": "Band Hip Adductions"
-    },
-    {
-      "id": "ex_iESWrIqKokIi5jkF",
-      "name": "Band Pull Apart"
-    },
-    {
-      "id": "ex_p8HU6Ampba73QMqC",
-      "name": "Band Skull Crusher"
-    },
-    {
-      "id": "ex_U4FIQ5Dv-vkfpy0F",
-      "name": "Barbell Ab Rollout"
-    },
-    {
-      "id": "ex_Tl9GDSiHeFaqffTg",
-      "name": "Barbell Ab Rollout - On Knees"
-    },
-    {
-      "id": "ex_68cMQ5G3jPG1CpRT",
-      "name": "Barbell Back Squat"
-    },
-    {
-      "id": "ex_M8-whQhCC2l-pDKA",
-      "name": "Barbell Bench Press"
-    },
-    {
-      "id": "ex_DioMiKJU4E8pNnb8",
-      "name": "Barbell Bulgarian Split Squat"
-    },
-    {
-      "id": "ex_pb37jCWV9DDKs_lk",
-      "name": "Barbell Curl"
-    },
-    {
-      "id": "ex_dF0sKE7cEoNV7SF6",
-      "name": "Barbell Curls Lying Against An Incline"
-    },
-    {
-      "id": "ex_Kn9VQU_nzgSIK99W",
-      "name": "Barbell Deadlift"
-    },
-    {
-      "id": "ex_VwvlDaQYMVPzyYWV",
-      "name": "Barbell Full Squat"
-    },
-    {
-      "id": "ex_HJhG0UXRwJfA8-t6",
-      "name": "Barbell Glute Bridge"
-    },
-    {
-      "id": "ex_jbU6mt23NeL4kGPJ",
-      "name": "Barbell Guillotine Bench Press"
-    },
-    {
-      "id": "ex_hEebyNYBeJZzhesD",
-      "name": "Barbell Hack Squat"
-    },
-    {
-      "id": "ex_RUIFNuJM6WxNGUPa",
-      "name": "Barbell Hip Thrust"
-    },
-    {
-      "id": "ex_ezebYCB6KhV-ejbP",
-      "name": "Barbell Incline Bench Press - Medium Grip"
     },
     {
       "id": "ex_3RBKIWPAjK47GwDE",
@@ -262,8 +186,8 @@
       "name": "Barbell Side Split Squat"
     },
     {
-      "id": "ex_GukaztUF4rNAUexj",
-      "name": "Barbell Skull Crusher"
+      "id": "ex_2p3naTujvZVeKPCh",
+      "name": "Barbell Split Squat"
     },
     {
       "id": "ex_Ut4p4jHmVeCj5z8l",
@@ -304,6 +228,10 @@
     {
       "id": "ex_r5qBTvRhfw7pL0py",
       "name": "Bench Press - With Bands"
+    },
+    {
+      "id": "ex_M8-whQhCC2l-pDKA",
+      "name": "Bench Press (Barbell)"
     },
     {
       "id": "ex_77H7IB0WA-qxIZ82",
@@ -356,6 +284,10 @@
     {
       "id": "ex_gxQplrur4lv51-2U",
       "name": "Bent-Knee Hip Raise"
+    },
+    {
+      "id": "ex_pb37jCWV9DDKs_lk",
+      "name": "Bicep Curl (Barbell)"
     },
     {
       "id": "ex__f2fIGcxlfUdHgz9",
@@ -434,6 +366,10 @@
       "name": "Bradford/Rocky Presses"
     },
     {
+      "id": "ex_DioMiKJU4E8pNnb8",
+      "name": "Bulgarian Split Squat (Barbell)"
+    },
+    {
       "id": "ex_vf-ug5kP_WAlT3oG",
       "name": "Butt Lift (Bridge)"
     },
@@ -502,10 +438,6 @@
       "name": "Cable One Arm Tricep Extension"
     },
     {
-      "id": "ex_a3q3pBsWtmtAUesy",
-      "name": "Cable Preacher Curl"
-    },
-    {
       "id": "ex_xewWQL1T3Ifmn0uS",
       "name": "Cable Rear Delt Fly"
     },
@@ -536,6 +468,10 @@
     {
       "id": "ex_foqIdWLfZ-psvcXC",
       "name": "Cable Shrugs"
+    },
+    {
+      "id": "ex_gf9tWvBTGvhcYNB7",
+      "name": "Cable Sissy Squat"
     },
     {
       "id": "ex_J6OzRoeBKcd8dDQC",
@@ -766,6 +702,10 @@
       "name": "Crunch - Legs On Exercise Ball"
     },
     {
+      "id": "ex_zvc5TruG1EIzDGcB",
+      "name": "Crunch (Machine)"
+    },
+    {
       "id": "ex_5P-Qc3rfhLBClcXk",
       "name": "Crunches"
     },
@@ -780,6 +720,10 @@
     {
       "id": "ex_WYrWD5zPqdvB_Xpp",
       "name": "Dead Bug"
+    },
+    {
+      "id": "ex_Kn9VQU_nzgSIK99W",
+      "name": "Deadlift (Barbell)"
     },
     {
       "id": "ex_1W9nwa9wmVa1v0Kh",
@@ -874,12 +818,12 @@
       "name": "Double Kettlebell Snatch"
     },
     {
-      "id": "ex_dEOd3S2INXyRvbpH",
-      "name": "Double Kettlebell Windmill"
-    },
-    {
       "id": "ex_CzsdWBNwK4mpcdB7",
       "name": "Double Leg Butt Kick"
+    },
+    {
+      "id": "ex_dEOd3S2INXyRvbpH",
+      "name": "Double Windmill (Kettlebell)"
     },
     {
       "id": "ex_dHNvps6FavFA33Za",
@@ -980,10 +924,6 @@
     {
       "id": "ex_HzTXSAoPb2wHc-qh",
       "name": "Dumbbell Seated Box Jump"
-    },
-    {
-      "id": "ex_mHWF7e1K3lcrSXnr",
-      "name": "Dumbbell Seated One-Leg Calf Raise"
     },
     {
       "id": "ex__1CBuFRPyt3uGveY",
@@ -1206,8 +1146,16 @@
       "name": "Full Range-Of-Motion Lat Pulldown"
     },
     {
+      "id": "ex_VwvlDaQYMVPzyYWV",
+      "name": "Full Squat (Barbell)"
+    },
+    {
       "id": "ex_wLBhJASPJNN8OlCB",
       "name": "Gironda Sternum Chins"
+    },
+    {
+      "id": "ex_HJhG0UXRwJfA8-t6",
+      "name": "Glute Bridge (Barbell)"
     },
     {
       "id": "ex_PFZT_7mcfq2mOQEP",
@@ -1226,6 +1174,14 @@
       "name": "Good Morning"
     },
     {
+      "id": "ex_v6BfvYqH8oaXZWfD",
+      "name": "Good Morning (Band, Pull Through)"
+    },
+    {
+      "id": "ex_QM2ww4x1uT0fSqVM",
+      "name": "Good Morning (Band)"
+    },
+    {
       "id": "ex_8W-SEMhvnyuGjII7",
       "name": "Good Morning off Pins"
     },
@@ -1242,8 +1198,16 @@
       "name": "Groiners"
     },
     {
+      "id": "ex_jbU6mt23NeL4kGPJ",
+      "name": "Guillotine Bench Press (Barbell)"
+    },
+    {
       "id": "ex_stYpy5W2EJbVp1fB",
       "name": "Hack Squat"
+    },
+    {
+      "id": "ex_hEebyNYBeJZzhesD",
+      "name": "Hack Squat (Barbell)"
     },
     {
       "id": "ex_qUWrxPaXIhq3niyY",
@@ -1251,7 +1215,7 @@
     },
     {
       "id": "ex_xy_pG0s65oZhdmM-",
-      "name": "Hammer Grip Incline DB Bench Press"
+      "name": "Hammer-Grip Incline Bench Press (Dumbbell)"
     },
     {
       "id": "ex_LZWRRhsweu7gEKsA",
@@ -1306,6 +1270,10 @@
       "name": "High Cable Curls"
     },
     {
+      "id": "ex_oK1tgIV_ocUw_0P_",
+      "name": "Hip Adductions (Band)"
+    },
+    {
       "id": "ex_PLFvXUQsTNZv3v1Z",
       "name": "Hip Circles (prone)"
     },
@@ -1320,6 +1288,10 @@
     {
       "id": "ex_etI14g_K-0PXSzDR",
       "name": "Hip Lift with Band"
+    },
+    {
+      "id": "ex_RUIFNuJM6WxNGUPa",
+      "name": "Hip Thrust (Barbell)"
     },
     {
       "id": "ex_nZk42IXj1obJ-8aq",
@@ -1354,6 +1326,18 @@
       "name": "Incline Barbell Triceps Extension"
     },
     {
+      "id": "ex_ezebYCB6KhV-ejbP",
+      "name": "Incline Bench Press (Barbell)"
+    },
+    {
+      "id": "ex_ey_CCTUO4ZT9qgiO",
+      "name": "Incline Bench Press (Dumbbell)"
+    },
+    {
+      "id": "ex_DHf-sIcB-Zz7DSzQ",
+      "name": "Incline Bench Press (Smith Machine)"
+    },
+    {
       "id": "ex_45fdtkGH7Aftsd6F",
       "name": "Incline Bench Pull"
     },
@@ -1364,10 +1348,6 @@
     {
       "id": "ex_yzFB6BRmOGc58lf4",
       "name": "Incline Cable Fly"
-    },
-    {
-      "id": "ex_ey_CCTUO4ZT9qgiO",
-      "name": "Incline Dumbbell Bench Press"
     },
     {
       "id": "ex_Fa7gDggf9yh-vuy5",
@@ -1558,10 +1538,6 @@
       "name": "Kettlebell Turkish Get-Up (Squat style)"
     },
     {
-      "id": "ex_ywz__oMCTWxDoD4A",
-      "name": "Kettlebell Windmill"
-    },
-    {
       "id": "ex_MWFWUrq-Jhnp_qZS",
       "name": "Kipping Muscle Up"
     },
@@ -1616,6 +1592,10 @@
     {
       "id": "ex_EPwllrL_SuUIhzeQ",
       "name": "Kneeling Squat"
+    },
+    {
+      "id": "ex_Tl9GDSiHeFaqffTg",
+      "name": "Knees Ab Rollout (Barbell)"
     },
     {
       "id": "ex_ChJd30Sw6OapNg8P",
@@ -1850,10 +1830,6 @@
       "name": "Machine Bicep Curl"
     },
     {
-      "id": "ex_VBwClv0dyb-1Ku-2",
-      "name": "Machine Preacher Curls"
-    },
-    {
       "id": "ex_Vd9gUIX9wBEMvYBe",
       "name": "Machine Shoulder (Military) Press"
     },
@@ -1960,10 +1936,6 @@
     {
       "id": "ex__zEFSLh0sbdpNxbV",
       "name": "One Arm Dumbbell Bench Press"
-    },
-    {
-      "id": "ex_J1HkET7UQhmyfphh",
-      "name": "One Arm Dumbbell Preacher Curl"
     },
     {
       "id": "ex_1VIY9LtOMcaiI4sd",
@@ -2106,10 +2078,6 @@
       "name": "Overhead Cable Curl"
     },
     {
-      "id": "ex_lxRMjG4W_wIePQnX",
-      "name": "Overhead Cable Triceps Extension (Rope)"
-    },
-    {
       "id": "ex_-YkVbwlYm6W90kc1",
       "name": "Overhead Dumbbell Triceps Extension"
     },
@@ -2128,6 +2096,10 @@
     {
       "id": "ex_hGMjo7Rx_ehAwqkm",
       "name": "Overhead Stretch"
+    },
+    {
+      "id": "ex_lxRMjG4W_wIePQnX",
+      "name": "Overhead Triceps Extension (Cable)"
     },
     {
       "id": "ex_40U7LHRjAk_Sv_Fm",
@@ -2250,12 +2222,20 @@
       "name": "Power Stairs"
     },
     {
+      "id": "ex_a3q3pBsWtmtAUesy",
+      "name": "Preacher Curl (Cable)"
+    },
+    {
       "id": "ex_juo2lya0FpCYfUzq",
-      "name": "Preacher Curl"
+      "name": "Preacher Curl (EZ Bar)"
+    },
+    {
+      "id": "ex_VBwClv0dyb-1Ku-2",
+      "name": "Preacher Curl (Machine)"
     },
     {
       "id": "ex_d1tFpGYq08a58Qm_",
-      "name": "Preacher Hammer Dumbbell Curl"
+      "name": "Preacher Hammer Curl (Dumbbell)"
     },
     {
       "id": "ex_VIymGtMtDrUh_grp",
@@ -2268,6 +2248,10 @@
     {
       "id": "ex_NO9OA-D0vI5PRUMH",
       "name": "Prowler Sprint"
+    },
+    {
+      "id": "ex_iESWrIqKokIi5jkF",
+      "name": "Pull Apart (Band)"
     },
     {
       "id": "ex_4-2QFDLvEK8ZdV_z",
@@ -2350,6 +2334,10 @@
       "name": "Recumbent Bike"
     },
     {
+      "id": "ex_taAwDXOvyR385JUK",
+      "name": "Renegade Row (Kettlebell)"
+    },
+    {
       "id": "ex_8d3vHS9kl704jvq1",
       "name": "Return Push from Stance"
     },
@@ -2376,10 +2364,6 @@
     {
       "id": "ex_zvheuzLOILFWEqzp",
       "name": "Reverse Barbell Curl"
-    },
-    {
-      "id": "ex_KDEa68P7rh-y-R1R",
-      "name": "Reverse Barbell Preacher Curls"
     },
     {
       "id": "ex_5c0EOgxIXCU1zisF",
@@ -2416,6 +2400,10 @@
     {
       "id": "ex_CW3mhKe_ToyIwjY2",
       "name": "Reverse Plate Curls"
+    },
+    {
+      "id": "ex_KDEa68P7rh-y-R1R",
+      "name": "Reverse Preacher Curl (Barbell)"
     },
     {
       "id": "ex_M6oERdPTAVUVCnNQ",
@@ -2574,10 +2562,6 @@
       "name": "Seated Dumbbell Palms-Up Wrist Curl"
     },
     {
-      "id": "ex_T449oIgvEppJkQTH",
-      "name": "Seated Dumbbell Press"
-    },
-    {
       "id": "ex_VX0wrqCJdXGqlPum",
       "name": "Seated Flat Bench Leg Pull-In"
     },
@@ -2630,6 +2614,10 @@
       "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl"
     },
     {
+      "id": "ex_T449oIgvEppJkQTH",
+      "name": "Seated Overhead Press (Dumbbell)"
+    },
+    {
       "id": "ex_5n6ebOJEekfMgT2R",
       "name": "Seated Overhead Stretch"
     },
@@ -2644,6 +2632,10 @@
     {
       "id": "ex_UCx06CGdLzLVSU5Q",
       "name": "Seated Side Lateral Raise"
+    },
+    {
+      "id": "ex_mHWF7e1K3lcrSXnr",
+      "name": "Seated Single-Leg Calf Raise (Dumbbell)"
     },
     {
       "id": "ex_oBTk_FESOttqnqZY",
@@ -2754,6 +2746,10 @@
       "name": "Single-Arm Linear Jammer"
     },
     {
+      "id": "ex_J1HkET7UQhmyfphh",
+      "name": "Single-Arm Preacher Curl (Dumbbell)"
+    },
+    {
       "id": "ex_NXmkFkizVyDrFGOj",
       "name": "Single-Arm Push-Up"
     },
@@ -2800,6 +2796,14 @@
     {
       "id": "ex_JqRNxhZXp_MFriFf",
       "name": "Skating"
+    },
+    {
+      "id": "ex_p8HU6Ampba73QMqC",
+      "name": "Skull Crusher (Band)"
+    },
+    {
+      "id": "ex_GukaztUF4rNAUexj",
+      "name": "Skull Crusher (Barbell)"
     },
     {
       "id": "ex_mPJcIe3IGFsuPEvp",
@@ -2864,10 +2868,6 @@
     {
       "id": "ex_dnwG2qn_RjHOko5i",
       "name": "Smith Machine Hip Raise"
-    },
-    {
-      "id": "ex_DHf-sIcB-Zz7DSzQ",
-      "name": "Smith Machine Incline Bench Press"
     },
     {
       "id": "ex_HuuxHwuauSTrhLU1",
@@ -2952,6 +2952,10 @@
     {
       "id": "ex__x3XILrjSDd3o6-S",
       "name": "Spider Curl"
+    },
+    {
+      "id": "ex_dF0sKE7cEoNV7SF6",
+      "name": "Spider Curl (Barbell)"
     },
     {
       "id": "ex_MXD4gg6XsbZtzrR_",
@@ -3358,10 +3362,6 @@
       "name": "Tuck Crunch"
     },
     {
-      "id": "ex_t0AL_2uw76AHVChJ",
-      "name": "Two-Arm Dumbbell Preacher Curl"
-    },
-    {
       "id": "ex_RktjyKcG1NGBqwZy",
       "name": "Two-Arm Kettlebell Clean"
     },
@@ -3376,6 +3376,10 @@
     {
       "id": "ex_jrIq6QfRq5JHQNWS",
       "name": "Two-Arm Kettlebell Row"
+    },
+    {
+      "id": "ex_t0AL_2uw76AHVChJ",
+      "name": "Two-Arm Preacher Curl (Dumbbell)"
     },
     {
       "id": "ex_UJdlBRinOgLLRala",
@@ -3394,12 +3398,12 @@
       "name": "Upright Barbell Row"
     },
     {
-      "id": "ex_p6NTCl50eKOf8Y3j",
-      "name": "Upright Cable Row"
-    },
-    {
       "id": "ex_nolVKDrlrmXTJoxy",
       "name": "Upright Row - With Bands"
+    },
+    {
+      "id": "ex_p6NTCl50eKOf8Y3j",
+      "name": "Upright Row (Cable)"
     },
     {
       "id": "ex_spKYrYS-R0TgCLZ9",
@@ -3496,6 +3500,10 @@
     {
       "id": "ex_DHaFMywMMxlNS6Zh",
       "name": "Wind Sprints"
+    },
+    {
+      "id": "ex_ywz__oMCTWxDoD4A",
+      "name": "Windmill (Kettlebell)"
     },
     {
       "id": "ex_vvqxnrrCHLI8Yi-t",
