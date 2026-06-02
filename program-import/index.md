@@ -25,6 +25,8 @@ The Program Import Format lets you generate a structured workout program with an
 - Include all required fields: `name`, `context`, `description`, `workouts`, `cycle`.
 - The `cycle` array is required. Rest days are objects — `{ "type": "rest" }` — not the string `"Rest"`.
 - Each exercise must include `exerciseRef` — the Temper exercise catalog ID.
+- Use the catalog's `trackingType` to choose the target field: `reps` for `"reps"` exercises, `durationSeconds` for `"duration"` exercises.
+- Do not include `trackingType` in program JSON; it comes from the exercise catalog.
 - `reps.min` must be less than or equal to `reps.max`.
 - When `setTypes` is provided, its length must equal `sets`.
 - Workout names must be unique. Strings in `cycle` must match a workout name.
@@ -67,10 +69,13 @@ Valid `focus` values: `"push"`, `"pull"`, `"legs"`, `"upper"`, `"lower"`, `"full
 |-------|------|----------|-------------|
 | `exerciseRef` | `string` | Yes | Temper exercise catalog ID |
 | `sets` | `integer ≥ 1` | Yes | Total number of sets |
-| `reps` | `{ min, max }` | Yes | Target rep range |
+| `reps` | `{ min, max }` | For reps exercises | Target rep range |
+| `durationSeconds` | `integer ≥ 1` | For duration exercises | Target duration in seconds |
 | `rest` | `{ workSeconds, warmupSeconds? }` | Yes | Rest configuration |
 | `setTypes` | `string[]` | No | Per-set type labels — length must equal `sets` |
 | `notes` | `string` | No | Notes shown to the user |
+
+Use exactly one target field per exercise. If the catalog row has `trackingType: "reps"`, include `reps` and omit `durationSeconds`. If the catalog row has `trackingType: "duration"`, include `durationSeconds` and omit `reps`.
 
 `rest.workSeconds` — rest after work sets, in seconds (minimum 1).
 `rest.warmupSeconds` — rest after warmup sets, in seconds (minimum 0, defaults to 0).
@@ -119,7 +124,7 @@ Avoid these — they are not part of the v1 import format:
 
 ## Full example
 
-`exerciseRef` values reference the Temper exercise catalog. The catalog is synced separately — use the IDs provided by the catalog for production programs.
+`exerciseRef` values reference the Temper exercise catalog. The catalog is synced separately — use the IDs and `trackingType` values provided by the catalog for production programs.
 
 ```json
 {
@@ -152,6 +157,13 @@ Avoid these — they are not part of the v1 import format:
           "sets": 4,
           "reps": { "min": 6, "max": 10 },
           "rest": { "workSeconds": 120 }
+        },
+        {
+          "exerciseRef": "ex_rOkrYlUeujBx7bJS",
+          "sets": 3,
+          "durationSeconds": 45,
+          "rest": { "workSeconds": 60 },
+          "notes": "Duration target from a catalog exercise with trackingType \"duration\"."
         }
       ]
     },

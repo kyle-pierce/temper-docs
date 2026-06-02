@@ -15,7 +15,7 @@
     "context": {
       "type": "string",
       "minLength": 1,
-      "description": "Context about the user or goals used when generating the program."
+      "description": "Short, human-readable description"
     },
     "description": {
       "type": "string",
@@ -68,8 +68,18 @@
             "description": "Ordered list of exercises.",
             "items": {
               "type": "object",
-              "required": ["exerciseRef", "sets", "reps", "rest"],
+              "required": ["exerciseRef", "sets", "rest"],
               "additionalProperties": false,
+              "oneOf": [
+                {
+                  "required": ["reps"],
+                  "not": { "required": ["durationSeconds"] }
+                },
+                {
+                  "required": ["durationSeconds"],
+                  "not": { "required": ["reps"] }
+                }
+              ],
               "properties": {
                 "exerciseRef": {
                   "type": "string",
@@ -85,11 +95,16 @@
                   "type": "object",
                   "required": ["min", "max"],
                   "additionalProperties": false,
-                  "description": "Target rep range. min must be <= max.",
+                  "description": "Target rep range for catalog exercises with trackingType \"reps\". min must be <= max.",
                   "properties": {
                     "min": { "type": "integer", "minimum": 1 },
                     "max": { "type": "integer", "minimum": 1 }
                   }
+                },
+                "durationSeconds": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "description": "Target duration, in seconds, for catalog exercises with trackingType \"duration\"."
                 },
                 "rest": {
                   "type": "object",

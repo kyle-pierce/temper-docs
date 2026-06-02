@@ -1,6 +1,6 @@
 {
   "name": "Full Body 3-Day",
-  "context": "Beginner to intermediate lifter, training 3 days per week, focused on building a balanced base of strength and muscle.",
+  "context": "Beginner • Strength",
   "description": "3-day full body program hitting all major muscle groups each session with slightly different movement patterns across A, B, and C days.",
   "cycle": [
     "Full Body A",
@@ -141,9 +141,9 @@
           "rest": { "workSeconds": 60 }
         },
         {
-          "exerciseRef": "ex_3lr0UvsHl9jab6RN",
+          "exerciseRef": "ex_rOkrYlUeujBx7bJS",
           "sets": 3,
-          "reps": { "min": 15, "max": 20 },
+          "durationSeconds": 45,
           "rest": { "workSeconds": 60 }
         }
       ]
