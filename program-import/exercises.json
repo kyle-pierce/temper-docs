@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T16:52:51.262Z",
+  "generated": "2026-06-04T05:28:01.435Z",
   "exercises": [
     {
       "id": "ex_6eJ-Wt2Cl5kv_yqt",
@@ -232,18 +232,8 @@
       "trackingType": "reps"
     },
     {
-      "id": "ex_0tyZsuPxFSIbcO-Y",
-      "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_jUhAvKQp8F8HKzRb",
-      "name": "Bent Over Low-Pulley Side Lateral",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_QeBzYKyPTiIKXx0s",
-      "name": "Bent Over One-Arm Long Bar Row",
+      "id": "ex_Ut4p4jHmVeCj5z8l",
+      "name": "Bench Squat (Barbell)",
       "trackingType": "reps"
     },
     {
@@ -257,33 +247,28 @@
       "trackingType": "reps"
     },
     {
-      "id": "ex_UtD-m4I37ms3rYqr",
-      "name": "Bent Over Two-Dumbbell Row",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_lz6cZ1m_wmi530Lf",
-      "name": "Bent Over Two-Dumbbell Row With Palms In",
-      "trackingType": "reps"
-    },
-    {
       "id": "ex_1uE45BnyiuIItfVp",
       "name": "Bent Press",
       "trackingType": "reps"
     },
     {
-      "id": "ex_aiTcTh4SsfAEnTRp",
-      "name": "Bent-Arm Barbell Pullover",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_94hb6hDWEBt0iCzh",
-      "name": "Bent-Arm Dumbbell Pullover",
-      "trackingType": "reps"
-    },
-    {
       "id": "ex_gxQplrur4lv51-2U",
       "name": "Bent-Knee Hip Raise",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_jUhAvKQp8F8HKzRb",
+      "name": "Bent-Over Lateral Raise (Cable)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_lz6cZ1m_wmi530Lf",
+      "name": "Bent-Over Neutral-Grip Row (Dumbbell)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_UtD-m4I37ms3rYqr",
+      "name": "Bent-Over Row (Dumbbell)",
       "trackingType": "reps"
     },
     {
@@ -367,18 +352,13 @@
       "trackingType": "reps"
     },
     {
-      "id": "ex_Ut4p4jHmVeCj5z8l",
-      "name": "Box Squat (Barbell)",
-      "trackingType": "reps"
-    },
-    {
       "id": "ex_dP62ytD91m0xsxLb",
-      "name": "Box Squat with Bands",
+      "name": "Box Squat (Banded)",
       "trackingType": "reps"
     },
     {
       "id": "ex_0lC8--t1q41elCA5",
-      "name": "Box Squat with Chains",
+      "name": "Box Squat (Chains)",
       "trackingType": "reps"
     },
     {
@@ -412,23 +392,8 @@
       "trackingType": "reps"
     },
     {
-      "id": "ex_nIOYggePASWuxfLB",
-      "name": "Cable Chest Press",
-      "trackingType": "reps"
-    },
-    {
       "id": "ex_N784_JfiOcZp6Iwj",
       "name": "Cable Crossover",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex__VThFDco4XEU2k4_",
-      "name": "Cable Crunch",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_wpHJFN8va4yc0xuo",
-      "name": "Cable Deadlifts",
       "trackingType": "reps"
     },
     {
@@ -479,11 +444,6 @@
     {
       "id": "ex_ufiQ-t3BiSEI6orj",
       "name": "Cable One Arm Tricep Extension",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_xewWQL1T3Ifmn0uS",
-      "name": "Cable Rear Delt Fly",
       "trackingType": "reps"
     },
     {
@@ -632,6 +592,11 @@
       "trackingType": "reps"
     },
     {
+      "id": "ex_nIOYggePASWuxfLB",
+      "name": "Chest Press (Cable)",
+      "trackingType": "reps"
+    },
+    {
       "id": "ex_iEWYSb271nAYvWoV",
       "name": "Chest Push (multiple response)",
       "trackingType": "reps"
@@ -659,6 +624,11 @@
     {
       "id": "ex_oGbgjmWSCkZEPdwj",
       "name": "Chest-Supported Dumbbell Row",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_0tyZsuPxFSIbcO-Y",
+      "name": "Chest-Supported Rear Delt Fly (Dumbbell)",
       "trackingType": "reps"
     },
     {
@@ -812,6 +782,11 @@
       "trackingType": "reps"
     },
     {
+      "id": "ex__VThFDco4XEU2k4_",
+      "name": "Crunch (Cable)",
+      "trackingType": "reps"
+    },
+    {
       "id": "ex_zvc5TruG1EIzDGcB",
       "name": "Crunch (Machine)",
       "trackingType": "reps"
@@ -837,18 +812,23 @@
       "trackingType": "reps"
     },
     {
+      "id": "ex_1W9nwa9wmVa1v0Kh",
+      "name": "Deadlift (Band)",
+      "trackingType": "reps"
+    },
+    {
       "id": "ex_Kn9VQU_nzgSIK99W",
       "name": "Deadlift (Barbell)",
       "trackingType": "reps"
     },
     {
-      "id": "ex_1W9nwa9wmVa1v0Kh",
-      "name": "Deadlift with Bands",
+      "id": "ex_wpHJFN8va4yc0xuo",
+      "name": "Deadlift (Cable)",
       "trackingType": "reps"
     },
     {
       "id": "ex_KRNRD89K8kB39YGL",
-      "name": "Deadlift with Chains",
+      "name": "Deadlift (Chains)",
       "trackingType": "reps"
     },
     {
@@ -1622,13 +1602,13 @@
       "trackingType": "reps"
     },
     {
-      "id": "ex_Fa7gDggf9yh-vuy5",
-      "name": "Incline Dumbbell Bench With Palms Facing In",
+      "id": "ex_ohQRcc8NI_QSFqfa",
+      "name": "Incline Curl (Dumbbell)",
       "trackingType": "reps"
     },
     {
-      "id": "ex_ohQRcc8NI_QSFqfa",
-      "name": "Incline Dumbbell Curl",
+      "id": "ex_Fa7gDggf9yh-vuy5",
+      "name": "Incline Dumbbell Bench With Palms Facing In",
       "trackingType": "reps"
     },
     {
@@ -1809,11 +1789,6 @@
     {
       "id": "ex_P1S-sWHN962R_gnh",
       "name": "Kettlebell Hang Clean",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_UroxLMM4FeuANrCH",
-      "name": "Kettlebell One-Legged Deadlift",
       "trackingType": "reps"
     },
     {
@@ -2777,6 +2752,16 @@
       "trackingType": "reps"
     },
     {
+      "id": "ex_aiTcTh4SsfAEnTRp",
+      "name": "Pullover (Barbell)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_94hb6hDWEBt0iCzh",
+      "name": "Pullover (Dumbbell)",
+      "trackingType": "reps"
+    },
+    {
       "id": "ex_WSFOR5Yyv1W8s5Xf",
       "name": "Push Press",
       "trackingType": "reps"
@@ -2857,6 +2842,11 @@
       "trackingType": "reps"
     },
     {
+      "id": "ex_xewWQL1T3Ifmn0uS",
+      "name": "Rear Delt Fly (Cable)",
+      "trackingType": "reps"
+    },
+    {
       "id": "ex_jUJolgBRByDxmw46",
       "name": "Rear Delt Row (Barbell)",
       "trackingType": "reps"
@@ -2912,13 +2902,13 @@
       "trackingType": "reps"
     },
     {
-      "id": "ex_5c0EOgxIXCU1zisF",
-      "name": "Reverse Cable Curl",
+      "id": "ex_4EeOT9OId2u2H0lt",
+      "name": "Reverse Crunch",
       "trackingType": "reps"
     },
     {
-      "id": "ex_4EeOT9OId2u2H0lt",
-      "name": "Reverse Crunch",
+      "id": "ex_5c0EOgxIXCU1zisF",
+      "name": "Reverse Curl (Cable)",
       "trackingType": "reps"
     },
     {
@@ -3432,6 +3422,11 @@
       "trackingType": "reps"
     },
     {
+      "id": "ex_QeBzYKyPTiIKXx0s",
+      "name": "Single-Arm Row (Landmine)",
+      "trackingType": "reps"
+    },
+    {
       "id": "ex_yPoEoNe74ehyGwdz",
       "name": "Single-Cone Sprint Drill",
       "trackingType": "reps"
@@ -3439,6 +3434,11 @@
     {
       "id": "ex_LKazMVdwevxzblCZ",
       "name": "Single-Leg Bent-Knee Calf Raise",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_UroxLMM4FeuANrCH",
+      "name": "Single-Leg Deadlift (Kettlebell)",
       "trackingType": "reps"
     },
     {
@@ -3604,11 +3604,6 @@
     {
       "id": "ex_WaKT9gEP9PHWb5xC",
       "name": "Smith Machine Squat",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_mwXzp4XIvXr-ecfj",
-      "name": "Smith Machine Stiff-Legged Deadlift",
       "trackingType": "reps"
     },
     {
@@ -4014,6 +4009,11 @@
     {
       "id": "ex_JVbzkty65VihAmdT",
       "name": "Stiff-Legged Barbell Deadlift",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_mwXzp4XIvXr-ecfj",
+      "name": "Stiff-Legged Deadlift (Smith Machine)",
       "trackingType": "reps"
     },
     {
