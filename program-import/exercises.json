@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T05:28:01.435Z",
+  "generated": "2026-06-16T16:28:17.315Z",
   "exercises": [
     {
       "id": "ex_6eJ-Wt2Cl5kv_yqt",
@@ -407,16 +407,6 @@
       "trackingType": "reps"
     },
     {
-      "id": "ex_cDQ0d_zfE1y8nQSk",
-      "name": "Cable Incline Pushdown",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_anDsouaOkqz3XT4M",
-      "name": "Cable Incline Triceps Extension",
-      "trackingType": "reps"
-    },
-    {
       "id": "ex_cwaNP5uFZJyKEBFl",
       "name": "Cable Internal Rotation",
       "trackingType": "reps"
@@ -429,11 +419,6 @@
     {
       "id": "ex_kTZKllnvrhNLdoeP",
       "name": "Cable Judo Flip",
-      "trackingType": "reps"
-    },
-    {
-      "id": "ex_Cc4HFKKcdHYHXrMw",
-      "name": "Cable Lateral Raise",
       "trackingType": "reps"
     },
     {
@@ -1667,8 +1652,18 @@
       "trackingType": "reps"
     },
     {
+      "id": "ex_cDQ0d_zfE1y8nQSk",
+      "name": "Incline Pushdown (Cable)",
+      "trackingType": "reps"
+    },
+    {
       "id": "ex_3RBKIWPAjK47GwDE",
       "name": "Incline Shoulder Raise (Barbell)",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_anDsouaOkqz3XT4M",
+      "name": "Incline Triceps Extension (Cable)",
       "trackingType": "reps"
     },
     {
@@ -1944,6 +1939,11 @@
     {
       "id": "ex_Z6fBMT5OZrv-GaG0",
       "name": "Lateral Raise - With Bands",
+      "trackingType": "reps"
+    },
+    {
+      "id": "ex_Cc4HFKKcdHYHXrMw",
+      "name": "Lateral Raise (Cable)",
       "trackingType": "reps"
     },
     {
