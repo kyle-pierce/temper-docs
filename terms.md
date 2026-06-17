@@ -1,3 +1,7 @@
+---
+title: Terms of Service
+---
+
 <h1>Terms of Service</h1>
 <p>Last updated: June 17, 2026</p>
 <p>Please read these Terms of Service carefully before using Temper. By accessing or using the Service, You agree to be bound by these Terms.</p>
