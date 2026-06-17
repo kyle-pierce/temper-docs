@@ -22,14 +22,14 @@ The Program Import Format lets you generate a structured workout program with an
 ## Important rules
 
 - Return **only valid JSON**. No markdown fences, no commentary.
-- Include all required fields: `name`, `context`, `description`, `workouts`, `cycle`.
-- The `cycle` array is required. Rest days are objects — `{ "type": "rest" }` — not the string `"Rest"`.
+- For a single-phase program, include top-level `workouts` and `cycle`. For a periodized program, use `phases` instead — never both.
+- The `cycle` array (top-level or per-phase) is required in its context. Rest days are objects — `{ "type": "rest" }` — not the string `"Rest"`.
 - Each exercise must include `exerciseRef` — the Temper exercise catalog ID.
 - Use the catalog's `trackingType` to choose the target field: `reps` for `"reps"` exercises, `durationSeconds` for `"duration"` exercises.
 - Do not include `trackingType` in program JSON; it comes from the exercise catalog.
 - `reps.min` must be less than or equal to `reps.max`.
 - When `setTypes` is provided, its length must equal `sets`.
-- Workout names must be unique. Strings in `cycle` must match a workout name.
+- Workout names must be unique within their scope (top-level or within a phase). Strings in `cycle` must match a workout name in the same scope.
 
 ---
 
@@ -42,15 +42,27 @@ The Program Import Format lets you generate a structured workout program with an
 | `name` | `string` | Yes | Program display name |
 | `context` | `string` | Yes | Context about the user or goals |
 | `description` | `string` | Yes | Short description shown to the user |
-| `workouts` | `array` | Yes | List of workouts (minimum 1) |
-| `cycle` | `array` | Yes | Ordered cycle slots (minimum 1) |
+| `workouts` | `array` | When no `phases` | List of workouts (minimum 1) |
+| `cycle` | `array` | When no `phases` | Ordered cycle slots (minimum 1) |
+| `phases` | `array` | When no `workouts`/`cycle` | Ordered list of program phases (minimum 2) — use for periodized programs |
 | `trainingGuidelines` | `object` | No | Auto-progression, missed-target, and deload policies |
 
 ### Cycle slots
 
-Each entry in `cycle` is one of:
-- A **workout name string** — must match a workout's `name`
+Each entry in `cycle` (top-level or per-phase) is one of:
+- A **workout name string** — must match a workout's `name` within the same scope
 - A **rest day object** — `{ "type": "rest" }`
+
+### Each phase
+
+Used when the program is periodized (e.g. hypertrophy block → strength block). Phases run in order; each phase repeats its cycle `cycleRepetitions` times before advancing.
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `name` | `string` | Yes | Display name (e.g. `"Hypertrophy Block"`) |
+| `cycleRepetitions` | `integer ≥ 1` | Yes | How many times to complete this phase's cycle before advancing to the next |
+| `workouts` | `array` | Yes | Phase-specific workouts — same structure as top-level workouts |
+| `cycle` | `array` | Yes | Phase-specific cycle — strings must match workout names within this phase |
 
 ### Each workout
 
@@ -229,6 +241,84 @@ Avoid these — they are not part of the v1 import format:
 ```
 
 See the [examples directory](examples/) for complete programs.
+
+---
+
+## Phased program example
+
+Use `phases` instead of top-level `workouts` and `cycle` for periodized programs. Each phase has its own workouts, cycle, and repetition count.
+
+```json
+{
+  "name": "Hypertrophy to Strength",
+  "context": "Intermediate lifter, training 4 days per week.",
+  "description": "Two-phase program: 4 weeks of hypertrophy followed by 3 weeks of strength.",
+  "phases": [
+    {
+      "name": "Hypertrophy",
+      "cycleRepetitions": 4,
+      "workouts": [
+        {
+          "name": "Upper",
+          "focus": "upper",
+          "exercises": [
+            {
+              "exerciseRef": "ex_M8-whQhCC2l-pDKA",
+              "sets": 4,
+              "reps": { "min": 8, "max": 12 },
+              "rest": { "workSeconds": 90 }
+            }
+          ]
+        },
+        {
+          "name": "Lower",
+          "focus": "legs",
+          "exercises": [
+            {
+              "exerciseRef": "ex_68cMQ5G3jPG1CpRT",
+              "sets": 4,
+              "reps": { "min": 8, "max": 12 },
+              "rest": { "workSeconds": 120 }
+            }
+          ]
+        }
+      ],
+      "cycle": ["Upper", { "type": "rest" }, "Lower", { "type": "rest" }]
+    },
+    {
+      "name": "Strength",
+      "cycleRepetitions": 3,
+      "workouts": [
+        {
+          "name": "Upper",
+          "focus": "upper",
+          "exercises": [
+            {
+              "exerciseRef": "ex_M8-whQhCC2l-pDKA",
+              "sets": 5,
+              "reps": { "min": 3, "max": 5 },
+              "rest": { "workSeconds": 180 }
+            }
+          ]
+        },
+        {
+          "name": "Lower",
+          "focus": "legs",
+          "exercises": [
+            {
+              "exerciseRef": "ex_68cMQ5G3jPG1CpRT",
+              "sets": 5,
+              "reps": { "min": 3, "max": 5 },
+              "rest": { "workSeconds": 180 }
+            }
+          ]
+        }
+      ],
+      "cycle": ["Upper", { "type": "rest" }, "Lower", { "type": "rest" }]
+    }
+  ]
+}
+```
 
 ---
 

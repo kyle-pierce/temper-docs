@@ -4,8 +4,12 @@
   "title": "Temper Program Import Format v1.0",
   "description": "Schema for importing workout programs into the Temper mobile app.",
   "type": "object",
-  "required": ["name", "context", "description", "workouts", "cycle"],
+  "required": ["name", "context", "description"],
   "additionalProperties": false,
+  "oneOf": [
+    { "required": ["workouts", "cycle"], "not": { "required": ["phases"] } },
+    { "required": ["phases"], "not": { "required": ["workouts", "cycle"] } }
+  ],
   "properties": {
     "name": {
       "type": "string",
@@ -150,6 +154,40 @@
                 "minLength": 1
               }
             }
+          }
+        }
+      }
+    },
+    "phases": {
+      "type": "array",
+      "minItems": 2,
+      "description": "Ordered list of program phases for periodized programs. Use instead of top-level workouts and cycle.",
+      "items": {
+        "type": "object",
+        "required": ["name", "cycleRepetitions", "workouts", "cycle"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Display name of the phase (e.g. \"Hypertrophy Block\")."
+          },
+          "cycleRepetitions": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "How many times to complete this phase's cycle before advancing to the next phase."
+          },
+          "workouts": {
+            "type": "array",
+            "minItems": 1,
+            "description": "Phase-specific workouts. Names must be unique within the phase.",
+            "items": { "$ref": "#/properties/workouts/items" }
+          },
+          "cycle": {
+            "type": "array",
+            "minItems": 1,
+            "description": "Phase-specific cycle. Workout name strings must match a workout name within this phase.",
+            "items": { "$ref": "#/properties/cycle/items" }
           }
         }
       }
